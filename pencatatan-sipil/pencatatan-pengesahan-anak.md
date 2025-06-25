@@ -8,13 +8,11 @@ icon: pen-to-square
 
 <summary>Bagaimana pencatatan pengesahan anak di Indonesia dan di luar negeri?</summary>
 
-Berdasarkan penjelasan Pasal 50 ayat (1)&#x20;Undang-Undang Nomor 24 Tahun 2013 diatur bahwa Yang dimaksud dengan "Pengesahan Anak" merupakan pengesahan status seorang anak yang lahir dari perkawinan yang telah sah menurut hukum agama, pada saat pencatatan perkawinan dari kedua orang tua anak tersebut telah sah menurut hukum\
-negara.
+Berdasarkan penjelasan Pasal 50 ayat (1)&#x20;Undang-Undang Nomor 24 Tahun 2013 diatur bahwa Yang dimaksud dengan "Pengesahan Anak" merupakan pengesahan status seorang anak yang lahir dari perkawinan yang telah sah menurut hukum agama, pada saat pencatatan perkawinan dari kedua orang tua anak tersebut telah sah menurut hukum&#x20;negara.
 
 **a. Pencatatan pengesahan anak di Indonesia.**
 
-Setiap pengesahan anak wajib dilaporkan&#x20;oleh orang tua kepada Instansi Pelaksana paling lambat 30 (tiga puluh) hari sejak ayah dan ibu dari anak yang bersangkutan melakukan perkawinan dan mendapatkan akta perkawinan. Pengesahan anak hanya berlaku bagi anak yang orang tuanya telah melaksanakan perkawinan sah menurut\
-hukum agama dan hukum negara.
+Setiap pengesahan anak wajib dilaporkan&#x20;oleh orang tua kepada Instansi Pelaksana paling lambat 30 (tiga puluh) hari sejak ayah dan ibu dari anak yang bersangkutan melakukan perkawinan dan mendapatkan akta perkawinan. Pengesahan anak hanya berlaku bagi anak yang orang tuanya telah melaksanakan perkawinan sah menurut&#x20;hukum agama dan hukum negara.
 
 Persyaratan&#x20;pencatatan pengesahan anak dimaksud berupa:
 
@@ -26,8 +24,7 @@ Persyaratan&#x20;pencatatan pengesahan anak dimaksud berupa:
 
 Disdukcapil Kabupaten/Kota atau UPT Disdukcapil&#x20;Kabupaten/Kota mencatat dalam register akta&#x20;pengesahan anak dan menerbitkan kutipan akta pengesahan anak, membuat catatan pinggir dalam register akta kelahiran dan kutipan akta kelahiran serta kutipan akta pengakuan anak dan kutipan akta kelahiran yang telah diberikan&#x20;catatan pinggir disampaikan kepada Pemohon.
 
-**b. Pencatatan pengesahan anak Penduduk yang&#x20;dilahirkan**\
-**sebelum orang&#x20;tuanya melaksanakan perkawinan sah menurut hukum agama atau kepercayaan terhadap Tuhan Yang Maha Esa dilakukan berdasarkan penetapan&#x20;pengadilan.**
+**b. Pencatatan pengesahan anak Penduduk yang&#x20;dilahirkan&#x20;sebelum orang&#x20;tuanya melaksanakan perkawinan sah menurut hukum agama atau kepercayaan terhadap Tuhan Yang Maha Esa dilakukan berdasarkan penetapan&#x20;pengadilan.**
 
 Persyaratan pencatatan pengesahan anak&#x20;dimaksud berupa:
 

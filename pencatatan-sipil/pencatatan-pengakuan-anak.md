@@ -58,8 +58,7 @@ Berdasarkan penjelasan Pasal 49 Undang&#x20;Undang Nomor 24 Tahun 2013 diatur b
 * Pasal 70, Pasal 71, Pasal 72, Pasal 73 dan Pasal 74  &#x20;Peraturan Menteri Dalam Negeri Nomor 108 Tahun  &#x20;2019 tentang Peraturan Pelaksanaan Peraturan Presiden Nomor 96 Tahun 2018 tentang Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil. ([link](https://peraturan.bpk.go.id/Details/138582/permendagri-no-108-tahun-2019))
 * Peraturan Menteri Dalam Negeri Nomor 109 Tahun  &#x20;2019 tentang Formulir dan Buku Yang Digunakan Dalam Administrasi Kependudukan. ([link](https://peraturan.bpk.go.id/Details/138575/permendagri-no-109-tahun-2019))
 * Keputusan Menteri Dalam Negeri Nomor 400.8.2  5484.Dukcapil Tahun 2022 tentang Petunjuk Teknis Pelayanan Pencatatan Sipil.&#x20;
-* Surat Dirjen Dukcapil yang ditujukan kepada Kepala  &#x20;Dinas Dukcapil di Seluruh Indonesia Nomor  &#x20;470/13287/Dukcapil tanggal 28 September 2021 hal  &#x20;Jenis  \
-  Layanan, Persyaratan  &#x20;dan  &#x20;Penjelasan Pendaftaran Penduduk dan Pencatatan Sipil.
+* Surat Dirjen Dukcapil yang ditujukan kepada Kepala  &#x20;Dinas Dukcapil di Seluruh Indonesia Nomor  &#x20;470/13287/Dukcapil tanggal 28 September 2021 hal  &#x20;Jenis  &#x20;Layanan, Persyaratan  &#x20;dan  &#x20;Penjelasan Pendaftaran Penduduk dan Pencatatan Sipil.
 
 {% hint style="success" %}
 Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB

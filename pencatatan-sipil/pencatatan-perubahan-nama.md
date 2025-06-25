@@ -41,8 +41,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 <summary>Bagaimana pencatatan perubahan nama dalam akta<br>kelahiran orang asing?</summary>
 
 a. Berdasarkan Pasal 52 Undang-Undang Nomor 23&#x20;Tahun 2006, diatur bahwa pencatatan perubahan nama dilaksanakan berdasarkan Penetapan Pengadilan Negeri, selanjutnya Pejabat Pencatatan Sipil membuat catatan pinggir pada register akta pencatatan sipil dan kutipan akta pencatatan sipil.\
-b. Merujuk ketentuan tersebut maka pencatatan&#x20;perubahan\
-nama berdasarkan&#x20;Penetapan&#x20;Pengadilan Negeri Disdukcapil Kabupaten/Kota menerbitkan surat keterangan pelaporan perubahan nama sebagai pengganti catatan pinggir.
+b. Merujuk ketentuan tersebut maka pencatatan&#x20;perubahan&#x20;nama berdasarkan&#x20;Penetapan&#x20;Pengadilan Negeri Disdukcapil Kabupaten/Kota menerbitkan surat keterangan pelaporan perubahan nama sebagai pengganti catatan pinggir.
 
 Selanjutnya&#x20;Disdukcapil&#x20;Kabupaten/Kota&#x20;memberitahukan secara tertulis hal pencatatan perubahan&#x20;nama tersebut\
 kepada Kantor&#x20;Perwakilan/Kedutaan Besar Republik Jerman di Jakarta.
@@ -90,8 +89,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana catatan pinggir perubahan nama dan<br>perubahan status kewaganegaraan?</summary>
 
-a. Berdasarkan Pasal 52, Pasal 53 dan Pasal 54&#x20;Undang-Undang Nomor 23 Tahun 2006, diatur bahwa perubahan nama dan perubahan status kewarganegaraan dari WNA menjadi WNI atau dari WNI menjadi WNA wajib dilaporkan kepada Instansi Pelaksana untuk dibuatkan catatan pinggir pada register akta pencatatan sipil dan kutipan akta\
-pencatatan sipil.\
+a. Berdasarkan Pasal 52, Pasal 53 dan Pasal 54&#x20;Undang-Undang Nomor 23 Tahun 2006, diatur bahwa perubahan nama dan perubahan status kewarganegaraan dari WNA menjadi WNI atau dari WNI menjadi WNA wajib dilaporkan kepada Instansi Pelaksana untuk dibuatkan catatan pinggir pada register akta pencatatan sipil dan kutipan akta&#x20;pencatatan sipil.\
 b. Pasal 42 Undang-Undang Nomor 12 Tahun 2006, diatur bahwa WNI yang bertempat tinggal di luar wilayah negara Republik Indonesia selama 5 (lima) tahun atau lebih tidak melaporkan diri kepada Perwakilan Republik Indonesia dan telah kehilangan Kewarganegaraan Republik Indonesia sebelum Undang-Undang ini diundangkan dapat memperoleh kembali kewarganegaraannya dengan mendaftarkan diri di Perwakilan Republik Indonesia dalam waktu paling lambat 3 (tiga) tahun sejak Undang-Undang\
 ini diundangkan sepanjang tidak mengakibatkan kewarganegaraan ganda.
 

@@ -8,8 +8,7 @@ icon: children
 
 <summary>Bagaimana pencatatan pengangkatan anak di Indonesia dan di luar negeri?</summary>
 
-Berdasarkan penjelasan Pasal 49 Undang&#x20;Undang Nomor 23 Tahun 2006 diatur bahwa yang dimaksud dengan “Pengangkatan Anak” adalah perbuatan hukum untuk mengalihkan hak anak dari lingkungan kekuasaan keluarga orang tua, wali yang sah, atau orang lain yang bertanggung jawab atas perawatan, pendidikan dan membesarkan anak\
-tersebut ke dalam lingkungan keluarga orang tua&#x20;angkatnya berdasarkan putusan atau penetapan pengadilan.
+Berdasarkan penjelasan Pasal 49 Undang&#x20;Undang Nomor 23 Tahun 2006 diatur bahwa yang dimaksud dengan “Pengangkatan Anak” adalah perbuatan hukum untuk mengalihkan hak anak dari lingkungan kekuasaan keluarga orang tua, wali yang sah, atau orang lain yang bertanggung jawab atas perawatan, pendidikan dan membesarkan anak&#x20;tersebut ke dalam lingkungan keluarga orang tua&#x20;angkatnya berdasarkan putusan atau penetapan pengadilan.
 
 Pencatatan Pengangkatan Anak dilakukan di Indonesia dan pencatatan pengangkatan anak Warga Negara Asing di luar negeri:
 
@@ -53,8 +52,7 @@ Persyaratan dalam hal negara setempat tidak&#x20;menyelenggarakan pencatatan pe
 4. Memperoleh   &#x20;persetujuan tertulis   &#x20;Pemerintah Republik Indonesia; dan
 5. Memperoleh persetujuan tertulis   &#x20;pemerintah negara asal anak.
 
-Tata cara pelaporan pencatatan pengangkatan&#x20;anak warga negara asing oleh WNI di luar negeri yang dilakukan pada instansi yang berwenang di Negara setempat, dan dalam hal negara setempat&#x20;tidak&#x20;menyelenggarakan pencatatan\
-pengangkatan anak warga negara asing oleh WNI&#x20;sebagai berikut:
+Tata cara pelaporan pencatatan pengangkatan&#x20;anak warga negara asing oleh WNI di luar negeri yang dilakukan pada instansi yang berwenang di Negara setempat, dan dalam hal negara setempat&#x20;tidak&#x20;menyelenggarakan pencatatan&#x20;pengangkatan anak warga negara asing oleh WNI&#x20;sebagai berikut:
 
 1. Pemohon mengisi dan menandatangani   &#x20;formulir pelaporan pencatatan sipil di luar wilayah NKRI dengan kode F-2.02 serta menyerahkan persyaratan;
 2. Pejabat pada Perwakilan RI melakukan   &#x20;verifikasi   \
@@ -111,8 +109,7 @@ b. Merujuk Pasal 47 ayat (2) Undang-Undang Nomor&#x20;23 Tahun 2006 yang menyat
 1. Pencatatan pengangkatan anak harus   &#x20;dilaporkan ke Disdukcapil di tempat penduduk memiliki domisili, sesuai dengan amanat Pasal 102 huruf (b) Undang-Undang Nomor 24 Tahun 2013.
 2. Disdukcapil Kabupaten/Kota di tempat   &#x20;penduduk berdomisili akan melakukan pencatatan pengangkatan   &#x20;anak dan memberikan catatan pinggir pada Kutipan   \
    Akta Kelahiran yang relevan.
-3. Disdukcapil di tempat penduduk berdomisili   &#x20;kemudian harus memberitahukan secara tertulis kepada Disdukcapil di tempat yang menerbitkan Kutipan Akta Kelahiran. Laporan ini harus dilengkapi dengan fotokopi Kutipan Akta Kelahiran yang telah diberi catatan   \
-   pinggir, serta fotokopi salinan penetapan pengadilan sebagai dasar untuk memberikan catatan pinggir di Register Akta Kelahiran di tempat yang menerbitkan Kutipan Akta Kelahiran.
+3. Disdukcapil di tempat penduduk berdomisili   &#x20;kemudian harus memberitahukan secara tertulis kepada Disdukcapil di tempat yang menerbitkan Kutipan Akta Kelahiran. Laporan ini harus dilengkapi dengan fotokopi Kutipan Akta Kelahiran yang telah diberi catatan   &#x20;pinggir, serta fotokopi salinan penetapan pengadilan sebagai dasar untuk memberikan catatan pinggir di Register Akta Kelahiran di tempat yang menerbitkan Kutipan Akta Kelahiran.
 
 **Sumber rujukan:**&#x20;
 
