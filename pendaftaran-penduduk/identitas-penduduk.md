@@ -45,7 +45,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <details>
 
-<summary>Bagaimana bila NIK yang tercantum pada KTPel berbeda dengan NIK yang tercantum pada dokumen kependudukan dan/atau dokumen identitas lainnya, NIK yang berlaku NIK yang mana?</summary>
+<summary>Bagaimana bila NIK yang tercantum pada KTP-el berbeda dengan NIK yang tercantum pada dokumen kependudukan dan/atau dokumen identitas lainnya, NIK yang berlaku NIK yang mana?</summary>
 
 Berdasarkan ketentuan Pasal 33 Peraturan Pemerintah Nomor 40 Tahun 2019, bahwa dalam hal NIK yang tercantum pada KTPel berbeda dengan NIK yang tercantum pada Dokumen kependudukan dan/atau dokumen identitas lainnya yang diterbitkan oleh Kementerian/Lembaga atau badan hukum Indonesia, maka NIK yang berlaku adalah NIK yang tercantum pada KTPel.
 
@@ -79,8 +79,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Apakah perubahan data penduduk calon jamaah haji yang tidak sesuai di BPIH (Biaya Penyelenggaraan Ibadah Haji) dengan dokumen kependudukan yang dimiliki saat ini perlu dilakukan, dan apa alasannya?</summary>
 
-Tidak perlu mengubah data pada dokumen kependudukan calon jamaah haji. Data yang\
-tercantum di BPIH (Biaya Penyelenggaraan Ibadah Haji) hanya digunakan untuk kepentingan haji dan tidak mempengaruhi dokumen kependudukan resmi yang dimiliki. Oleh karena itu, perubahan data pada dokumen kependudukan tidak diperlukan untuk tujuan ibadah haji.
+Tidak perlu mengubah data pada dokumen kependudukan calon jamaah haji. Data yang tercantum di BPIH (Biaya Penyelenggaraan Ibadah Haji) hanya digunakan untuk kepentingan haji dan tidak mempengaruhi dokumen kependudukan resmi yang dimiliki. Oleh karena itu, perubahan data pada dokumen kependudukan tidak diperlukan untuk tujuan ibadah haji.
 
 **Sumber rujukan:**
 

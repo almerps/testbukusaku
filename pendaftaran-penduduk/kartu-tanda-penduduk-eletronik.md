@@ -6,17 +6,16 @@ icon: id-card
 
 <details>
 
-<summary>Bagaimana penerbitan KTPel pertama kali bagi WNI?</summary>
+<summary>Bagaimana penerbitan KTP-el pertama kali bagi WNI?</summary>
 
-Berdasarkan Pasal 15 Peraturan Presiden Nomor 96 Tahun 2018, penerbitan KTPel bagi\
+Berdasarkan Pasal 15 Peraturan Presiden Nomor 96 Tahun 2018, penerbitan KTP-el bagi\
 penduduk WNI harus memenuhi persyaratan:\
 a. Telah berusia 17 tahun, sudah kawin atau pernah kawin; dan\
 b. Fotokopi KK.
 
-\
 Tata cara:\
 a. Penduduk mengisi Formulir Pendaftaran Peristiwa Kependudukan (F-1.02) dan melampirkan persyaratan;\
-b. Dinas menerbitkan KTPel.
+b. Dinas menerbitkan KTP-el.
 
 **Sumber rujukan:**
 
@@ -32,14 +31,13 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <details>
 
-<summary>Apakah Orang Asing boleh memiliki KTPel?</summary>
+<summary>Apakah Orang Asing boleh memiliki KTP-el?</summary>
 
 Berdasarkan Pasal 16 Peraturan Presiden Nomor 96 Tahun 2018, orang asing boleh memiliki KTP-el jika memiliki Izin Tinggal tetap dan terdaftar sebagai penduduk, dengan persyaratan:\
 a. Telah berusia 17 tahun, sudah kawin atau pernah kawin;\
 b. Fotokopi KK; dan\
 c. Fotokopi dokumen perjalanan dan fotokopi Kartu Izin Tinggal Tetap.
 
-\
 Tata cara:\
 a. Penduduk mengisi Formulir Pendaftaran Peristiwa Kependudukan (F-1.02) dan melampirkan persyaratan; dan\
 b. Dinas menerbitkan KTP-el.
@@ -58,9 +56,9 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <details>
 
-<summary>Apakah alamat pada KTPel perlu dilakukan penyesuaian apabila terjadi pemekaran suatu wilayah?</summary>
+<summary>Apakah alamat pada KTP-el perlu dilakukan penyesuaian apabila terjadi pemekaran suatu wilayah?</summary>
 
-Berdasarkan ketentuan Pasal 64 Ayat 8 UndangUndang Nomor 24 Tahun 2013, bahwa setiap perubahan elemen data yang terdapat di dalam KTPel, penduduk pemilik KTPel wajib melaporkan ke Disdukcapil Kabupaten/Kota untuk dilakukan perubahan atau penggantian dokumen kependudukan, termasuk juga jika terjadi pemekaran wilayah yang berdampak pada perubahan alamat pada dokumen kependudukan (KK, KTPel dan KIA).
+Berdasarkan ketentuan Pasal 64 Ayat 8 UndangUndang Nomor 24 Tahun 2013, bahwa setiap perubahan elemen data yang terdapat di dalam KTP-el, penduduk pemilik KTP-el wajib melaporkan ke Disdukcapil Kabupaten/Kota untuk dilakukan perubahan atau penggantian dokumen kependudukan, termasuk juga jika terjadi pemekaran wilayah yang berdampak pada perubahan alamat pada dokumen kependudukan (KK, KTP-el dan KIA).
 
 **Sumber rujukan:**
 
@@ -76,7 +74,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <details>
 
-<summary>Apakah penerbitan KTPel dapat dilakukan di luar Kabupaten/Kota alamat domisili yang tertera dalam Kartu Keluarga?</summary>
+<summary>Apakah penerbitan KTP-el dapat dilakukan di luar Kabupaten/Kota alamat domisili yang tertera dalam Kartu Keluarga?</summary>
 
 Berdasarkan ketentuan Pasal 15 Peraturan Menteri Dalam Negeri Nomor 8 Tahun 2016, bahwa penerbitan KTP-el bagi penduduk di luar domisili dapat dilakukan dengan ketentuan:\
 a. Telah melakukan perekaman data;\
@@ -101,7 +99,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <details>
 
-<summary>Apa perbedaan antara KTPel WNI dan KTPel WNA?</summary>
+<summary>Apa perbedaan antara KTP-el WNI dan KTP-el WNA?</summary>
 
 Perbedaan:
 
