@@ -82,7 +82,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <details>
 
-<summary>Bagaimana cara pembatalan sebagai penduduk<br>nonpermanen?</summary>
+<summary>Bagaimana cara pembatalan sebagai penduduk nonpermanen?</summary>
 
 a. Secara web/daring/online/mandiri:&#x20;                                                                                            Pembatalan dapat dilakukan melalui&#x20;https://pendudunonpermanen.kemendagri.go.id/.\
 Penduduk memilih menu Riwayat kemudian pilih&#x20;kolom Aksi untuk melakukan pembatalan. Jika&#x20;permohonan telah sukses akan mendapatkan&#x20;notifikasi pemberitahuan melalui email.
