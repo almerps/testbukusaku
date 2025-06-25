@@ -24,13 +24,13 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <details>
 
-<summary>Apakah penduduk yang telah memiliki KTPel dan ingin tinggal seorang diri dapat diterbitkan Kartu Keluarga?</summary>
+<summary>Apakah penduduk yang telah memiliki KTP-el dan ingin tinggal seorang diri dapat diterbitkan Kartu Keluarga?</summary>
 
 Berdasarkan penjelasan ketentuan Pasal 61 ayat (1) pada lampiran Undang-Undang Nomor 23 Tahun 2006 menyebutkan bahwa yang dimaksud “dengan Kepala Keluarga” adalah:\
 a. orang yang bertempat tinggal dengan orang lain, baik mempunyai hubungan darah maupun tidak, yang bertanggung jawab terhadap keluarga;\
 b. orang yang bertempat tinggal seorang diri; atau\
-c. kepala kesatrian, kepala asrama, kepala rumah yatim piatu, dan lain-lain tempat beberapa orang tinggal bersama-sama.\
-\
+c. kepala kesatrian, kepala asrama, kepala rumah yatim piatu, dan lain-lain tempat beberapa orang tinggal bersama-sama.
+
 Setiap kepala keluarga wajib memiliki KK, meskipun kepala keluarga tersebut masih menumpang di rumah orang tuanya karena pada prinsipnya dalam satu alamat rumah boleh terdapat lebih dari satu KK. Dalam hal ini penduduk yang telah memilki KTP-el yang bertempat tinggal seorang diri dapat diterbitkan Kartu Keluarga dengan status kepala keluarga.
 
 **Sumber rujukan:**
@@ -70,8 +70,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana cara melakukan pencatatan jenis pekerjaan PPPK pada Kartu Keluarga, mengingat bahwa saat ini belum ada kolom khusus untuk jenis pekerjaan PPPK pada formulir biodata keluarga F-1.01?</summary>
 
-Berdasarkan lampiran Peraturan Menteri Dalam Negeri Nomor 109 Tahun 2019, pada formulir Biodata Keluarga (F-1.01) khususnya kolom Jenis pekerjaan terdapat 99 (sembilan puluh sembilan) jenis pekerjaan, jenis pekerjaan PPPK belum terakomodir dalam\
-formulir Biodata Keluarga (F-1.01).
+Berdasarkan lampiran Peraturan Menteri Dalam Negeri Nomor 109 Tahun 2019, pada formulir Biodata Keluarga (F-1.01) khususnya kolom Jenis pekerjaan terdapat 99 (sembilan puluh sembilan) jenis pekerjaan, jenis pekerjaan PPPK belum terakomodir dalam formulir Biodata Keluarga (F-1.01).
 
 Sehubungan dengan hal tersebut, untuk pekerjaan PPPK menggunakan jenis pekerjaan lainnya pada saat pengisian formulir Biodata Keluarga (F-1.01).
 
@@ -91,8 +90,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana proses pemindahan Kartu Keluarga bagi anggota yang meninggal agar ahli waris tetap dapat menerima Bansos?</summary>
 
-Untuk memastikan ahli waris tetap dapat menerima bantuan sosial (Bansos) setelah anggota\
-keluarga meninggal, langkah pertama yang harus dilakukan adalah menerbitkan akta kematian untuk penduduk yang telah meninggal tersebut. Setelah akta kematian diterbitkan, informasi tentang kematian tersebut harus diperbarui dalam Kartu Keluarga (KK). Proses ini dilakukan dengan melaporkan kematian ke Disdukcapil tempat domisili, yang kemudian akan memperbarui data dalam KK dan memastikan bahwa hak ahli waris untuk menerima Bansos tetap terjamin.
+Untuk memastikan ahli waris tetap dapat menerima bantuan sosial (Bansos) setelah anggota keluarga meninggal, langkah pertama yang harus dilakukan adalah menerbitkan akta kematian untuk penduduk yang telah meninggal tersebut. Setelah akta kematian diterbitkan, informasi tentang kematian tersebut harus diperbarui dalam Kartu Keluarga (KK). Proses ini dilakukan dengan melaporkan kematian ke Disdukcapil tempat domisili, yang kemudian akan memperbarui data dalam KK dan memastikan bahwa hak ahli waris untuk menerima Bansos tetap terjamin.
 
 **Sumber rujukan:**
 
@@ -138,8 +136,7 @@ a. Cetak mandiri KK:
 4. Masukkan PIN.
 5. Klik tombol “Bagikan”.
 6. Pindai QR Code menggunakan mesin ADM.
-7. Tunggu beberapa saat hingga dokumen selesai\
-   dicetak.
+7. Tunggu beberapa saat hingga dokumen selesai dicetak.
 
 b. Cetak mandiri KIA:
 
@@ -151,8 +148,7 @@ b. Cetak mandiri KIA:
 6. Masukkan PIN.
 7. Klik tombol “Bagikan”.
 8. Pindai QR Code menggunakan mesin ADM.
-9. Tunggu beberapa saat hingga dokumen selesai\
-   dicetak.
+9. Tunggu beberapa saat hingga dokumen selesai dicetak.
 
 Dengan mengikuti langkah-langkah tersebut dapat mencetak dokumen KK dan KIA secara mandiri menggunakan ADM dengan bantuan aplikasi IKD.
 

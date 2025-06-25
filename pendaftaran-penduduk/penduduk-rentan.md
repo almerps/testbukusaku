@@ -8,7 +8,8 @@ icon: house-crack
 
 <summary>Bagaimana penerbitan dokumen kependudukan bagi penduduk korban bencana alam/bencana sosial?</summary>
 
-Berdasarkan Bab III Pasal 9 dan Pasal 11 Peraturan Menteri Dalam Negeri Nomor 96 tahun 2019, penerbitan dokumen kependudukan bagi korban bencana alam/bencana sosial dilaukan dengan tatacara sebagai berikut:\
+Berdasarkan Bab III Pasal 9 dan Pasal 11 Peraturan Menteri Dalam Negeri Nomor 96 tahun 2019, penerbitan dokumen kependudukan bagi korban bencana alam/bencana sosial dilakukan dengan tatacara sebagai berikut:
+
 a. Petugas Disdukcapil melakukan pengecekan bimetrik korban bencana alam/bencana sosial;\
 b. Bagi penduduk yang sudah tercantum dalam basis data kependudukan mengisi/diisikan dalam formulir pendaftaran peristiwa kependudukan dengan kode (F-1.02) atau formulir pendataan rentan adminduk;\
 c. Penduduk mengisi atau diisikan formulir biodata keluarga dengan kode (F-1.01) apabila belum masuk dalam basis data kependudukan;\

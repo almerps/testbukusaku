@@ -79,8 +79,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 Berdasarkan ketentuan Pasal 15 Peraturan Menteri Dalam Negeri Nomor 8 Tahun 2016, bahwa penerbitan KTP-el bagi penduduk di luar domisili dapat dilakukan dengan ketentuan:\
 a. Telah melakukan perekaman data;\
 b. Kehilangan KTP-el di luar domisili; dan\
-c. Rusak KTP-el di luar domisili.\
-
+c. Rusak KTP-el di luar domisili.
 
 Catatan:\
 Hal tersebut dapat dilakukan apabila tidak terdapat perubahan elemen data kependudukan.
@@ -103,10 +102,10 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 Perbedaan:
 
-1. KTPel bagi WNI berwarna biru gradasi sedangkan bagi WNA berwarna oranye gradasi.
-2. KTPel untuk WNI ditulis berlaku seumur hidup sedangkan KTPel untuk WNA terdapat masa berlakunya sesuai dengan izin tinggal tetap yang diterbitkan Direktorat Jenderal Imigrasi Kementerian Hukum dan HAM.
-3. Seluruh elemen data KTPel untuk WNI ditulis dalam Bahasa Indonesia sedangkan beberapa elemen data yang dimuat di dalam KTPel untuk WNA seperti jenis kelamin, agama, status perkawinan, pekerjaan, ditulis dalam Bahasa Inggris.
-4. Elemen data Kewarganegaraan untuk KTP-el WNI diisi Indonesia, sedangkan untuk KTPel WNA diisi sesuai dengan Kewarganegaraan masing-masing.
+1. KTP-el bagi WNI berwarna biru gradasi sedangkan bagi WNA berwarna oranye gradasi.
+2. KTP-el untuk WNI ditulis berlaku seumur hidup sedangkan KTP-el untuk WNA terdapat masa berlakunya sesuai dengan izin tinggal tetap yang diterbitkan Direktorat Jenderal Imigrasi Kementerian Hukum dan HAM.
+3. Seluruh elemen data KTP-el untuk WNI ditulis dalam Bahasa Indonesia sedangkan beberapa elemen data yang dimuat di dalam KTPel untuk WNA seperti jenis kelamin, agama, status perkawinan, pekerjaan, ditulis dalam Bahasa Inggris.
+4. Elemen data Kewarganegaraan untuk KTP-el WNI diisi Indonesia, sedangkan untuk KTP-el WNA diisi sesuai dengan Kewarganegaraan masing-masing.
 
 **Sumber rujukan:**
 
@@ -125,10 +124,10 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Apakah pas foto pada KTP-el dapat diganti?</summary>
 
-Berdasarkan ketentuan Pasal 13 Peraturan Menteri Dalam Negeri Nomor 74 Tahun 2015, bahwa perubahan elemen data pas foto dilakukan apabila penduduk mengalami perubahan fisik secara permanen atau adanya kerusakan fisik KTPel dilakukan dengan cara:\
+Berdasarkan ketentuan Pasal 13 Peraturan Menteri Dalam Negeri Nomor 74 Tahun 2015, bahwa perubahan elemen data pas foto dilakukan apabila penduduk mengalami perubahan fisik secara permanen atau adanya kerusakan fisik KTP-el dilakukan dengan cara:\
 a. Mengajukan permohonan perubahan kepada Disdukcapil Kabupaten/Kota;\
 b. Pencatatan perubahan nama melalui SIAK; dan\
-c. Perubahan elemen data pas foto pada biodata penduduk sebagai dasar penerbitan KTPel yang baru.
+c. Perubahan elemen data pas foto pada biodata penduduk sebagai dasar penerbitan KTP-el yang baru.
 
 **Sumber rujukan:**
 
@@ -144,27 +143,9 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <details>
 
-<summary>Bagaimana cara agar masyarakat tidak berulang kali mencetak KTPel dengan alasan hilang, padahal kenyataannya digunakan untuk pinjaman online?</summary>
+<summary>Bagaimana cara agar masyarakat tidak berulang kali mencetak KTP-el dengan alasan hilang, padahal kenyataannya digunakan untuk pinjaman online?</summary>
 
-Untuk mencegah pencetakan ulang KTPel yang berulang kali dengan alasan hilang, setiap permohonan pencetakan ulang harus disertai dengan Surat Keterangan Kehilangan dari Kepolisian. Dengan adanya surat keterangan ini, proses pencetakan ulang KTP-el akan lebih terkontrol dan hanya dilakukan jika benar-benar diperlukan.
-
-**Sumber rujukan:**
-
-Rapat Koordinasi Nasional Kependudukan dan Pencatatan Sipil Tahun 2024, Batam, 27 s.d. 29 Februari 2024.
-
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
-</details>
-
-
-
-<details>
-
-<summary>Bagaimana jika ada penduduk datang ke Disdukcapil mengeluhkan bahwa wajahnya di<br>KTPel tidak sama menurut pihak bank, namun bank tidak memberikan penjelasan tertulis kepada Disdukcapil tentang penolakan transaksi tersebut? Apakah harus mengganti foto KTPel? Bagaimana jika banyak orang yang ingin mengganti foto KTPel karena operasi plastik atau wajah yang bermake-up? Apakah penggantian foto memerlukan blangko KTPel baru?</summary>
-
-Sebaiknya perbankan juga melakukan verifikasi menggunakan card reader dan Perjanjian Kerja Sama (PKS) dengan Ditjen Dukcapil, tidak hanya melalui verifikasi fisik KTPel. Penduduk dapat mengganti foto KTP untuk keperluan khusus, misalnya perubahan penampilan yang signifikan seperti operasi plastik atau mengenakan jilbab. Penggantian foto KTPel akan memerlukan blangko KTPel baru untuk memperbarui data visual pada dokumen resmi tersebut.
+Untuk mencegah pencetakan ulang KTP-el yang berulang kali dengan alasan hilang, setiap permohonan pencetakan ulang harus disertai dengan Surat Keterangan Kehilangan dari Kepolisian. Dengan adanya surat keterangan ini, proses pencetakan ulang KTP-el akan lebih terkontrol dan hanya dilakukan jika benar-benar diperlukan.
 
 **Sumber rujukan:**
 
@@ -180,13 +161,31 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <details>
 
-<summary>Mengapa proses pengadaan blangko Kartu Tanda Penduduk Elektronik (KTPel) tidak lagi diserahkan kepada kabupaten/kota seperti yang dilakukan sebelumnya?</summary>
+<summary>Bagaimana jika ada penduduk datang ke Disdukcapil mengeluhkan bahwa wajahnya di<br>KTP-el tidak sama menurut pihak bank, namun bank tidak memberikan penjelasan tertulis kepada Disdukcapil tentang penolakan transaksi tersebut? Apakah harus mengganti foto KTP-el? Bagaimana jika banyak orang yang ingin mengganti foto KTP-el karena operasi plastik atau wajah yang bermake-up? Apakah penggantian foto memerlukan blangko KTP-el baru?</summary>
 
-Proses pengadaan blangko KTPel tidak diserahkan kepada kabupaten/kota karena:\
-a. Untuk menjaga keseragaman spesifikasi blangko, sehingga setiap KTPel memiliki standar yang sama dalam hal kualitas dan keamanan.\
-b. Untuk memastikan keamanan data KTPel elektronik yang tercetak di dalamnya.
+Sebaiknya perbankan juga melakukan verifikasi menggunakan card reader dan Perjanjian Kerja Sama (PKS) dengan Ditjen Dukcapil, tidak hanya melalui verifikasi fisik KTP-el. Penduduk dapat mengganti foto KTP untuk keperluan khusus, misalnya perubahan penampilan yang signifikan seperti operasi plastik atau mengenakan jilbab. Penggantian foto KTP-el akan memerlukan blangko KTP-el baru untuk memperbarui data visual pada dokumen resmi tersebut.
 
-Ketentuan ini sesuai dengan Undang-Undang 23 Tahun 2006 Pasal 5 huruf f, di mana pemerintah (Kementerian Dalam Negeri) memiliki kewenangan dalam pencetakan, penerbitan, dan distribusi blangko dokumen kependudukan. Dengan demikian, pengadaan blangko KTPel dipegang oleh pemerintah pusat untuk memastikan standar keamanan dan keseragaman yang diperlukan dalam dokumen kependudukan.
+**Sumber rujukan:**
+
+Rapat Koordinasi Nasional Kependudukan dan Pencatatan Sipil Tahun 2024, Batam, 27 s.d. 29 Februari 2024.
+
+{% hint style="success" %}
+Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
+{% endhint %}
+
+</details>
+
+
+
+<details>
+
+<summary>Mengapa proses pengadaan blangko Kartu Tanda Penduduk Elektronik (KTP-el) tidak lagi diserahkan kepada kabupaten/kota seperti yang dilakukan sebelumnya?</summary>
+
+Proses pengadaan blangko KTP-el tidak diserahkan kepada kabupaten/kota karena:\
+a. Untuk menjaga keseragaman spesifikasi blangko, sehingga setiap KTP-el memiliki standar yang sama dalam hal kualitas dan keamanan.\
+b. Untuk memastikan keamanan data KTP-el elektronik yang tercetak di dalamnya.
+
+Ketentuan ini sesuai dengan Undang-Undang 23 Tahun 2006 Pasal 5 huruf f, di mana pemerintah (Kementerian Dalam Negeri) memiliki kewenangan dalam pencetakan, penerbitan, dan distribusi blangko dokumen kependudukan. Dengan demikian, pengadaan blangko KTP-el dipegang oleh pemerintah pusat untuk memastikan standar keamanan dan keseragaman yang diperlukan dalam dokumen kependudukan.
 
 **Sumber rujukan:**
 

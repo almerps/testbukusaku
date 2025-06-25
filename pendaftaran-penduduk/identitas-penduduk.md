@@ -47,7 +47,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana bila NIK yang tercantum pada KTP-el berbeda dengan NIK yang tercantum pada dokumen kependudukan dan/atau dokumen identitas lainnya, NIK yang berlaku NIK yang mana?</summary>
 
-Berdasarkan ketentuan Pasal 33 Peraturan Pemerintah Nomor 40 Tahun 2019, bahwa dalam hal NIK yang tercantum pada KTPel berbeda dengan NIK yang tercantum pada Dokumen kependudukan dan/atau dokumen identitas lainnya yang diterbitkan oleh Kementerian/Lembaga atau badan hukum Indonesia, maka NIK yang berlaku adalah NIK yang tercantum pada KTPel.
+Berdasarkan ketentuan Pasal 33 Peraturan Pemerintah Nomor 40 Tahun 2019, bahwa dalam hal NIK yang tercantum pada KTP-el berbeda dengan NIK yang tercantum pada Dokumen kependudukan dan/atau dokumen identitas lainnya yang diterbitkan oleh Kementerian/Lembaga atau badan hukum Indonesia, maka NIK yang berlaku adalah NIK yang tercantum pada KTP-el.
 
 **Sumber rujukan:**
 
