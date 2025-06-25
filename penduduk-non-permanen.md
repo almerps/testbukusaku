@@ -6,7 +6,7 @@ icon: school
 
 <details>
 
-<summary>Bagaimana cara mendaftar sebagai penduduk<br>nonpermanen?</summary>
+<summary>Bagaimana cara mendaftar sebagai penduduk nonpermanen?</summary>
 
 a. Pendaftaran secara web/daring/online/mandiri:&#x20;                                                                      Sesuai Pasal 3 Peraturan Menteri Dalam&#x20;Negeri Nomor 74 Tahun 2022 serta Surat Edara&#x20;Dirjen Dukcapil Nomor 471/18393/Dukcapil bahwa&#x20;melakukan pendaftaran penduduk nonpermanen&#x20;dapat dilakukan secara online melalui&#x20;https://penduduknonpermanen.kemendagri.go.id/.&#x20;Proses pendaftaran secara online dilakukan dimulai&#x20;dengan pendaftaran akun. Setelah akun diverifikasi&#x20;maka penduduk dapat mengisi daftar rincian&#x20;pendaftaran sebagai penduduk nonpermanen. Jika&#x20;permohonan penduduk nonpermanen telah&#x20;disetujui oleh Disdukcapil maka akan mendapatkan&#x20;notifikasi pemberitahuan melalui email.
 
@@ -59,7 +59,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <details>
 
-<summary>Apa manfaat ketika telah mendaftar sebagai<br>penduduk nonpermanen?</summary>
+<summary>Apa manfaat ketika telah mendaftar sebagai penduduk nonpermanen?</summary>
 
 Pendaftaran sebagai nonpermanen memberikan\
 manfaat:\

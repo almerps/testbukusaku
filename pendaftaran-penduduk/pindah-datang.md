@@ -108,7 +108,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <details>
 
-<summary>Apakah pengurusan pindah domisili diperlukan<br>surat pengantar RT/RW?</summary>
+<summary>Apakah pengurusan pindah domisili diperlukan surat pengantar RT/RW?</summary>
 
 Proses penerbitan SKPWNI telah diatur pada&#x20;Peraturan Presiden Nomor 96 Tahun 2018 dan\
 Peraturan Menteri Dalam Negeri Nomor 108 Tahun&#x20;2019 bahwa pengurusan SKPWNI sudah tidak&#x20;diperlukan lagi pengantar RT/RW maupun kelurahan.
