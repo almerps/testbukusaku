@@ -133,8 +133,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Apakah diperlukan surat keterangan izin pasangan untuk melakukan pindah ke daerah lain jika pindah tidak bersama pasangan?</summary>
 
-Proses penerbitan SKPWNI sebagaimana diatur&#x20;pada Peraturan Presiden 96 Tahun 2018 dan\
-Permendagri 108 Tahun 2019 bahwa pengurusan&#x20;SKPWNI hanya mensyaratkan fotokopi Kartu Keluarga&#x20;dan tidak tercantum syarat surat keterangan izin&#x20;pasangan.
+Proses penerbitan SKPWNI sebagaimana diatur&#x20;pada Peraturan Presiden 96 Tahun 2018 dan&#x20;Permendagri 108 Tahun 2019 bahwa pengurusan&#x20;SKPWNI hanya mensyaratkan fotokopi Kartu Keluarga&#x20;dan tidak tercantum syarat surat keterangan izin&#x20;pasangan.
 
 **Sumber rujukan:**
 

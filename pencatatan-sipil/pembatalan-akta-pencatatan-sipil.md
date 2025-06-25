@@ -17,8 +17,7 @@ Pencatatan pembatalan akta pencatatan sipil dilaksanakan&#x20;berdasarkan penet
 3. KK; dan
 4. KTP-el.
 
-Hasil pencatatan pembatalan akta pencatatan sipil&#x20;dilaksanakan berdasarkan penetapan pengadilan ini,&#x20;Disdukcapil Kabupaten/Kota atau UPT Disdukcapil&#x20;Kabupaten/Kota membuat catatan pinggir pada&#x20;register akta Pencatatan Sipil, mencabut kutipan akta\
-Pencatatan Sipil dan menerbitkan register akta&#x20;Pencatatan Sipil dan kutipan akta Pencatatan Sipil&#x20;sesuai dengan putusan pengadilan.
+Hasil pencatatan pembatalan akta pencatatan sipil&#x20;dilaksanakan berdasarkan penetapan pengadilan ini,&#x20;Disdukcapil Kabupaten/Kota atau UPT Disdukcapil&#x20;Kabupaten/Kota membuat catatan pinggir pada&#x20;register akta Pencatatan Sipil, mencabut kutipan akta&#x20;Pencatatan Sipil dan menerbitkan register akta&#x20;Pencatatan Sipil dan kutipan akta Pencatatan Sipil&#x20;sesuai dengan putusan pengadilan.
 
 b. Pembatalan akta Pencatatan Sipil tanpa melalui&#x20;pengadilan/Contrarius Actus sebagaimana&#x20;diamanatkan dalam Pasal 89 ayat (4) Peraturan&#x20;Menteri Dalam Negeri Nomor 108 Tahun 2019&#x20;dengan memenuhi persyaratan berupa:
 
@@ -54,8 +53,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 a. Berdasarkan Pasal 89 ayat (1) Peraturan Menteri&#x20;Dalam Negeri Nomor 108 Tahun 2019, diatur bahwa&#x20;pencatatan pembatalan akta pencatatan sipil bagi&#x20;penduduk harus memenuhi persyaratan: salinan&#x20;putusan pengadilan yang telah mempunyai kekuatan&#x20;hukum tetap, kutipan akta pencatatan sipil yang&#x20;dibatalkan, KK dan KTP-el.\
 
 
-b. Selanjutnya ayat (3) huruf d, huruf e dan huruf f diatur&#x20;pencatatan pembatalan akta pencatatan sipil&#x20;berdasarkan putusan pengadilan yang telah&#x20;mempunyai kekuatan hukum tetap, Pejabat&#x20;Pencatatan Sipil pada Disdukcapil Kab/Kota membuat&#x20;catatan pinggir pada register akta pencatatan sipil,&#x20;mencabut kutipan akta pencatatan sipil dan&#x20;menerbitkan register akta pencatatan sipil dan kutipan&#x20;akta pencatatan sipil sesuai dengan putusan\
-pengadilan.&#x20;
+b. Selanjutnya ayat (3) huruf d, huruf e dan huruf f diatur&#x20;pencatatan pembatalan akta pencatatan sipil&#x20;berdasarkan putusan pengadilan yang telah&#x20;mempunyai kekuatan hukum tetap, Pejabat&#x20;Pencatatan Sipil pada Disdukcapil Kab/Kota membuat&#x20;catatan pinggir pada register akta pencatatan sipil,&#x20;mencabut kutipan akta pencatatan sipil dan&#x20;menerbitkan register akta pencatatan sipil dan kutipan&#x20;akta pencatatan sipil sesuai dengan putusan&#x20;pengadilan.&#x20;
 
 Merujuk ketentuan diatas, maka pencatatan&#x20;pembatalan Akta Kelahiran berdasarkan putusan&#x20;Peninjauan Kembali Mahkamah Agung yang sudah&#x20;mempunyai kekuatan hukum tetap, namun kutipan akta&#x20;kelahiran yang akan dibatalkan tersebut masih dikuasai&#x20;&#x20;ibu kandung dan tidak ingin menyerahkannya, meski&#x20;demikian tetap dapat dilakukan pembatalan dengan&#x20;adanya permohonan, dalam hal ini pemohon membuat&#x20;surat penyataan bahwa kutipan akta kelahiran tersebut&#x20;tidak dapat diserahkan karena berada dalam penguasaan&#x20;ibu kandung.&#x20;Terhadap permintaan kembali Kutipan Akta&#x20;Kelahiran yang sudah ditarik oleh Disdukcapil&#x20;Kabupaten/Kota, yang memiliki kesamaan isi/subtansi dgn&#x20;Kutipan Akta Kelahiran dengan status sebagai anak&#x20;pasangan suami istri yang telah dibatalkan, tidak dapat&#x20;dipenuhi karena putusan Peninjauan Kembali Mahkamah&#x20;Agung memutuskan bahwa bukan anak, melainkan anak&#x20;seorang ibu. Apabila diserahkan kutipan akta kelahiran&#x20;dimaksud sama halnya dengan mengakui sebagai anak&#x20;pasangan suami istri. Selanjutnya seseorang hanya boleh&#x20;memiliki kutipan akta kelahiran dengan satu nomor&#x20;register akta kelahiran.
 
@@ -104,14 +102,11 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Apakah Ditjen Dukcapil Kementerian Dalam Negerimempunyai kewenangan untuk membatalkan akta pencatatan sipil?</summary>
 
-a. Berdasarkan Pasal 72 Undang-Undang Nomor 23&#x20;Tahun 2006 bahwa pembatalan akta pencatatan sipil&#x20;dilakukan berdasarkan putusan pengadilan yang telah\
-mempunyai kekuatan hukum tetap.\
+a. Berdasarkan Pasal 72 Undang-Undang Nomor 23&#x20;Tahun 2006 bahwa pembatalan akta p mempunyai kekuatan hukum tetap.\
 \
-b. Sesuai Pasal 89 ayat (2) dan ayat (4) Peraturan&#x20;Menteri Dalam Negeri Nomor 108 Tahun 2019, diatur&#x20;bahwa pembatalan akta pencatatan sipil dapat juga&#x20;dilakukan tanpa melalui pengadilan/Contrarius Actus,&#x20;dengan memenuhi persyaratan berupa kutipan akta&#x20;pencatatan sipil yang dibatalkan, dokumen pendukung&#x20;yang menguatkan pembatalan, fotokopi KK, KTP-el&#x20;dan surat pernyataan tanggung jawab mutlak.&#x20;Disamping itu, pembatalan akta pencatatan sipil tanpa&#x20;melalui pengadilan/Contrarius Actus hanya dapat\
-dilakukan apabila tidak dalam sengketa.&#x20;
+b. Sesuai Pasal 89 ayat (2) dan ayat (4) Peraturan&#x20;Menteri Dalam Negeri Nomor 108 Tahun 2019, diatur&#x20;bahwa pembatalan akta pencatatan sipil dapat juga&#x20;dilakukan tanpa melalui pengadilan/Contrarius Actus,&#x20;dengan memenuhi persyaratan berupa kutipan akta&#x20;pencatatan sipil yang dibatalkan, dokumen pendukung&#x20;yang menguatkan pembatalan, fotokopi KK, KTP-el&#x20;dan surat pernyataan tanggung jawab mutlak.&#x20;Disamping itu, pembatalan akta pencatatan sipil tanpa&#x20;melalui pengadilan/Contrarius Actus hanya dapat&#x20;dilakukan apabila tidak dalam sengketa.&#x20;
 
-Merujuk ketentuan di atas, Ditjen Dukcapil Kementerian&#x20;Dalam Negeri tidak mempunyai kewenangan untuk&#x20;membatalkan akta pencatatan sipil. Pencatatan&#x20;pembatalan akta pencatatan sipil dilakukan oleh&#x20;Disdukcapil Kabupaten/Kota tempat penduduk/subyek\
-akta berdomisili.
+Merujuk ketentuan di atas, Ditjen Dukcapil Kementerian&#x20;Dalam Negeri tidak mempunyai kewenangan untuk&#x20;membatalkan akta pencatatan sipil. Pencatatan&#x20;pembatalan akta pencatatan sipil dilakukan oleh&#x20;Disdukcapil Kabupaten/Kota tempat penduduk/subyek&#x20;akta berdomisili.
 
 **Sumber rujukan:**
 
@@ -203,13 +198,9 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 Berdasarkan:\
 a. Pasal 71 ayat (1) huruf b Undang-Undang Nomor 30&#x20;Tahun 2014 tentang Administrasi Pemerintahan, diatur&#x20;bahwa Keputusan dan/atau Tindakan dapat dibatalkan&#x20;apabila terdapat kesalahan substansi.
 
-\
-b. Pasal 38 ayat (2) dan (4) serta Pasal 89 ayat (2) dan&#x20;(4) Peraturan Menteri Dalam Negeri Nomor 108 Tahun&#x20;2019, bahwa pembatalan akta Pencatatan Sipil dan&#x20;dokumen Pendaftaran Penduduk juga dapat dilakukan&#x20;dengan cara tanpa melalui pengadilan/Contrarius&#x20;Actus.\
+b. Pasal 38 ayat (2) dan (4) serta Pasal 89 ayat (2) dan&#x20;(4) Peraturan Menteri Dalam Negeri Nomor 108 Tahun&#x20;2019, bahwa pembatalan akta Pencatatan Sipil dan&#x20;dokumen Pendaftaran Penduduk juga dapat dilakukan&#x20;dengan cara tanpa melalui pengadilan/Contrarius&#x20;Actus.
 
-
-Merujuk ketentuan di atas, pembatalan dokumen\
-kependudukan lainnya dan NIK dapat dibatalkan tanpa\
-melalui pengadilan/Contrarius Actus.
+Merujuk ketentuan di atas, pembatalan dokumen&#x20;kependudukan lainnya dan NIK dapat dibatalkan tanpa&#x20;melalui pengadilan/Contrarius Actus.
 
 **Sumber rujukan:**
 
@@ -229,14 +220,11 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana melakukan pembatalan akta kelahiran jika salah satu atau kedua orang tua yang tercantum dalam akta telah meninggal dunia?</summary>
 
-a. Berdasarkan Pasal 72 Undang-Undang Nomor 23&#x20;Tahun 2006, diatur bahwa pembatalan akta&#x20;pencatatan sipil dilakukan berdasarkan putusan&#x20;pengadilan yang telah mempunyai kekuatan hukum&#x20;tetap.
-
+a. Berdasarkan Pasal 72 Undang-Undang Nomor 23&#x20;Tahun 2006, diatur bahwa pembatalan akta&#x20;pencatatan sipil dilakukan berdasarkan putusan&#x20;pengadilan yang telah mempunyai kekuatan hukum&#x20;tetap.\
 &#x20;\
-b. Pasal 89 ayat (1) Peraturan Menteri Dalam Negeri&#x20;Nomor 108 Tahun 2019, disebutkan bahwa&#x20;pencatatan pembatalan akta pencatatan sipil bagi&#x20;penduduk harus memenuhi persyaratan salinan&#x20;putusan pengadilan yang telah mempunyai kekuatan&#x20;hukum tetap dan kutipan akta pencatatan sipil yang&#x20;dibatalkan.\
+b. Pasal 89 ayat (1) Peraturan Menteri Dalam Negeri&#x20;Nomor 108 Tahun 2019, disebutkan bahwa&#x20;pencatatan pembatalan akta pencatatan sipil bagi&#x20;penduduk harus memenuhi persyaratan salinan&#x20;putusan pengadilan yang telah mempunyai kekuatan&#x20;hukum tetap dan kutipan akta pencatatan sipil yang&#x20;dibatalkan.
 
-
-Merujuk ketentuan diatas, pembatalan akta kelahiran&#x20;dapat dilakukan melalui proses hukum jika salah satu atau&#x20;kedua orang tua yang tercantum dalam akta telah&#x20;meninggal dunia. Proses ini melibatkan pengajuan&#x20;permohonan ke pengadilan dengan menyertakan bukti&#x20;kematian orang tua yang terdaftar dalam akta. Setelah&#x20;pengadilan menilai dan memutuskan, akta kelahiran dapat&#x20;dibatalkan, dan kemungkinan akan dikeluarkan akta\
-kelahiran yang baru sesuai dengan keputusan pengadilan.
+Merujuk ketentuan diatas, pembatalan akta kelahiran&#x20;dapat dilakukan melalui proses hukum jika salah satu atau&#x20;kedua orang tua yang tercantum dalam akta telah&#x20;meninggal dunia. Proses ini melibatkan pengajuan&#x20;permohonan ke pengadilan dengan menyertakan bukti&#x20;kematian orang tua yang terdaftar dalam akta. Setelah&#x20;pengadilan menilai dan memutuskan, akta kelahiran dapat&#x20;dibatalkan, dan kemungkinan akan dikeluarkan akta&#x20;kelahiran yang baru sesuai dengan keputusan pengadilan.
 
 **Sumber rujukan:**
 

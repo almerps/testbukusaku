@@ -61,8 +61,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Apa manfaat ketika telah mendaftar sebagai penduduk nonpermanen?</summary>
 
-Pendaftaran sebagai nonpermanen memberikan\
-manfaat:\
+Pendaftaran sebagai nonpermanen memberikan&#x20;manfaat:\
 a. pelayanan publik seperti disektor kesehatan,&#x20;pendidikan, tenaga kerja, perbankan dan social;\
 b. perencanaan pembangunan seperti pemetaan&#x20;kebutuhan sarana dan prasarana umum;\
 c. perencanaan alokasi dana daerah;\
@@ -89,11 +88,7 @@ Penduduk memilih menu Riwayat kemudian pilih&#x20;kolom Aksi untuk melakukan pe
 
 \
 b. Secara manual/luring/langsung/tatap muka:\
-Datang ke Disdukcapil sesuai domisili&#x20;nonpermanen dan mengisi Formulir Pendaftaran\
-atau Pembatalan Penduduk Nonpermanen&#x20;(F.1-15) pada pembatalan sebagai penduduk\
-nonpermanen. Petugas akan melakukan&#x20;pembatalan melalui sistem SIAK dan akan\
-menginfokan kepada penduduk jika telah&#x20;dibatalkan statusnya sebagai penduduk\
-nonpermanen.
+Datang ke Disdukcapil sesuai domisili&#x20;nonpermanen dan mengisi Formulir Pendaftaran&#x20;atau Pembatalan Penduduk Nonpermanen&#x20;(F.1-15) pada pembatalan sebagai penduduk&#x20;nonpermanen. Petugas akan melakukan&#x20;pembatalan melalui sistem SIAK dan akan&#x20;menginfokan kepada penduduk jika telah&#x20;dibatalkan statusnya sebagai penduduk&#x20;nonpermanen.
 
 **Sumber rujukan:**
 
@@ -111,8 +106,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana cara pembatalan SKPWNI karena permohonan pindah tanpa diketahui oleh yang bersangkutan?</summary>
 
-Proses pembatalan SKPWNI karena kesalahan&#x20;proses penyalahgunaan dapat dilakukan di Disdukcapil&#x20;yang menerbitkan SKPWNI dengan menerapkan asas\
-contrarius actus dengan membawa dokumen&#x20;pendukung.\
+Proses pembatalan SKPWNI karena kesalahan&#x20;proses penyalahgunaan dapat dilakukan di Disdukcapil&#x20;yang menerbitkan SKPWNI dengan menerapkan asas&#x20;contrarius actus dengan membawa dokumen&#x20;pendukung.\
 \
 **Sumber rujukan:**
 
@@ -131,8 +125,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Berapa lama masa aktif SKPWNI?</summary>
 
-Sesuai Pasal 30 ayat (2) Peraturan Presiden&#x20;Nomor 96 Tahun 2019 masa berlaku Surat Keterangan&#x20;Pindah Warga Negara Indonesia (SKPWNI) adalah\
-100 hari.
+Sesuai Pasal 30 ayat (2) Peraturan Presiden&#x20;Nomor 96 Tahun 2019 masa berlaku Surat Keterangan&#x20;Pindah Warga Negara Indonesia (SKPWNI) adalah&#x20;100 hari.
 
 **Sumber rujukan:**
 
@@ -156,8 +149,7 @@ menerbitkannya kembali. Jika domisli sudah terlanjut&#x20;menetap di daerah tuj
 \
 **Sumber rujukan:**
 
-* Pasal 30 ayat (5) dan Pasal 31 Peraturan Menteri  &#x20;Dalam Negeri Nomor 108 Tahun 2019 Persyaratan  &#x20;dan Tata Cara Pendaftaran Penduduk dan  \
-  Pencatatan Sipil. ([link](https://peraturan.go.id/id/permendagri-no-108-tahun-2019))
+* Pasal 30 ayat (5) dan Pasal 31 Peraturan Menteri  &#x20;Dalam Negeri Nomor 108 Tahun 2019 Persyaratan  &#x20;dan Tata Cara Pendaftaran Penduduk dan  &#x20;Pencatatan Sipil. ([link](https://peraturan.go.id/id/permendagri-no-108-tahun-2019))
 * Sumber data: Pelaporan masalah pada lapor.go.id.
 
 {% hint style="success" %}
@@ -172,8 +164,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana cara mengurus pindah penduduk untuk usia dibawah 17 tahun jika dilakukan sendiri tanpa diikuti perpindahan orang tua/wali?</summary>
 
-Berdasarkan Pasal 12 Peraturan Menteri Dalam&#x20;Negeri Nomor 108 Tahun 2019 bahwa perpindahan&#x20;penduduk untuk usia dibawah 17 tahun dapat&#x20;dilakukan dengan melampirkan syarat lainnya yaitu&#x20;surat kuasa pengasuhan anak dari orang tua/wali serta\
-surat pernyataan bersedia menerima sebagai anggota&#x20;keluarga dari kepala keluarga KK yang ditumpangi.\
+Berdasarkan Pasal 12 Peraturan Menteri Dalam&#x20;Negeri Nomor 108 Tahun 2019 bahwa perpindahan&#x20;penduduk untuk usia dibawah 17 tahun dapat&#x20;dilakukan dengan melampirkan syarat lainnya yaitu&#x20;surat kuasa pengasuhan anak dari orang tua/wali serta&#x20;surat pernyataan bersedia menerima sebagai anggota&#x20;keluarga dari kepala keluarga KK yang ditumpangi.\
 Sumber rujukan:
 
 * Pasal 12 Peraturan Menteri Dalam Negeri Nomor  &#x20;108 Tahun 2019 Persyaratan dan Tata Cara  &#x20;Pendaftaran Penduduk dan Pencatatan Sipil. ([link](https://peraturan.go.id/id/permendagri-no-108-tahun-2019))
