@@ -8,8 +8,7 @@ icon: people-group
 
 <summary>Bagaimana status anak hasil perkawinan campur yang dilahirkan diluar wilayah NKRI tetapi belum dilaporkan ke Perwakilan Republik Indonesia dan apa saja syarat yang harus dipenuhi untuk mencatatkan dalam database Disdukcapil?</summary>
 
-Berdasarkan Pasal 97 ayat (3) dan ayat (4), diatur bahwa apabila kelahiran anak tersebut belum dilaporkan kepada Perwakilan Republik Indonesia, maka Disdukcapil dapat menerbitkan surat keterangan pelaporan, dengan persyaratan berupa bukti pencatatan\
-Peristiwa Penting yang diterjemahkan oleh penerjemah tersumpah bila menggunakan bahasa asing atau surat pernyataan tanggung jawab mutlak. \
+Berdasarkan Pasal 97 ayat (3) dan ayat (4), diatur bahwa apabila kelahiran anak tersebut belum dilaporkan kepada Perwakilan Republik Indonesia, maka Disdukcapil dapat menerbitkan surat keterangan pelaporan, dengan persyaratan berupa bukti pencatatan&#x20;Peristiwa Penting yang diterjemahkan oleh penerjemah tersumpah bila menggunakan bahasa asing atau surat pernyataan tanggung jawab mutlak. \
 \
 **Sumber rujukan:**
 
@@ -28,8 +27,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana cara anak tersebut bila ingin dicatatatkan sebagai anak berkewarganegaraan ganda?</summary>
 
-Untuk dicatatkan sebagai Anak Berkewarganegaraan Ganda sesuai Pasal 55 ayat (2)\
-Perpres Nomor 96 Tahun 2018 harus memiliki sertifikat bukti pendaftaran anak berkewarganegaraan ganda dari kantor imigrasi atau Perwakilan Republik Indonesia dan&#x20;dibuatkan catatan pinggir pada akta kelahiran berstatus WNI dan WNA oleh Disdukcapil Kabupaten/Kota atau Perwakilan Republik Indonesia.\
+Untuk dicatatkan sebagai Anak Berkewarganegaraan Ganda sesuai Pasal 55 ayat (2)&#x20;Perpres Nomor 96 Tahun 2018 harus memiliki sertifikat bukti pendaftaran anak berkewarganegaraan ganda dari kantor imigrasi atau Perwakilan Republik Indonesia dan&#x20;dibuatkan catatan pinggir pada akta kelahiran berstatus WNI dan WNA oleh Disdukcapil Kabupaten/Kota atau Perwakilan Republik Indonesia.\
 \
 **Sumber rujukan:**
 
@@ -48,8 +46,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana cara menerbitkan Dokumen Kependudukan bagi anak hasil perkawinan campur secara siri (tidak tercatat) dan tanpa dokumen pendukung lainnya?</summary>
 
-Berdasarkan Pasal 4 huruf h Undang-Undang Nomor 12 Tahun 2006 diatur bahwa, Warga Negara Indonesia salah satunya adalah anak yang lahir diluar perkawinan yang sah dari seorang ibu warga negara asing yang diakui oleh seorang ayah WNI sebagai anaknya dan pengakuan itu sebelum anak tersebut berumur 18 (delapan belas) tahun atau belum kawin.\
-Sehubungan dengan hal tersebut, perlu dilakukan pengakuan anak oleh ayah kandungnya melalui Pengadilan, sehingga atas dasar pengakuan anak tersebut, dapat dicatatkan dalam dokumen kependudukan sebagai anak berkewarganegaraan ganda (WNI) dan setelah berusia 18 (delapan belas) tahun atau sudah kawin anak tersebut harus menyatakan memilih salah satu kewarganegaraannya, sesuai dengan Pasal 6 Undang-Undang Nomor 12 Tahun 2006.\
+Berdasarkan Pasal 4 huruf h Undang-Undang Nomor 12 Tahun 2006 diatur bahwa, Warga Negara Indonesia salah satunya adalah anak yang lahir diluar perkawinan yang sah dari seorang ibu warga negara asing yang diakui oleh seorang ayah WNI sebagai anaknya dan pengakuan itu sebelum anak tersebut berumur 18 (delapan belas) tahun atau belum kawin.&#x20;Sehubungan dengan hal tersebut, perlu dilakukan pengakuan anak oleh ayah kandungnya melalui Pengadilan, sehingga atas dasar pengakuan anak tersebut, dapat dicatatkan dalam dokumen kependudukan sebagai anak berkewarganegaraan ganda (WNI) dan setelah berusia 18 (delapan belas) tahun atau sudah kawin anak tersebut harus menyatakan memilih salah satu kewarganegaraannya, sesuai dengan Pasal 6 Undang-Undang Nomor 12 Tahun 2006.\
 \
 **Sumber rujukan:**
 
@@ -68,12 +65,9 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana Pencatatan Perubahan Status Kewarganegaraan pada Dokumen Kependudukan dan Akta Pencatatan Sipil?</summary>
 
-Berdasarkan ketentuan Pasal 54 ayat (1), (2), (3) dan (4) Undang-Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan, intinya diatur bahwa setiap Perubahan status kewarganegaraan dari WNI menjadi WNA yang telah mendapat persetujuan dari negara\
-setempat wajib dilaporkan oleh penduduk yang bersangkutan kepada Perwakilan Republik Indonesia untuk dibuatkan Surat Keterangan Pelepasan Kewarganegaraan dan surat tersebut oleh Perwakilan Republik Indonesia diteruskan kepada menteri yang berwenang menurut peraturan perundang-undangan untuk diterbitkan SK Pelepasan Kewarganegaraannya\
-dan disampaikan kepada Instansi Pelaksana yang menerbitkan Akta Pencatatan Sipil yang bersangkutan. \
+Berdasarkan ketentuan Pasal 54 ayat (1), (2), (3) dan (4) Undang-Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan, intinya diatur bahwa setiap Perubahan status kewarganegaraan dari WNI menjadi WNA yang telah mendapat persetujuan dari negara&#x20;setempat wajib dilaporkan oleh penduduk yang bersangkutan kepada Perwakilan Republik Indonesia untuk dibuatkan Surat Keterangan Pelepasan Kewarganegaraan dan surat tersebut oleh Perwakilan Republik Indonesia diteruskan kepada menteri yang berwenang menurut peraturan perundang-undangan untuk diterbitkan SK Pelepasan Kewarganegaraannya&#x20;dan disampaikan kepada Instansi Pelaksana yang menerbitkan Akta Pencatatan Sipil yang bersangkutan. \
 \
-Dalam aplikasi SIAK, perubahan Status Kewarganegaraan syarat utama yang harus diisi adalah Nomor SK Pelepasan Kewarganegaraan yang dikeluarkan oleh menteri yang berwenang menurut peraturan perundang-undangan dalam hal ini menteri Hukum dan HAM.\
-Sehingga dalam setiap perubahan status kewarganegaraan WNI menjadi WNA harus memiliki SK Pelepasan kewarganegaraan untuk merubah status kewarganegaraan seseorang dalam aplikasi SIAK dan dibuatkan catatan pinggir pada kutipan akta dan register akta pencatatan sipil.\
+Dalam aplikasi SIAK, perubahan Status Kewarganegaraan syarat utama yang harus diisi adalah Nomor SK Pelepasan Kewarganegaraan yang dikeluarkan oleh menteri yang berwenang menurut peraturan perundang-undangan dalam hal ini menteri Hukum dan HAM.&#x20;Sehingga dalam setiap perubahan status kewarganegaraan WNI menjadi WNA harus memiliki SK Pelepasan kewarganegaraan untuk merubah status kewarganegaraan seseorang dalam aplikasi SIAK dan dibuatkan catatan pinggir pada kutipan akta dan register akta pencatatan sipil.\
 \
 **Sumber rujukan:**
 
@@ -92,20 +86,19 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana batas waktu memilih kewarganegaraan bagi anak berkewarganegaraan ganda yang lahir dari perkawinan campuran dari seorang ayah Warga negara Indonesia dan ibu warga negara asing atau sebaliknya?</summary>
 
-Dasar hukum yang mengatur mengenai anak berkewarganegaraan ganda di Indonesia adalah\
-Undang-Undang Nomor 12 Tahun 2006 tentang Kewarganegaraan Republik Indonesia, khususnya Pasal 4 huruf c, d, h, dan l, Pasal 5, dan Pasal 6. Selain itu, terdapat ketentuan dalam Peraturan Pemerintah Nomor 21 Tahun 2022 tentang Perubahan Atas Peraturan\
-Pemerintah Nomor 2 Tahun 2007 mengenai Tata Cara Memperoleh, Kehilangan, Pembatalan, dan Memperoleh Kembali Kewarganegaraan Republik Indonesia, yang intinya:\
-a. Anak yang lahir dari perkawinan Anak yang lahir dari perkawinan yang sah dari seorang ayah Warga negara Indonesia dan ibu warga negara asing atau sebaliknya, anak yang lahir diluar perkawinan yang sah dari seorang ibu warga negara asing yang diakui oleh seorang ayah Warga Negara Indonesia sebagai anaknya dan pengakuan itu dilakukan sebelum anak\
-tersebut 18 (delapan belas) tahun atau belum kawin serta anak yang dilahirkan di luar wilayah negara Republik Indonesia dari seorang ayah dan ibu Warga Negara Indonesia yang karena ketentuan dari negara tempat anak tersebut dilahirkan memberikan kewarganegaraan kepada anak yang bersangkutan, adalah Warga Negara Indonesia;\
-b. Anak Warga Negara Indonesia yang lahir di luar perkawinan yang sah, belum berusia 18 (delapan belas) tahun dan belum kawin diakui secara sah oleh ayahnya yang berkewarganegaraan asing tetap diakui sebagai Warga Negara Indonesia;\
+Dasar hukum yang mengatur mengenai anak berkewarganegaraan ganda di Indonesia adalah&#x20;Undang-Undang Nomor 12 Tahun 2006 tentang Kewarganegaraan Republik Indonesia, khususnya Pasal 4 huruf c, d, h, dan l, Pasal 5, dan Pasal 6. Selain itu, terdapat ketentuan dalam Peraturan Pemerintah Nomor 21 Tahun 2022 tentang Perubahan Atas Peraturan&#x20;Pemerintah Nomor 2 Tahun 2007 mengenai Tata Cara Memperoleh, Kehilangan, Pembatalan, dan Memperoleh Kembali Kewarganegaraan Republik Indonesia, yang intinya:
+
+a. Anak yang lahir dari perkawinan Anak yang lahir dari perkawinan yang sah dari seorang ayah Warga negara Indonesia dan ibu warga negara asing atau sebaliknya, anak yang lahir diluar perkawinan yang sah dari seorang ibu warga negara asing yang diakui oleh seorang ayah Warga Negara Indonesia sebagai anaknya dan pengakuan itu dilakukan sebelum anak&#x20;tersebut 18 (delapan belas) tahun atau belum kawin serta anak yang dilahirkan di luar wilayah negara Republik Indonesia dari seorang ayah dan ibu Warga Negara Indonesia yang karena ketentuan dari negara tempat anak tersebut dilahirkan memberikan kewarganegaraan kepada anak yang bersangkutan, adalah Warga Negara Indonesia;
+
+b. Anak Warga Negara Indonesia yang lahir di luar perkawinan yang sah, belum berusia 18 (delapan belas) tahun dan belum kawin diakui secara sah oleh ayahnya yang berkewarganegaraan asing tetap diakui sebagai Warga Negara Indonesia;
+
 c. Anak Warga Negara Indonesia yang belum berusia 5 (lima) tahun diangkat secara sah sebagai anak oleh warga negara asing berdasarkan penetapan pengadilan tetap diakui sebagai Warga Negara Indonesia. \
 \
 **Sumber rujukan:**
 
 * Undang-Undang Nomor 12 Tahun 2006 tentang Kewarganegaraan Republik Indonesia
 * Peraturan Pemerintah Nomor 21 Tahun 2022 tentang Perubahan Atas Peraturan Pemerintah Nomor 2 Tahun 2007 mengenai Tata Cara Memperoleh, Kehilangan,  &#x20;Pembatalan, dan Memperoleh Kembali Kewarganegaraan Republik Indonesia
-* Surat Dirjen Dukcapil No. 400.8.2.13/4858/Dukcapil tgl 24 April 2024 kepada Kepala Dinas/Unit Kerja yang Membidangi Kependudukan dan Pencatatan Sipil Provinsi dan Kepala Disdukcapil Kabupaten/Kota Seluruh Indonesia tentang Batas Waktu Memilih  \
-  Kewarganegaraan Bagi Anak Berkewarganegaraan Ganda.
+* Surat Dirjen Dukcapil No. 400.8.2.13/4858/Dukcapil tgl 24 April 2024 kepada Kepala Dinas/Unit Kerja yang Membidangi Kependudukan dan Pencatatan Sipil Provinsi dan Kepala Disdukcapil Kabupaten/Kota Seluruh Indonesia tentang Batas Waktu Memilih  &#x20;Kewarganegaraan Bagi Anak Berkewarganegaraan Ganda.
 
 {% hint style="success" %}
 Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
@@ -124,8 +117,7 @@ Anak yang memiliki kewarganegaraan ganda harus menyatakan memilih salah satu kew
 **Sumber rujukan:**
 
 * Undang-Undang Nomor 12 Tahun 2006 tentang Kewarganegaraan Republik Indonesia
-* Surat Dirjen Dukcapil No. 400.8.2.13/4858/Dukcapil tgl 24 April 2024 kepada Kepala Dinas/Unit Kerja yang Membidangi Kependudukan dan Pencatatan Sipil Provinsi dan Kepala Disdukcapil Kabupaten/Kota Seluruh Indonesia tentang Batas Waktu Memilih  \
-  Kewarganegaraan Bagi Anak Berkewarganegaraan Ganda.
+* Surat Dirjen Dukcapil No. 400.8.2.13/4858/Dukcapil tgl 24 April 2024 kepada Kepala Dinas/Unit Kerja yang Membidangi Kependudukan dan Pencatatan Sipil Provinsi dan Kepala Disdukcapil Kabupaten/Kota Seluruh Indonesia tentang Batas Waktu Memilih  &#x20;Kewarganegaraan Bagi Anak Berkewarganegaraan Ganda.
 
 {% hint style="success" %}
 Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
@@ -139,14 +131,12 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Apa yang harus dilakukan oleh anak berkewarganegaraan ganda jika belum memilih<br>kewarganegaraan sampai batas waktu yang ditentukan?</summary>
 
-Merujuk ketentuan Pasal 3A dan Pasal 67A Peraturan Pemerintah Nomor 21 Tahun 2022 tentang Perubahan Atas Peraturan Pemerintah Nomor 2 Tahun 2007 tentang Tata Cara Memperoleh, Kehilangan, Pembatalan, dan Memperoleh Kembali Kewarganegaraan Republik Indonesia, yang intinya diatur bahwa bagi anak berkewarganegaraan ganda belum memilih kewarganegaraan sampai batas waktu yang ditentukan sebagaimana dimaksud pada angka 2 dan 3 tersebut di atas, yang belum mendaftar atau sudah mendaftar tetapi belum memilih\
-kewarganegaraan, dapat mengajukan permohonan pewarganegaraan kepada Presiden melalui Menteri Hukum dan HAM. \
+Merujuk ketentuan Pasal 3A dan Pasal 67A Peraturan Pemerintah Nomor 21 Tahun 2022 tentang Perubahan Atas Peraturan Pemerintah Nomor 2 Tahun 2007 tentang Tata Cara Memperoleh, Kehilangan, Pembatalan, dan Memperoleh Kembali Kewarganegaraan Republik Indonesia, yang intinya diatur bahwa bagi anak berkewarganegaraan ganda belum memilih kewarganegaraan sampai batas waktu yang ditentukan sebagaimana dimaksud pada angka 2 dan 3 tersebut di atas, yang belum mendaftar atau sudah mendaftar tetapi belum memilih&#x20;kewarganegaraan, dapat mengajukan permohonan pewarganegaraan kepada Presiden melalui Menteri Hukum dan HAM. \
 \
 **Sumber rujukan:**
 
 * Peraturan Pemerintah Nomor 21 Tahun 2022 tentang Perubahan Atas Peraturan Pemerintah Nomor 2 Tahun 2007 mengenai Tata Cara Memperoleh, Kehilangan, Pembatalan, dan Memperoleh Kembali Kewarganegaraan Republik Indonesia
-* Surat Dirjen Dukcapil No. 400.8.2.13/4858/Dukcapil tgl 24 April 2024 kepada Kepala Dinas/Unit Kerja yang Membidangi Kependudukan dan Pencatatan Sipil Provinsi dan Kepala Disdukcapil Kabupaten/Kota Seluruh Indonesia tentang Batas Waktu Memilih  \
-  Kewarganegaraan Bagi Anak Berkewarganegaraan Ganda.
+* Surat Dirjen Dukcapil No. 400.8.2.13/4858/Dukcapil tgl 24 April 2024 kepada Kepala Dinas/Unit Kerja yang Membidangi Kependudukan dan Pencatatan Sipil Provinsi dan Kepala Disdukcapil Kabupaten/Kota Seluruh Indonesia tentang Batas Waktu Memilih  &#x20;Kewarganegaraan Bagi Anak Berkewarganegaraan Ganda.
 
 {% hint style="success" %}
 Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
@@ -160,9 +150,12 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Apa langkah-langkah yang harus dilakukan oleh pihak berwenang untuk melindungi hak anak berkewarganegaraan ganda?</summary>
 
-Pihak berwenang harus melakukan langkah-langkah berikut:\
-a. Melakukan pendataan terhadap anak berkewarganegaraan ganda di wilayahnya.\
-b. Melakukan sosialisasi dan advokasi kepada penduduk, terutama kepada anak berkewarganegaraan ganda, mengenai ketentuan untuk memilih kewarganegaraan setelah berusia 18 tahun atau menikah.\
+Pihak berwenang harus melakukan langkah-langkah berikut:
+
+a. Melakukan pendataan terhadap anak berkewarganegaraan ganda di wilayahnya.
+
+b. Melakukan sosialisasi dan advokasi kepada penduduk, terutama kepada anak berkewarganegaraan ganda, mengenai ketentuan untuk memilih kewarganegaraan setelah berusia 18 tahun atau menikah.
+
 c. Melakukan koordinasi dengan Kantor Wilayah Kementerian Hukum dan HAM setempat terhadap penduduk/anak berkewarganegaraan ganda tersebut. \
 \
 **Sumber rujukan:**\
