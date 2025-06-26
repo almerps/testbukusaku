@@ -192,8 +192,8 @@ Berdasarkan ketentutan Pasal 27 ayat (3)&#x20;Peraturan Presiden Nomor 96 Tahun
 syarat pengurusan pindah penduduk orang asing&#x20;pemegang izin tinggal sementara adalah:\
 a. Fotokopi surat keterangan tempat tinggal;\
 b. Fotokopi Dokumen Perjalanan; dan\
-c. Fotokopi kartu izin tinggal terbatas.\
-\
+c. Fotokopi kartu izin tinggal terbatas.
+
 Orang asing mengurus penerbitan Surat&#x20;Keterangan Pindah (SKP) dari Disdukcapil daerah asal&#x20;selanjutnya SKP diserahkan ke Disdukcapil daerah&#x20;tujuan untuk dilakukan penerbitan SKTT yang baru.&#x20;Tata cara mengurus SKP dari daerah asal:\
 a. OA mengisi Formulir Pendaftaran Perpindahan&#x20;Penduduk (F-1.03);\
 b. OA melampirkan fotokopi SKTT, Dokumen&#x20;Perjalanan dan KITAS (ditambah);\
@@ -231,8 +231,8 @@ c. Disdukcapi menyerahkan SKPLN;\
 d. Disdukcapi mengganti KK dan menerbitkan KK&#x20;dengan nomor KK tetap apabila Kepala Keluarga&#x20;tidak pindah;\
 e. Disdukcapi menerbitkan KK dengan nomor KK&#x20;baru apabila Kepala Keluarga pindah namun\
 anggota keluarga tidak pindah; dan\
-f. Dalam hal seluruh anggota keluarga masih berusia&#x20;di bawah 17 tahun tidak pindah, maka diperlukan&#x20;kepala keluarga yang telah dewasa. Solusinya&#x20;adalah ada Saudara yang bersedia pindah menjadi&#x20;Kepala Keluarga di dalam Keluarga ini atau anak-anak dimaksud dititipkan pada Kartu Keluarga&#x20;Saudaranya yang terdekat dengan membuat surat&#x20;pernyataan bersedia menjadi wali.\
-\
+f. Dalam hal seluruh anggota keluarga masih berusia&#x20;di bawah 17 tahun tidak pindah, maka diperlukan&#x20;kepala keluarga yang telah dewasa. Solusinya&#x20;adalah ada Saudara yang bersedia pindah menjadi&#x20;Kepala Keluarga di dalam Keluarga ini atau anak-anak dimaksud dititipkan pada Kartu Keluarga&#x20;Saudaranya yang terdekat dengan membuat surat&#x20;pernyataan bersedia menjadi wali.
+
 Catatan:&#x20;WNI yang telah pindah dan berstatus menetap di luar&#x20;negeri wajib melaporkan kepada Perwakilan Republik&#x20;Indonesia paling lambat 30 hari sejak kedatangannya\
 sesuai Pasal 18 ayat (3) UU 23/2006.
 
@@ -262,8 +262,8 @@ Tata cara:\
 a. WNI mengisi Formulir Pendaftaran Perpindahan&#x20;Penduduk (F-1.03);\
 b. WNI menyerahkan fotokopi Dokumen Perjalanan&#x20;RI/SPLP;\
 c. WNI menyerahkan SKPLN dari Disdukcapi (yang&#x20;pernah diterbitkan) atau SKP dari Perwakilan RI&#x20;atau SPNIK atau surat pernyataan; dan\
-d. Disdukcapi menerbitkan/mengaktifkan KK, KTP-el&#x20;dan KIA sesuai alamat di dalam wilayah NKRI\
-\
+d. Disdukcapi menerbitkan/mengaktifkan KK, KTP-el&#x20;dan KIA sesuai alamat di dalam wilayah NKRI.
+
 Catatan:\
 WNI yang datang dari luar negeri wajib melaporkan&#x20;kedatangannya kepada Instansi Pelaksana paling&#x20;lambat 14 hari sejak tanggal kedatangan sesuai Pasal&#x20;19 ayat (1) UU Nomor 23 Tahun 2006.
 
@@ -291,10 +291,11 @@ Berdasarkan ketentutan Pasal 28 ayat (5)&#x20;Peraturan Presiden Nomor 96 Tahun
 syarat pengurusan pindah WNI dari luar negeri adalah&#x20;Fotokopi Dokumen Perjalanan dan Fotokopi Kartu&#x20;Izin Tinggal Terbatas\
 Tata cara:\
 a. OA mengisi Formulir Pendaftaran Perpindahan&#x20;Penduduk (F-1.03);\
-b. OA menyerahkan fotokopi Dokumen Perjalanan&#x20;dan kartu izin tinggal terbatas;\
+b. OA menyerahkan fotokopi Dokumen Perjalanan&#x20;dan kartu izin tinggal terbatas;\
 c. Dalam hal OA menumpang KK, menyewa rumah,&#x20;kontrak dan kost perlu menyerahkan surat\
 pernyataan tidak keberatan dari pemilik rumah; dan\
-d. Disdukcapil menerbitkan Surat Keterangan&#x20;Tempat Tinggal dengan masa berlaku sesuai izin&#x20;tinggal terbatas.\
+d. Disdukcapil menerbitkan Surat Keterangan&#x20;Tempat Tinggal dengan masa berlaku sesuai izin&#x20;tinggal terbatas.
+
 Catatan:\
 OA wajib melaporkan kepada Instansi Pelaksana&#x20;paling lambat 14 (empat belas) hari sejak diterbitkan&#x20;ITAS sebagai dasar penerbitan SKTT sesuai Pasal 20&#x20;ayat (1) UU 23/2006.
 
