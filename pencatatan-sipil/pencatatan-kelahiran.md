@@ -192,7 +192,7 @@ b. Kepala Disdukcapil dapat menerbitkan surat keterangan pencatatan sipil mengen
 \
 **Sumber rujukan:**
 
-* Pasal 11 Undang-Undang-Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan.
+* Pasal 11 Undang-Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan.
 * Pasal 11 Peraturan Menteri Dalam Negeri Nomor 119 Tahun 2017 tentang Pengangkatan dan Pemberhentian Serta Tugas Pokok Pejabat Pencatatan Sipil dan Petugas Registrasi.
 * Surat Dirjen Dukcapil yang ditujukan kepada Kepala Dinas Dukcapil di seluruh Indonesia Nomor: 471.13/5410/Dukcapil tanggal 22 April 2021 hal Legalisasi Dokumen Pencatatan Sipil yang diterbitkan dengan Kertas HVS dan Tanda Tangan Elektronik yang akan dipergunakan di Luar Negeri.
 

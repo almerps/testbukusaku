@@ -20,10 +20,9 @@ b. Untuk pelayanan secara offline/tatap muka, diserahkan berupa fotokopi bukan a
 c. Dinas tidak menarik surat keterangan lahir mati asli;\
 d. WNI melampirkan Fotokopi KK untuk verifikasi data yang tercantum dalam Formulir Pelaporan Pencatatan Sipil di dalam Wilayah NKRI (F-2.01);\
 e. Untuk pelayanan online/Daring, persyaratan yang discan/difoto untuk diunggah harus aslinya;\
-f. WNI tidak perlu melampirkan fotokopi KTP-el saksi, karena identitasnya sudah tercantum\
-dalam Formulir Pelaporan Pencatatan Sipil di dalam Wilayah NKRI (F-2.01); dan\
-g. Dinas menerbitkan surat keterangan lahir mati.
-
+f. WNI tidak perlu melampirkan fotokopi KTP-el saksi, karena identitasnya sudah tercantum&#x20;dalam Formulir Pelaporan Pencatatan Sipil di dalam Wilayah NKRI (F-2.01); dan\
+g. Dinas menerbitkan surat keterangan lahir mati.\
+\
 **Sumber rujukan:**
 
 * Pasal 33 ayat (1) dan ayat (2) Undang-Undang  &#x20;Nomor 23 Tahun 2006 tentang Administrasi  &#x20;Kependudukan; ([link](https://peraturan.go.id/id/uu-no-23-tahun-2006))
