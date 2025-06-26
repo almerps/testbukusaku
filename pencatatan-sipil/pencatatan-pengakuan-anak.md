@@ -6,14 +6,13 @@ icon: file-contract
 
 <details>
 
-<summary>Bagaimana pencatatan pengangkuan anak di<br>Indonesia dan di luar negeri?</summary>
+<summary>Bagaimana pencatatan pengangkuan anak di Indonesia dan di luar negeri?</summary>
 
-Berdasarkan penjelasan Pasal 49 Undang&#x20;Undang Nomor 24 Tahun 2013 diatur bahwa yang dimaksud dengan "Pengakuan Anak" merupakan pengakuan seorang ayah terhadap anaknya yang lahir dari perkawinan yang telah sah menurut hukum agama dan disetujui oleh ibu kandung anak tersebut.
+Berdasarkan penjelasan Pasal 49 Undang-Undang Nomor 24 Tahun 2013 diatur bahwa yang dimaksud dengan "Pengakuan Anak" merupakan pengakuan seorang ayah terhadap anaknya yang lahir dari perkawinan yang telah sah menurut hukum agama dan disetujui oleh ibu kandung anak tersebut.
 
 **a. Pencatatan pengakuan anak di Indonesia**
 
-1. Pengakuan anak wajib dilaporkan oleh orang tua   &#x20;pada Instansi Pelaksana paling lambat 30 (tiga puluh) hari sejak tanggal surat pengakuan anak oleh ayah dan disetujui oleh ibu dari anak yang bersangkutan. Pengakuan anak hanya berlaku bagi anak yang orang tuanya telah melaksanakan perkawinan sah menurut hukum agama, tetapi belum sah menurut hukum   \
-   negara.
+1. Pengakuan anak wajib dilaporkan oleh orang tua   &#x20;pada Instansi Pelaksana paling lambat 30 (tiga puluh) hari sejak tanggal surat pengakuan anak oleh ayah dan disetujui oleh ibu dari anak yang bersangkutan. Pengakuan anak hanya berlaku bagi anak yang orang tuanya telah melaksanakan perkawinan sah menurut hukum agama, tetapi belum sah menurut hukum   &#x20;negara.
 2. Persyaratan pencatatan pengakuan anak dalam   &#x20;negeri harus memenuhi persyaratan:\
    a) surat pernyataan pengakuan anak dari ayah   &#x20;biologis yang disetujui oleh ibu kandung atau penetapan pengadilan mengenai pengakuan anak jika ibu kandung Orang Asing;   \
    b) surat keterangan   &#x20;telah terjadinya perkawinan dari pemuka agama atau penghayat kepercayaan terhadap Tuhan Yang Maha Esa;   \
