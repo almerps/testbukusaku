@@ -87,8 +87,8 @@ b. Pencatatan pembetulan nama diatur dalam Pasal 4&#x20;ayat (4) Peraturan Ment
 
 Berdasarkan penjelasan di atas dapat ditarik suatu&#x20;pemahaman bahwa kedua hal tersebut mengandung&#x20;kaidah yang berbeda?
 
-a. Perubahan nama dilakukan apabila semua data&#x20;pada dokumen kependudukan dan dokumen&#x20;identitas lainnya namanya sama, jika ingin dikurangi&#x20;atau ditambahkan atau disisipkan satu kata atau&#x20;diganti nama secara keseluruhan harus berdasarkan&#x20;penetapan pengadilan negeri.\
-\
+a. Perubahan nama dilakukan apabila semua data&#x20;pada dokumen kependudukan dan dokumen&#x20;identitas lainnya namanya sama, jika ingin dikurangi&#x20;atau ditambahkan atau disisipkan satu kata atau&#x20;diganti nama secara keseluruhan harus berdasarkan&#x20;penetapan pengadilan negeri.
+
 b. Pembetulan nama, dilakukan jika nama pada&#x20;dokumen kependudukan tersebut salah atau keliru,&#x20;dan ada dokumen otentik yang benar sebagai salah&#x20;satu indikator dasar untuk dilakukan embetulan&#x20;nama ditambahkan dengan mengisi surat&#x20;pernyataan tanggung jawab mutlak (SPTJM) dengan&#x20;2 (dua)orang saksi
 
 **Sumber rujukan:**
@@ -127,12 +127,12 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <details>
 
-<summary>Bagaimana pencatatan perubahan data kependudukan dan akta pencatatan sipil karena<br>berbeda dengan ijazah, khususnya terkait data nama, tempat tanggal lahir dan nama orang tua?</summary>
+<summary>Bagaimana pencatatan perubahan data kependudukan dan akta pencatatan sipil karena berbeda dengan ijazah, khususnya terkait data nama, tempat tanggal lahir dan nama orang tua?</summary>
 
-a. Berdasarkan Pasal 53 Peraturan Presiden Nomor 96&#x20;Tahun 2018 diatur bahwa pencatatan perubahan&#x20;nama Penduduk harus memenuhi persyaratan&#x20;salinan penetapan pengadilan negeri.\
-\
-b. Merujuk Pasal 3 ayat (3) huruf a Peraturan Menteri&#x20;Dalam Negeri Nomor 74 Tahun 2015 diatur dalam&#x20;hal terjadi kesalahan penulisan tempat tanggal lahir&#x20;dilakukan dengan melampirkan dokumen sah yaitu&#x20;kutipan akta kelahiran dan/atau ijazah, selanjutnya&#x20;Pasal 6 huruf a diatur perubahan elemen data nama&#x20;dilakukan dengan cara melampirkan fotokopi kutipan&#x20;akta kelahiran atau ijazah, dan Pasal 15 ayat (1) dan&#x20;ayat (2) diatur elemen data statis tempat dan tanggal&#x20;lahir dapat dilakukan perubahan dengan cara&#x20;melampirkan fotokopi salinan penetapan pengadilan&#x20;dan menunjukkan salinan penetapan pengadilan.\
-\
+a. Berdasarkan Pasal 53 Peraturan Presiden Nomor 96&#x20;Tahun 2018 diatur bahwa pencatatan perubahan&#x20;nama Penduduk harus memenuhi persyaratan&#x20;salinan penetapan pengadilan negeri.
+
+b. Merujuk Pasal 3 ayat (3) huruf a Peraturan Menteri&#x20;Dalam Negeri Nomor 74 Tahun 2015 diatur dalam&#x20;hal terjadi kesalahan penulisan tempat tanggal lahir&#x20;dilakukan dengan melampirkan dokumen sah yaitu&#x20;kutipan akta kelahiran dan/atau ijazah, selanjutnya&#x20;Pasal 6 huruf a diatur perubahan elemen data nama&#x20;dilakukan dengan cara melampirkan fotokopi kutipan&#x20;akta kelahiran atau ijazah, dan Pasal 15 ayat (1) dan&#x20;ayat (2) diatur elemen data statis tempat dan tanggal&#x20;lahir dapat dilakukan perubahan dengan cara&#x20;melampirkan fotokopi salinan penetapan pengadilan&#x20;dan menunjukkan salinan penetapan pengadilan.
+
 c. Selanjutnya pada Lampiran Format I C dan Format 2&#x20;C Permendikbud Nomor 29 Tahun 2014 tentang&#x20;pengesahan Fotokopi Ijazah/Surat Tanda Tamat&#x20;Belajar dan Penerbitan Surat Keterangan Kesalahan&#x20;penulisan Ijazah/STTB bagi sekolah masih&#x20;operasional dan sekolah sudah tidak operasional&#x20;atau tutup.&#x20;Mengenai perubahan data kependudukan (seperti nama,&#x20;tempat tanggal lahir, nama orang tua di dalam Kartu&#x20;Keluarga dan KTP-el) dan akta pencatatan sipil karena&#x20;berbeda dengan ijazah diberikan penjelasan dengan&#x20;terlebih dahulu melihat dokumen pendukung yang&#x20;menyatakan identitas sebenarnya yang ada di dalam&#x20;dokumen pendukung tersebut sebagai berikut:\
 &#x20;1\. Terhadap perubahan elemen data nama pada KK&#x20;dan KTP-el dilakukan dengan melampirkan&#x20;persyaratan fotokopi kutipan akta kelahiran dan/atau&#x20;ijazah, selanjutnya elemen data tempat dan tanggal&#x20;lahir dilakukan dengan melampirkan fotokopi salinan&#x20;penetapan pengadilan; dan perubahan nama pada&#x20;akta pencatatan sipil harus memenuhi persyaratan&#x20;salinan penetapan pengadilan negeri; serta&#x20;perbaikan kesalahan penulisan pada Ijazah/STTB&#x20;yang ditandatangani oleh Kepala Dinas Pendidikan&#x20;Kabupaten/Kota dan/atau Kepala Sekolah;\
 \
@@ -209,8 +209,8 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 <summary>Bagaimana Pembetulan Akta Kelahiran yang Nama Ayah pada Akta Kelahiran bagi Subyek Akta yang Lahir Sebelum Perkawinan Agama?</summary>
 
 Berdasarkan Peraturan Menteri Dalam Negeri Nomor&#x20;108 Tahun 2019, pada:\
-a. Pasal 48 ayat (2) diatur bahwa dalam hal pencatatan&#x20;kelahiran tidak dapat memenuhi persyaratan berupa&#x20;buku nikah/kutipan akta perkawinan atau bukti lain&#x20;yang sah; dan status hubungan dalam keluarga pada&#x20;Kartu Keluarga menunjukan status hubungan&#x20;perkawinan sebagai suami istri, dilakukan pencatatan&#x20;dalam Register Akta Kelahiran dan Kutipan Akta&#x20;Kelahiran sebagai Anak Ayah dan Ibu dengan&#x20;tambahan Frasa, yaitu: yang perkawinannya belum&#x20;tercatat sesuai dengan ketentuan peraturan&#x20;perundang-undangan.\
-\
+a. Pasal 48 ayat (2) diatur bahwa dalam hal pencatatan&#x20;kelahiran tidak dapat memenuhi persyaratan berupa&#x20;buku nikah/kutipan akta perkawinan atau bukti lain&#x20;yang sah; dan status hubungan dalam keluarga pada&#x20;Kartu Keluarga menunjukan status hubungan&#x20;perkawinan sebagai suami istri, dilakukan pencatatan&#x20;dalam Register Akta Kelahiran dan Kutipan Akta&#x20;Kelahiran sebagai Anak Ayah dan Ibu dengan&#x20;tambahan Frasa, yaitu: yang perkawinannya belum&#x20;tercatat sesuai dengan ketentuan peraturan&#x20;perundang-undangan.
+
 b. Pasal 87 (2) huruf d dan e, disebutkan bahwa&#x20;pencatatan Pembetulan Akta Pencatatan Sipil&#x20;dilakukan oleh Pejabat Pencatatan Sipil dengan&#x20;membuat Catatan Pinggir pada Register Akta&#x20;Pencatatan Sipil mengenai pembetulan Akta,&#x20;menerbitkan kembali Kutipan Akta Pencatatan Sipil&#x20;dan mencabut Kutipan Akta Pencatatan Sipil dari&#x20;subjek akta.
 
 Merujuk ketentuan di atas, Akta Kelahiran anak seorang&#x20;Ibu dapat dilakukan pembetulan menjadi anak Ayah dan&#x20;Ibu dengan tambahan frasa dimaksud, apabila pada&#x20;saat anak tersebut dilahirkan orang tuanya sudah&#x20;menunjukkan sebagai suami istri dalam Kartu Keluarga,&#x20;dengan membuat Surat Pernyataan Tanggung Jawab&#x20;Mutlak (SPTJM) Kebenaran sebagai Pasangan Suami&#x20;Istri (F-2.04). Selanjutnya Pejabat Pencatatan Sipil&#x20;membuat Catatan Pinggir pada Register Akta Kelahiran&#x20;dan menerbitkan kembali Kutipan Akta Kelahiran serta&#x20;mencabut Kutipan Akta Kelahiran lama dari subjek akta.
@@ -264,15 +264,15 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 Pembetulan nama dengan permohonan dilakukanjika akta pencatatan sipil sudah diserahkan kepadapemohon sedangkan pembetulan nama tanpapermohonan jika akta pencatatan sipil yang diterbitkan&#x20;belum diserahkan kepada pemohon.&#x20;Persyaratan pencatatan pembetulan nama dengan&#x20;permohonan dengan memenuhi persyaratan berupa&#x20;kutipan akta pencatatan sipil/dokumen kependudukan&#x20;yang akan dibetulkan, dokumen otentik dan SPTJM&#x20;dengan 2 (dua) orang saksi.&#x20;Berdasarkan Pasal 87 Peraturan Menteri Dalam Negeri&#x20;Nomor 108 Tahun 2019 diatur bahwa Pencatatan&#x20;pembetulan akta Pencatatan Sipil yang telah memenuhi&#x20;persyaratan dilakukan dengan tata cara:
 
-a. Pemohon mengisi dan menandatangani formulir&#x20;pelaporan serta menyerahkan persyaratan\
-\
-b. petugas pelayanan melakukan verifikasi dan validasi&#x20;terhadap formulir pelaporan dan persyaratan&#x20;petugas pada Disdukcapil Kabupaten/Kota atau UPT&#x20;Disdukcapil Kabupaten/Kota atau Perwakilan&#x20;Republik Indonesia melakukan perekaman data ke&#x20;dalam basis data kependudukan;\
-\
+a. Pemohon mengisi dan menandatangani formulir&#x20;pelaporan serta menyerahkan persyaratan
+
+b. petugas pelayanan melakukan verifikasi dan validasi&#x20;terhadap formulir pelaporan dan persyaratan&#x20;petugas pada Disdukcapil Kabupaten/Kota atau UPT&#x20;Disdukcapil Kabupaten/Kota atau Perwakilan&#x20;Republik Indonesia melakukan perekaman data ke&#x20;dalam basis data kependudukan;
+
 c. pejabat Pencatatan Sipil pada Disdukcapil&#x20;Kabupaten/Kota atau UPT Disdukcapil\
-Kabupaten/Kota atau Perwakilan Republik Indonesia&#x20;membuat catatan pinggir pada register akta&#x20;Pencatatan Sipil mengenai pembetulan akta;\
-\
-d. pejabat Pencatatan Sipil sebagaimana dimaksud&#x20;dalam huruf d, menerbitkan kembali kutipan akta&#x20;Pencatatan Sipil dan mencabut kutipan akta&#x20;Pencatatan Sipil dari subjek akta; dan\
-\
+Kabupaten/Kota atau Perwakilan Republik Indonesia&#x20;membuat catatan pinggir pada register akta&#x20;Pencatatan Sipil mengenai pembetulan akta;
+
+d. pejabat Pencatatan Sipil sebagaimana dimaksud&#x20;dalam huruf d, menerbitkan kembali kutipan akta&#x20;Pencatatan Sipil dan mencabut kutipan akta&#x20;Pencatatan Sipil dari subjek akta; dan
+
 e. kutipan akta Pencatatan Sipil yang telah dibetulkan&#x20;diserahkan kepada Pemohon.
 
 **Sumber rujukan:**\

@@ -65,8 +65,8 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 Terkait permohonan perubahan status pada&#x20;kutipan akta kelahiran menjadi anak pasangan suami&#x20;isteri. Dalam penerbitan akta kelahiran saat itu&#x20;dipandang terdapat kesalahan petugas pelayanan tidak&#x20;meminta persyaratan bukti perkawinan orang tuanya,&#x20;sehingga terbit akta kelahiran dengan status sebagai&#x20;anak seorang ibu yang seharusnya anak pasangan&#x20;suami isteri.&#x20;
 
-Oleh karena itu perlu penerbitan kembali&#x20;kutipan akta kelahiran untuk memperbaiki kesalahan&#x20;tersebut dengan mekanisme Contrarius Actus, Pejabat&#x20;Pencatatan Sipil mencabut kutipan akta kelahiran dan&#x20;menerbitkan kembali kutipan akta kelahiran.&#x20;Proses pencabutan dan penerbitan kembali&#x20;kutipan akta kelahiran dilakukan di tempat penduduk&#x20;berdomisili Disdukcapil Kabupaten/Kota sebagaimana&#x20;ketentuan Pasal 102 huruf b Undang-Undang Nomor 24&#x20;Tahun 2013.\
-\
+Oleh karena itu perlu penerbitan kembali&#x20;kutipan akta kelahiran untuk memperbaiki kesalahan&#x20;tersebut dengan mekanisme Contrarius Actus, Pejabat&#x20;Pencatatan Sipil mencabut kutipan akta kelahiran dan&#x20;menerbitkan kembali kutipan akta kelahiran.&#x20;Proses pencabutan dan penerbitan kembali&#x20;kutipan akta kelahiran dilakukan di tempat penduduk&#x20;berdomisili Disdukcapil Kabupaten/Kota sebagaimana&#x20;ketentuan Pasal 102 huruf b Undang-Undang Nomor 24&#x20;Tahun 2013.
+
 Selanjutnya Disdukcapil Kabupaten/Kota sesuai&#x20;domisili sekarang memberitahukan pencabutan dan&#x20;penerbitan kembali tersebut kepada Disdukcapil&#x20;Kabupaten/Kota yang menerbitkan kutipan akta&#x20;kelahirannya untuk membuat catatan pinggir pada&#x20;register akta kelahiran dimaksud
 
 **Sumber rujukan:**
@@ -89,8 +89,8 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 Berdasarkan:\
 a. Pasal 4 huruf d dan Pasal 41 Undang-Undang Nomor&#x20;12 Tahun 2006. Anak yang lahir dari perkawinan yang&#x20;sah dari seorang ayah warga negara asing dan ibu&#x20;Warga Negara Indonesia. Sebelum Undang-Undang&#x20;Nomor 12 Tahun 2006 ini diundangkan dan belum&#x20;berusia 18 (delapan belas) tahun atau belum kawin&#x20;memperoleh Kewarganegaraan Indonesia selanjutnya&#x20;mendaftarkan diri kepada Menteri Kemenkumham&#x20;melalui Pejabat atau Perwakilan Republik Indonesia&#x20;paling lambat 4 (tahun) setelah Undang-Undang 12&#x20;Tahun 2006 diundangkan (Diundangkan di Jakarta&#x20;pada tanggal 1 Agustus 2006).
 
-b. Pasal 60 ayat (1) Peraturan Pemerintah Nomor 2&#x20;Tahun 2007, maka paling lambat 3 (tiga) tahun setelah&#x20;berusia 18 (delapan belas) tahun atau sudah kawin&#x20;harus menyatakan memilih salah satu&#x20;kewarganegaraannya.\
-\
+b. Pasal 60 ayat (1) Peraturan Pemerintah Nomor 2&#x20;Tahun 2007, maka paling lambat 3 (tiga) tahun setelah&#x20;berusia 18 (delapan belas) tahun atau sudah kawin&#x20;harus menyatakan memilih salah satu&#x20;kewarganegaraannya.
+
 Merujuk ketentuan di atas, apabila anak tersebut sudah&#x20;didaftarakan ke Kemenkumham menjadi Warga Negara&#x20;Indonesia Anak Berkewarganegaraan Ganda Terbatas&#x20;berdasarkan Surat Keputusan Menkumham maka dalam&#x20;penerbitan Dokumen Kependudukan dan Pencatatan&#x20;Sipil anak yang bersangkutan ditulis sebagai Warga&#x20;Negara Indonesia.
 
 **Sumber rujukan:**

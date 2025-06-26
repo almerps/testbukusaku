@@ -161,7 +161,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 <summary>Apa langkah-langkah yang harus dilakukan oleh pihak berwenang untuk melindungi hak anak berkewarganegaraan ganda?</summary>
 
 Pihak berwenang harus melakukan langkah-langkah berikut:\
-a. Melakukan pendataan terhadap anak berkewarganegaraan ganda di wilayahnya.\
+a. Melakukan pendataan terhadap anak berkewarganegaraan ganda di wilayahnya.\
 b. Melakukan sosialisasi dan advokasi kepada penduduk, terutama kepada anak berkewarganegaraan ganda, mengenai ketentuan untuk memilih kewarganegaraan setelah berusia 18 tahun atau menikah.\
 c. Melakukan koordinasi dengan Kantor Wilayah Kementerian Hukum dan HAM setempat terhadap penduduk/anak berkewarganegaraan ganda tersebut. \
 \
@@ -184,8 +184,8 @@ Berdasarkan Pasal 57 Peraturan Presiden 96 Tahun 2018 dan Pasal 84 Peraturan Men
 Persyaratan tersebut meliputi:\
 a. Petikan Keputusan Menteri yang menyelenggarakan urusan pemerintahan di bidang hukum tentang Peraturan Presiden perubahan status kewarganegaraan atau surat keterangan pelepasan kewarganegaraan Indonesia dari Perwakilan Republik Indonesia.\
 b. Kutipan akta pencatatan sipil.\
-c. Dokumen Perjalanan Republik Indonesia.\
-\
+c. Dokumen Perjalanan Republik Indonesia.
+
 Agar berkoordinasi dengan Kanwil Kementerian Hukum dan HAM setempat, untuk memastikan apakah perubahan status kewarganegaraan yang bersangkutan telah mempunyai persyaratan sebagaimana dimaksud di atas. Apabila yang bersangkutan telah mempunyai persyaratan tersebut, maka Dinas Dukcapil Kota Medan dapat merubah statusnya menjadi bukan penduduk dan WNA serta membuatkan catatan pinggir pada register dan kutipan akta pencatatan sipil yang dimiliki. Tetapi apabila yang bersangkutan belum mempunyai persyaratan dimaksud, maka diminta kepada Saudara agar segera mengusulkan penonaktifan NIK nya kepada Ditjen Kependudukan dan Pencatatan Sipil. \
 \
 **Sumber rujukan:**

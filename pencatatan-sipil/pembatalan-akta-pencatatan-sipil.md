@@ -50,8 +50,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pembatalan akta kelahiran berdasarkan putusan Peninjauan Kembali Mahkamah Agung yang sudah mempunyai kekuatan hukum tetap, namun akta kelahiran yang akan dibatalkan (terbitan tahun 2009) masih dikuasai ibu kandungnya dan adanya<br>permintaan kembali akta kelahiran yang telah diserahkan sebelumnya (terbitan tahun 2010), yang isi/substansi memiliki kesamaan dengan akta kelahiran terbitan tahun 2009?</summary>
 
-a. Berdasarkan Pasal 89 ayat (1) Peraturan Menteri&#x20;Dalam Negeri Nomor 108 Tahun 2019, diatur bahwa&#x20;pencatatan pembatalan akta pencatatan sipil bagi&#x20;penduduk harus memenuhi persyaratan: salinan&#x20;putusan pengadilan yang telah mempunyai kekuatan&#x20;hukum tetap, kutipan akta pencatatan sipil yang&#x20;dibatalkan, KK dan KTP-el.\
-
+a. Berdasarkan Pasal 89 ayat (1) Peraturan Menteri&#x20;Dalam Negeri Nomor 108 Tahun 2019, diatur bahwa&#x20;pencatatan pembatalan akta pencatatan sipil bagi&#x20;penduduk harus memenuhi persyaratan: salinan&#x20;putusan pengadilan yang telah mempunyai kekuatan&#x20;hukum tetap, kutipan akta pencatatan sipil yang&#x20;dibatalkan, KK dan KTP-el.
 
 b. Selanjutnya ayat (3) huruf d, huruf e dan huruf f diatur&#x20;pencatatan pembatalan akta pencatatan sipil&#x20;berdasarkan putusan pengadilan yang telah&#x20;mempunyai kekuatan hukum tetap, Pejabat&#x20;Pencatatan Sipil pada Disdukcapil Kab/Kota membuat&#x20;catatan pinggir pada register akta pencatatan sipil,&#x20;mencabut kutipan akta pencatatan sipil dan&#x20;menerbitkan register akta pencatatan sipil dan kutipan&#x20;akta pencatatan sipil sesuai dengan putusan&#x20;pengadilan.&#x20;
 
@@ -102,8 +101,8 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Apakah Ditjen Dukcapil Kementerian Dalam Negerimempunyai kewenangan untuk membatalkan akta pencatatan sipil?</summary>
 
-a. Berdasarkan Pasal 72 Undang-Undang Nomor 23&#x20;Tahun 2006 bahwa pembatalan akta p mempunyai kekuatan hukum tetap.\
-\
+a. Berdasarkan Pasal 72 Undang-Undang Nomor 23&#x20;Tahun 2006 bahwa pembatalan akta p mempunyai kekuatan hukum tetap.
+
 b. Sesuai Pasal 89 ayat (2) dan ayat (4) Peraturan&#x20;Menteri Dalam Negeri Nomor 108 Tahun 2019, diatur&#x20;bahwa pembatalan akta pencatatan sipil dapat juga&#x20;dilakukan tanpa melalui pengadilan/Contrarius Actus,&#x20;dengan memenuhi persyaratan berupa kutipan akta&#x20;pencatatan sipil yang dibatalkan, dokumen pendukung&#x20;yang menguatkan pembatalan, fotokopi KK, KTP-el&#x20;dan surat pernyataan tanggung jawab mutlak.&#x20;Disamping itu, pembatalan akta pencatatan sipil tanpa&#x20;melalui pengadilan/Contrarius Actus hanya dapat&#x20;dilakukan apabila tidak dalam sengketa.&#x20;
 
 Merujuk ketentuan di atas, Ditjen Dukcapil Kementerian&#x20;Dalam Negeri tidak mempunyai kewenangan untuk&#x20;membatalkan akta pencatatan sipil. Pencatatan&#x20;pembatalan akta pencatatan sipil dilakukan oleh&#x20;Disdukcapil Kabupaten/Kota tempat penduduk/subyek&#x20;akta berdomisili.
@@ -126,8 +125,8 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pembatalan akta kematian?</summary>
 
-a. Berdasarkan Pasal 72 Undang-Undang Nomor 23&#x20;Tahun 2006 diatur bahwa pembatalan akta pencatatan&#x20;sipil dilakukan berdasarkan putusan pengadilan yang&#x20;telah mempunyai kekuatan hukum tetap.\
-\
+a. Berdasarkan Pasal 72 Undang-Undang Nomor 23&#x20;Tahun 2006 diatur bahwa pembatalan akta pencatatan&#x20;sipil dilakukan berdasarkan putusan pengadilan yang&#x20;telah mempunyai kekuatan hukum tetap.
+
 b. Merujuk Pasal 89 ayat (2) dan ayat (4) Peraturan&#x20;Menteri Dalam Negeri Nomor 108 Tahun 2019, diatur&#x20;bahwa pembatalan akta pencatatan sipil dapat juga&#x20;dilakukan tanpa melalui pengadilan/Contrarius Actus,&#x20;dengan memenuhi persyaratan berupa kutipan akta&#x20;pencatatan sipil yang dibatalkan, dokumen pendukung&#x20;yang menguatkan pembatalan, fotokopi KK, KTP-el&#x20;dan surat pernyataan tanggung jawab mutlak.&#x20;Disamping itu, pembatalan akta pencatatan sipil tanpa&#x20;melalui pengadilan/Contrarius Actus hanya dapat\
 dilakukan apabila tidak dalam sengketa.
 
@@ -149,11 +148,10 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pembatalan akta kelahiran yang tidak dikabulkan oleh hakim pengadilan dengan pertimbangan Pengadilan Negeri tidak mempunyai wewenang untuk membatalkan akta kelahiran?</summary>
 
-a. Pasal 72 Undang-Undang Nomor 23 Tahun 2006 diatur&#x20;pembatalan akta pencatatan sipil dilakukan&#x20;berdasarkan putusan pengadilan yang telah&#x20;mempunyai kekuatan hukum tetap. Berdasarkan&#x20;putusan pengadilan tersebut, Pejabat Pencatatan Sipil&#x20;membuat catatan pinggir pada register akta dan&#x20;mencabut kutipan akta pencatatan sipil yang&#x20;dibatalkan.\
-\
-b. Pembatalan akta dapat dilakukan tanpa penetapan&#x20;pengadilan, dengan berdasarkan asas Contarius Actus&#x20;dan karena benar-benar terdapat kesalahan/kekeliruan&#x20;serta menggunakan Pasal 66 Undang-Undang Nomor&#x20;30 Tahun 2014 tentang Administrasi Pemerintahan.          &#x20;
+a. Pasal 72 Undang-Undang Nomor 23 Tahun 2006 diatur&#x20;pembatalan akta pencatatan sipil dilakukan&#x20;berdasarkan putusan pengadilan yang telah&#x20;mempunyai kekuatan hukum tetap. Berdasarkan&#x20;putusan pengadilan tersebut, Pejabat Pencatatan Sipil&#x20;membuat catatan pinggir pada register akta dan&#x20;mencabut kutipan akta pencatatan sipil yang&#x20;dibatalkan.
 
-\
+b. Pembatalan akta dapat dilakukan tanpa penetapan&#x20;pengadilan, dengan berdasarkan asas Contarius Actus&#x20;dan karena benar-benar terdapat kesalahan/kekeliruan&#x20;serta menggunakan Pasal 66 Undang-Undang Nomor&#x20;30 Tahun 2014 tentang Administrasi Pemerintahan.
+
 c. Disdukcapil Kabupaten/Kota melakukan pembatalan&#x20;setelah ada permohonan pembatalan akta dari subyek&#x20;akta atau pihak lain yang berkepentingan atau yang&#x20;dirugikan. Pemohon juga harus membuat surat&#x20;pernyataan tanggung jawab mutlak untuk menjamin&#x20;kebenaran data yang diberikan.
 
 **Sumber rujukan:**
