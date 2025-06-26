@@ -106,8 +106,8 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana cara pembatalan SKPWNI karena permohonan pindah tanpa diketahui oleh yang bersangkutan?</summary>
 
-Proses pembatalan SKPWNI karena kesalahan&#x20;proses penyalahgunaan dapat dilakukan di Disdukcapil&#x20;yang menerbitkan SKPWNI dengan menerapkan asas&#x20;contrarius actus dengan membawa dokumen&#x20;pendukung.\
-\
+Proses pembatalan SKPWNI karena kesalahan&#x20;proses penyalahgunaan dapat dilakukan di Disdukcapil&#x20;yang menerbitkan SKPWNI dengan menerapkan asas&#x20;contrarius actus dengan membawa dokumen&#x20;pendukung.
+
 **Sumber rujukan:**
 
 * Pasal 38 Peraturan Menteri Dalam Negeri Nomor  &#x20;108 Tahun 2019 Persyaratan dan Tata Cara  &#x20;Pendaftaran Penduduk dan Pencatatan Sipil.([link](https://peraturan.go.id/id/permendagri-no-108-tahun-2019))

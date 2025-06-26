@@ -345,8 +345,8 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 
 Berdasarkan Petunjuk pengisian Formulir Pelaporan Pencatatan Sipil di Dalam Wilayah NKRI\
-(F-2.01) dan Formulasi Kalimat Register Akta Kelahiran (F-2.14) berdasarkan Peraturan Menteri Dalam Negeri Nomor 109 Tahun 2019 tentang Formulir dan Buku Yang Digunakan Dalam Administrasi Kependudukan, diatur bahwa penulisan tempat terjadinya peristiwa penting (seperti: tempat lahir, mati) diisi nama kabupaten/kota, dengan penjelasan:\
-\
+(F-2.01) dan Formulasi Kalimat Register Akta Kelahiran (F-2.14) berdasarkan Peraturan Menteri Dalam Negeri Nomor 109 Tahun 2019 tentang Formulir dan Buku Yang Digunakan Dalam Administrasi Kependudukan, diatur bahwa penulisan tempat terjadinya peristiwa penting (seperti: tempat lahir, mati) diisi nama kabupaten/kota, dengan penjelasan:
+
 a. Peristiwa penting yang terjadi di kabupaten/kota, maka tempat terjadinya ditulis nama\
 “kabupaten/kota” dalam dokumen kependudukan, contohnya Kabupaten Tangerang dan Kota Tangerang.\
 b. Khusus untuk peristiwa penting yang terjadi di Provinsi DKI Jakarta, maka tempat terjadinya ditulis Jakarta dalam dokumen kependudukan.\

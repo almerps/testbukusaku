@@ -50,8 +50,7 @@ Pasal 50, Pasal 51 dan Pasal 52 Peraturan Menteri Dalam Negeri 108 Tahun 2019, s
 a. Pemohon mengisi dan menandatangani formulir pelaporan pencatatan sipil di dalam wilayah NKRI dengan kode F-2.01 serta menyerahkan persyaratan.\
 b. Petugas pelayanan melakukan verifikasi dan validasi terhadap formulir pelaporan dan persyaratan.\
 c. Petugas pada Disdukcapil Kabupaten/Kota atau UPT Disdukcapil Kabupaten/Kota melakukan perekaman data dalam basis data kependudukan.\
-d. Disdukcapil Kabupaten/Kota atau UPT Disdukcapil Kabupaten/Kota mencatat dalam register akta perkawinan dan menerbitkan kutipan akta perkawinan.\
-
+d. Disdukcapil Kabupaten/Kota atau UPT Disdukcapil Kabupaten/Kota mencatat dalam register akta perkawinan dan menerbitkan kutipan akta perkawinan.
 
 Kutipan akta perkawinan disampaikan kepada pemohon beserta dokumen kependudukan lainnya berupa KTP-el dengan status Kawin dan KK yang sudah dimutakhirkan datanya serta memusnahkan KTP-el asli yang lama.
 
@@ -209,8 +208,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pelaporan pencatatan perkawinan WNI dengan WNA yang terjadi di luar negeri?</summary>
 
-a. Berdasarkan Pasal 8 ayat (1) Undang-Undang Nomor 24 Tahun 2013 diatur bahwa Instansi Pelaksana melaksanakan urusan administrasi kependudukan dengan kewajiban yang meliputi antara lain mendaftar peristiwa kependudukan dan mencatat peristiwa penting.\
-
+a. Berdasarkan Pasal 8 ayat (1) Undang-Undang Nomor 24 Tahun 2013 diatur bahwa Instansi Pelaksana melaksanakan urusan administrasi kependudukan dengan kewajiban yang meliputi antara lain mendaftar peristiwa kependudukan dan mencatat peristiwa penting.
 
 b. Sesuai Pasal 97 ayat (3) dan ayat (4) Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 diatur bahwa dalam hal pencatatan peristiwa penting WNI di Luar Wilayah NKRI yang telah dicatatkan pada instansi yang berwenang di negara setempat belum dilaporkan kepada Perwakilan RI.
 
@@ -236,8 +234,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pencatatan perkawinan beda agama di Indonesia?</summary>
 
-a. Berdasarkan Pasal 35 huruf a Undang-Undang Nomor 23 Tahun 2006, diatur bahwa pencatatan perkawinan berlaku pula bagi perkawinan yang ditetapkan oleh Pengadilan. Penjelasan yang diberikan dalam pasal ini menjelaskan bahwa perkawinan yang ditetapkan oleh pengadilan adalah perkawinan yang melibatkan antar-umat yang berbeda agama.\
-
+a. Berdasarkan Pasal 35 huruf a Undang-Undang Nomor 23 Tahun 2006, diatur bahwa pencatatan perkawinan berlaku pula bagi perkawinan yang ditetapkan oleh Pengadilan. Penjelasan yang diberikan dalam pasal ini menjelaskan bahwa perkawinan yang ditetapkan oleh pengadilan adalah perkawinan yang melibatkan antar-umat yang berbeda agama.
 
 b. Merujuk Pasal 7 ayat (2) huruf l Undang-Undang Nomor 30 Tahun 2014 menyebutkan bahwa Pejabat Pemerintahan memiliki kewajiban untuk mematuhi putusan Pengadilan yang telah berkekuatan hukum tetap.
 
@@ -316,8 +313,7 @@ Berdasarkan:\
 a. Pasal 3 Ayat (1) dan Pasal 9 Undang-Undang Nomor 1 Tahun 1974;\
 b. Pasal 8 Ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2013;\
 c. Pasal 38 ayat (1) dan ayat (2) Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019; dan\
-d. Pasal 7 ayat (3) huruf a Kompilasi Hukum Islam.\
-
+d. Pasal 7 ayat (3) huruf a Kompilasi Hukum Islam.
 
 Merujuk ketentuan diatas, maka:\
 a. Disdukcapil tidak diperbolehkan mengubah data dalam KK dan KTP-el dari "Kawin Belum Tercatat" menjadi "Belum Kawin" hanya dengan berdasarkan keterangan yang bersangkutan bahwa pernikahannya tidak resmi/belum dicatatkan secara negara.
@@ -546,8 +542,7 @@ a. Berdasarkan Pasal 37 ayat (1) Peraturan Presiden Nomor 96 Tahun 2018, yang in
 3. KK;
 4. KTP-el; dan
 5. bagi janda atau duda karena cerai mati melampirkan akta kematian pasangannya; atau
-6. bagi janda atau duda karena cerai hidup melampirkan akta perceraian.\
-
+6. bagi janda atau duda karena cerai hidup melampirkan akta perceraian.
 
 b. Merujuk Pasal 63 Peraturan Presiden Nomor 96 Tahun 2018 dan Pasal 51 Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019, yang intinya mengatur bahwa pencatatan perkawinan dilaksanakan dengan tahapan yaitu:
 
@@ -717,8 +712,7 @@ b. Hasil rapat antar Kementerian/Lembaga tentang Pembahasan Pasangan Menikah Yan
 Akibat hukum pemberlakuan SPTJM Perkawinan belum Tercatat (F-1.05) tidak diperuntukan untuk perkawinan dibawah umur (belum berusia 19 tahun):
 
 a. Status perkawinan pada Biodata, KK dan KTP-el tercantum belum kawin.\
-b. Status hukum pada akta kelahiran anaknya tercantum sebagai anak seorang ibu, karena orang tua tidak ada perkawinan (tidak memiliki buku nikah/akta perkawinan), dimana pada KK tidak menunjukkan hubungan pasangan suami istri (pada kolom ke 17 hanya tercantum nama ibunya saja)\
-
+b. Status hukum pada akta kelahiran anaknya tercantum sebagai anak seorang ibu, karena orang tua tidak ada perkawinan (tidak memiliki buku nikah/akta perkawinan), dimana pada KK tidak menunjukkan hubungan pasangan suami istri (pada kolom ke 17 hanya tercantum nama ibunya saja).
 
 Alternatif solusi pencatatan perkawinan bagi perkawinan belum mencapai umur 19 (sembilan\
 belas) tahun antara lain:\

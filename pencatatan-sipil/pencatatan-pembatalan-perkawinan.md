@@ -41,8 +41,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana status hukum anak bagi yang perkawinannya dibatalkan?</summary>
 
-Status&#x20;hukum&#x20;anak&#x20;bagi&#x20;yang&#x20;perkawinannya dibatalkan tidak berlaku surut&#x20;terhadap anak-anak yang dilahirkan dari&#x20;perkawinan tersebut, sebagaimana diamanatkan&#x20;dalam:\
-
+Status&#x20;hukum&#x20;anak&#x20;bagi&#x20;yang&#x20;perkawinannya dibatalkan tidak berlaku surut&#x20;terhadap anak-anak yang dilahirkan dari&#x20;perkawinan tersebut, sebagaimana diamanatkan&#x20;dalam:
 
 1. Pasal 28 ayat (2) huruf a Undang-Undang   &#x20;Nomor 1 Tahun 1974, yang intinya diatur   &#x20;bahwa keputusan pengadilan mengenai   &#x20;pembatalan perkawinan tidak berlaku surut   &#x20;terhadap anak-anak yang dilahirkan dari   &#x20;perkawinan tersebut.
 2. Pasal 72 Undang-Undang Nomor 23 Tahun   &#x20;2006, diatur bahwa pembatalan akta   &#x20;pencatatan sipil dilakukan berdasarkan   &#x20;putusan pengadilan yang telah mempunyai   &#x20;kekuatan hukum tetap.
