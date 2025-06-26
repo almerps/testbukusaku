@@ -22,8 +22,7 @@ c. Pemohon menyerahkan fotokopi dokumen atau bukti peristiwa kependudukan dan pe
 d. Pemohon menyerahkan fotokopi bukti Pendidikan terakhir (ijazah);\
 e. Apabila huruf c dan huruf d tidak dimiliki, maka Pemohon mengisi Surat Peryataan Tidak Memiliki Dokumen Kependudukan (F1.04);\
 f. Pemohon menyerahkan surat pernyataan (asli) tidak keberatan dari pemilik rumah apabila menumpang KK, menyewa rumah, kontrak dan kost;\
-g. Dinas menerbitkan Biodata. Dalam hal Biodata diminta oleh penduduk, Dinas memberikan\
-Biodatanya.
+g. Dinas menerbitkan Biodata. Dalam hal Biodata diminta oleh penduduk, Dinas memberikan Biodatanya.
 
 Catatan:\
 Untuk pelayanan online/daring, persyaratan yang discan/difoto untuk diunggah harus aslinya.

@@ -168,8 +168,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana Penerbitan Dokumen Kependudukan, apakah dapat dibantu pelaporannya oleh orang lain?</summary>
 
-a. Penerbitan dokumen kependudukan dapat dibantu pelaporannya oleh orang lain, dengan\
-penjelasan:
+a. Penerbitan dokumen kependudukan dapat dibantu pelaporannya oleh orang lain, dengan penjelasan:
 
 1. Berdasarkan amanat Pasal 66 ayat (1) dan ayat (2) Peraturan Presiden Nomor 96 Tahun\
    2018 Tentang Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil,\
