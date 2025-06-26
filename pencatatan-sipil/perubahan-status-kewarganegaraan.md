@@ -46,7 +46,9 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana cara menerbitkan Dokumen Kependudukan bagi anak hasil perkawinan campur secara siri (tidak tercatat) dan tanpa dokumen pendukung lainnya?</summary>
 
-Berdasarkan Pasal 4 huruf h Undang-Undang Nomor 12 Tahun 2006 diatur bahwa, Warga Negara Indonesia salah satunya adalah anak yang lahir diluar perkawinan yang sah dari seorang ibu warga negara asing yang diakui oleh seorang ayah WNI sebagai anaknya dan pengakuan itu sebelum anak tersebut berumur 18 (delapan belas) tahun atau belum kawin.&#x20;Sehubungan dengan hal tersebut, perlu dilakukan pengakuan anak oleh ayah kandungnya melalui Pengadilan, sehingga atas dasar pengakuan anak tersebut, dapat dicatatkan dalam dokumen kependudukan sebagai anak berkewarganegaraan ganda (WNI) dan setelah berusia 18 (delapan belas) tahun atau sudah kawin anak tersebut harus menyatakan memilih salah satu kewarganegaraannya, sesuai dengan Pasal 6 Undang-Undang Nomor 12 Tahun 2006.\
+Berdasarkan Pasal 4 huruf h Undang-Undang Nomor 12 Tahun 2006 diatur bahwa, Warga Negara Indonesia salah satunya adalah anak yang lahir diluar perkawinan yang sah dari seorang ibu warga negara asing yang diakui oleh seorang ayah WNI sebagai anaknya dan pengakuan itu sebelum anak tersebut berumur 18 (delapan belas) tahun atau belum kawin.
+
+Sehubungan dengan hal tersebut, perlu dilakukan pengakuan anak oleh ayah kandungnya melalui Pengadilan, sehingga atas dasar pengakuan anak tersebut, dapat dicatatkan dalam dokumen kependudukan sebagai anak berkewarganegaraan ganda (WNI) dan setelah berusia 18 (delapan belas) tahun atau sudah kawin anak tersebut harus menyatakan memilih salah satu kewarganegaraannya, sesuai dengan Pasal 6 Undang-Undang Nomor 12 Tahun 2006.\
 \
 **Sumber rujukan:**
 
@@ -65,10 +67,10 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana Pencatatan Perubahan Status Kewarganegaraan pada Dokumen Kependudukan dan Akta Pencatatan Sipil?</summary>
 
-Berdasarkan ketentuan Pasal 54 ayat (1), (2), (3) dan (4) Undang-Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan, intinya diatur bahwa setiap Perubahan status kewarganegaraan dari WNI menjadi WNA yang telah mendapat persetujuan dari negara&#x20;setempat wajib dilaporkan oleh penduduk yang bersangkutan kepada Perwakilan Republik Indonesia untuk dibuatkan Surat Keterangan Pelepasan Kewarganegaraan dan surat tersebut oleh Perwakilan Republik Indonesia diteruskan kepada menteri yang berwenang menurut peraturan perundang-undangan untuk diterbitkan SK Pelepasan Kewarganegaraannya&#x20;dan disampaikan kepada Instansi Pelaksana yang menerbitkan Akta Pencatatan Sipil yang bersangkutan. \
-\
-Dalam aplikasi SIAK, perubahan Status Kewarganegaraan syarat utama yang harus diisi adalah Nomor SK Pelepasan Kewarganegaraan yang dikeluarkan oleh menteri yang berwenang menurut peraturan perundang-undangan dalam hal ini menteri Hukum dan HAM.&#x20;Sehingga dalam setiap perubahan status kewarganegaraan WNI menjadi WNA harus memiliki SK Pelepasan kewarganegaraan untuk merubah status kewarganegaraan seseorang dalam aplikasi SIAK dan dibuatkan catatan pinggir pada kutipan akta dan register akta pencatatan sipil.\
-\
+Berdasarkan ketentuan Pasal 54 ayat (1), (2), (3) dan (4) Undang-Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan, intinya diatur bahwa setiap Perubahan status kewarganegaraan dari WNI menjadi WNA yang telah mendapat persetujuan dari negara&#x20;setempat wajib dilaporkan oleh penduduk yang bersangkutan kepada Perwakilan Republik Indonesia untuk dibuatkan Surat Keterangan Pelepasan Kewarganegaraan dan surat tersebut oleh Perwakilan Republik Indonesia diteruskan kepada menteri yang berwenang menurut peraturan perundang-undangan untuk diterbitkan SK Pelepasan Kewarganegaraannya&#x20;dan disampaikan kepada Instansi Pelaksana yang menerbitkan Akta Pencatatan Sipil yang bersangkutan.&#x20;
+
+Dalam aplikasi SIAK, perubahan Status Kewarganegaraan syarat utama yang harus diisi adalah Nomor SK Pelepasan Kewarganegaraan yang dikeluarkan oleh menteri yang berwenang menurut peraturan perundang-undangan dalam hal ini menteri Hukum dan HAM.&#x20;Sehingga dalam setiap perubahan status kewarganegaraan WNI menjadi WNA harus memiliki SK Pelepasan kewarganegaraan untuk merubah status kewarganegaraan seseorang dalam aplikasi SIAK dan dibuatkan catatan pinggir pada kutipan akta dan register akta pencatatan sipil.
+
 **Sumber rujukan:**
 
 * Pasal 54 ayat (1), (2), (3) dan (4) Undang-Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan. ([link](https://peraturan.go.id/id/uu-no-23-tahun-2006))
@@ -150,8 +152,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Apa langkah-langkah yang harus dilakukan oleh pihak berwenang untuk melindungi hak anak berkewarganegaraan ganda?</summary>
 
-Pihak berwenang harus melakukan langkah-langkah berikut:
-
+Pihak berwenang harus melakukan langkah-langkah berikut:\
 a. Melakukan pendataan terhadap anak berkewarganegaraan ganda di wilayahnya.
 
 b. Melakukan sosialisasi dan advokasi kepada penduduk, terutama kepada anak berkewarganegaraan ganda, mengenai ketentuan untuk memilih kewarganegaraan setelah berusia 18 tahun atau menikah.
