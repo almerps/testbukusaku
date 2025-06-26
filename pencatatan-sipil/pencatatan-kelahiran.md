@@ -182,8 +182,6 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana terhadap akta kelahiran/pencatatan sipil yang diterbitkan dengan kertas HVS dan tanda tangan elektronik yang tidak diterima oleh beberapa negara?</summary>
 
-
-
 Kementerian Luar Negeri telah menyampaikan Nota Diplomatik Nomor D/01701/08/2020/64 dan Nomor D/01744/08/2020/64 kepada seluruh Perwakilan Negara Asing dan Organisasi Internasional di Indonesia yang intinya menyampaikan bahwa Kutipan Akta Pencatatan Sipil menggunakan kertas HVS 80gram ukuran A4 dan ditandatangani secara elektronik. Selanjutnya, berdasarkan Surat Dirjen Dukcapil Nomor 471.13/5410/DUKCAPIL tanggal 22 April 2021, disampaikan bahwa:
 
 a. Merujuk ketentuan Pasal 11 Undang-Undang Nomor 23 Tahun 2006 dan Pasal 11 Peraturan&#x20;Menteri Dalam Negeri Nomor 119 Tahun 2017, telah diatur antara lain bahwa Kepala Disdukcapil dapat membuat dan menandatangani keterangan pencatatan sipil.
@@ -208,9 +206,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana penggunaan Surat Pernyataan Tanggung Jawab Mutlak (SPTJM) Kebenaran<br>sebagai suami istri?</summary>
 
-
-
-Berdasarkan Pasal 34 Peraturan Presiden Nomor 96 Tahun 2018 dan Pasal 48 ayat (2) Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019, yang intinya diatur bahwa penduduk dapat membuat SPTJM kebenaran data dengan diketahui 2 (dua) orang saksi apabila tidak memiliki buku nikah/kutipan akta perkawinan atau bukti lain yang sah tetapi status hubungan dalam KK menunjukan sebagai suami istri.&#x20;Selanjutnya dicatat dalam register akta kelahiran dan kutipan akta kelahiran sebagai anak ayah dan ibu dengan tambahan frasa yaitu yang “perkawinannya belum tercatat sesuai dengan ketentuan peraturan perundang-undangan”.\
+Berdasarkan Pasal 34 Peraturan Presiden Nomor 96 Tahun 2018 dan Pasal 48 ayat (2) Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019, yang intinya diatur bahwa penduduk dapat membuat SPTJM kebenaran data dengan diketahui 2 (dua) orang saksi apabila tidak memiliki buku nikah/kutipan akta perkawinan atau bukti lain yang sah tetapi status hubungan dalam KK menunjukan sebagai suami istri.&#x20;Selanjutnya dicatat dalam register akta kelahiran dan kutipan akta kelahiran sebagai anak ayah dan ibu dengan tambahan frasa yaitu yang “perkawinannya belum tercatat sesuai dengan ketentuan peraturan perundang-undangan”.\
 \
 **Sumber rujukan:**
 
@@ -229,9 +225,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pembuatan akta kelahiran anak yang tidak diketahui asal usulnya atau keberadaan orang tuanya (anak terlantar) dan proses pengangkatan anak?</summary>
 
-
-
-Berdasarkan Pasal 33 Peraturan Presiden Nomor 96 Tahun 2018 diatur bahwa pencatatan&#x20;kelahiran bagi anak yang tidak diketahui asal usulnya/keberadaan orang tuanya (anak terlantar) dilaksanakan berdasarkan Berita Acara Pemeriksaan Kepolisian atau Surat Pernyataan Tanggung Jawab Mutlak Kebenaran Data Kelahiran (F-2.03) yang ditandatangani oleh wali/penanggung jawab anak tersebut dengan 2 (dua) orang saksi. Merujuk Pasal 47 Peraturan Presiden Nomor 96 Tahun 2018 diatur bahwa salah satu persyaratan dalam pencatatan pengangkatan anak yaitu kutipan akta kelahiran anak. Dengan demikian dalam&#x20;pelaksanaan pencatatan pengangkatan anak, maka anak harus memiliki akta kelahiran terlebih dahulu, karena pencatatan pengangkatan anak dilaksanakan dengan membuat catatan pinggir pada akta kelahiran. Anak yang tidak diketahui asal usulnya atau keberadaan orang tuanya, dapat menjadi anggota keluarga pada Kartu Keluarga wali/yang bertanggung&#x20;jawab terhadap anak tersebut atau pengurus panti asuhan.\
+Berdasarkan Pasal 33 Peraturan Presiden Nomor 96 Tahun 2018 diatur bahwa pencatatan&#x20;kelahiran bagi anak yang tidak diketahui asal usulnya/keberadaan orang tuanya (anak terlantar) dilaksanakan berdasarkan Berita Acara Pemeriksaan Kepolisian atau Surat Pernyataan Tanggung Jawab Mutlak Kebenaran Data Kelahiran (F-2.03) yang ditandatangani oleh wali/penanggung jawab anak tersebut dengan 2 (dua) orang saksi. Merujuk Pasal 47 Peraturan Presiden Nomor 96 Tahun 2018 diatur bahwa salah satu persyaratan dalam pencatatan pengangkatan anak yaitu kutipan akta kelahiran anak. Dengan demikian dalam&#x20;pelaksanaan pencatatan pengangkatan anak, maka anak harus memiliki akta kelahiran terlebih dahulu, karena pencatatan pengangkatan anak dilaksanakan dengan membuat catatan pinggir pada akta kelahiran. Anak yang tidak diketahui asal usulnya atau keberadaan orang tuanya, dapat menjadi anggota keluarga pada Kartu Keluarga wali/yang bertanggung&#x20;jawab terhadap anak tersebut atau pengurus panti asuhan.\
 \
 **Sumber rujukan:**
 
@@ -250,9 +244,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Apakah kutipan akta kelahiran format lama dapat diganti dengan format baru yang menggunakan QR Code dan Tanda Tangan Elektronik (TTE)?</summary>
 
-
-
-a. Berdasarkan Pasal 66 ayat (2) Undang-Undang Nomor 23 Tahun 2006 diatur bahwa akta&#x20;pencatatan sipil berlaku selamanya.&#x20;
+a. Berdasarkan Pasal 66 ayat (2) Undang-Undang Nomor 23 Tahun 2006 diatur bahwa akta&#x20;pencatatan sipil berlaku selamanya.&#x20;
 
 b. Merujuk ketentuan Pasal 92 Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019, diatur&#x20;bahwa kutipan akta pencatatan sipil dapat diterbitkan kembali karena rusak, hilang atau&#x20;berada dalam penguasaan salah satu pihak yang bersengketa.
 
@@ -260,8 +252,6 @@ c. Sehubungan dengan ketentuan pada huruf a dan b, maka:
 
 1. Kutipan akta kelahiran format lama yang ditandatangani secara manual tanpa QR   &#x20;Code/TTE tetap berlaku, sehingga pada prinsipnya tidak perlu diganti atau diterbitkan   &#x20;kembali menggunakan QR Code/TTE Diminta kepada Disdukcapil Kabupaten/Kota   &#x20;agar aktif menjelaskan kepada masyarakat, lembaga terkait termasuk perusahaan   &#x20;penyalur tenaga kerja, mengenai ketentuan tersebut di atas.
 2. Apabila lembaga atau perusahaan penerima Pekerja Migran Indonesia (PMI) di luar   &#x20;negeri tetap mensyaratkan kutipan akta kelahiran yang menggunakan QR Code/TTE, maka untuk kepentingan penduduk tersebut kutipan akta kelahirannya dapat diterbitkan kembali menggunakan QR Code/TTE, berdasarkan permohonan penduduk dan membuat surat pernyataan 2 (dua) orang saksi serta kutipan akta kelahiran yang lama ditarik dari   &#x20;penduduk/subyek akta.
-
-
 
 **Sumber rujukan:**\
 Surat Dirjen Dukcapil Nomor 400.8.2.2/4789/DUKCAPIL tanggal 13 Maret 2023 kpd&#x20;Kepala Dinas Pemberdayaan Masyarakat, Desa, Kependudukan dan Pencatatan Sipil Provinsi Jawa Tengah.
@@ -278,14 +268,12 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Apakah orang yang telah meninggal dunia dapat diterbitkan akta kelahirannya?</summary>
 
-
-
-a. Berdasarkan ketentuan Pasal 27 ayat (1) dan (2) Nomor 24 tahun 2013, intinya diatur bahwa setiap kelahiran wajib dilaporkan oleh penduduk kepada instansi pelaksana (Disdukcapil Kabupaten/Kota) setempat paling lama 60 (enam puluh) hari sejak dilahirkan untuk diterbitkan akta kelahiran.
+a. Berdasarkan ketentuan Pasal 27 ayat (1) dan (2) Nomor 24 tahun 2013, intinya diatur bahwa setiap kelahiran wajib dilaporkan oleh penduduk kepada instansi pelaksana (Disdukcapil Kabupaten/Kota) setempat paling lama 60 (enam puluh) hari sejak dilahirkan untuk diterbitkan akta kelahiran.
 
 b. Merujuk ketentuan Pasal 44 ayat (1) Undang-Undang Nomor 24 Tahun 2013, diatur bahwa&#x20;setiap kematian wajib dilaporkan kepada instansi pelaksana untuk diterbitkan akta kematian.
 
-c. Berdasarkan ketentuan tersebut di atas, maka akta kelahiran diterbitkan untuk penduduk yang masih hidup, sedangkan bagi yang sudah meninggal dunia diterbitkan akta kematian. Penduduk yang sudah meninggal dunia statusnya diubah menjadi mati (kode/flag 1) dalam database kependudukan dan dihapus datanya sebagai anggota keluarga dalam Kartu Keluarga (KK). \
-\
+c. Berdasarkan ketentuan tersebut di atas, maka akta kelahiran diterbitkan untuk penduduk yang masih hidup, sedangkan bagi yang sudah meninggal dunia diterbitkan akta kematian. Penduduk yang sudah meninggal dunia statusnya diubah menjadi mati (kode/flag 1) dalam database kependudukan dan dihapus datanya sebagai anggota keluarga dalam Kartu Keluarga (KK).&#x20;
+
 **Sumber rujukan:**
 
 * Pasal 27 ayat (1), ayat (2) dan Pasal 44 ayat (1) Undang-Undang Nomor 24 Tahun 2013 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan.
@@ -303,12 +291,10 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana status anak dalam KK dan akta kelahiran dari seorang ibu yang masih terikat<br>perkawinan yang sah, tetapi anak tersebut hasil hubungan dengan seorang laki-laki lain yang bukan suami sahnya?</summary>
 
+a. Anak yang dilahirkan dalam ikatan perkawinan yang sah, pada prinsipnya dicatat sebagai anak dari ayah dan ibu dalam KK dan akta kelahiran.
 
+b. Apabila ibu kandung menyangkal anaknya sebagal anak biologis dari suaminya dan&#x20;suaminya juga menyangkal, maka dalam KK dan akta kelahiran anaknya dapat dicantumkan nama ibunya saja, berdasarkan permohonan dan membuat SPTJM dengan 2 (dua) orang saksi.
 
-a. Anak yang dilahirkan dalam ikatan perkawinan yang sah, pada prinsipnya dicatat sebagai anak dari ayah dan ibu dalam KK dan akta kelahiran.
-
-b. Apabila ibu kandung menyangkal anaknya sebagal anak biologis dari suaminya dan&#x20;suaminya juga menyangkal, maka dalam KK dan akta kelahiran anaknya dapat dicantumkan nama ibunya saja, berdasarkan permohonan dan membuat SPTJM dengan 2 (dua) orang saksi.\
-\
 **Sumber rujukan:**
 
 * Peraturan Menteri Dalam Negeri Nomor 109 Tahun 2019 tentang Formulir dan Buku Yang Digunakan Dalam Administrasi Kependudukan.
@@ -326,16 +312,14 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana penulisan tempat terjadinya peritiwa penting dalam dokumen kependudukan pada akta kelahiran dan akta kematian?</summary>
 
-
-
-Berdasarkan Petunjuk pengisian Formulir Pelaporan Pencatatan Sipil di Dalam Wilayah NKRI&#x20;(F-2.01) dan Formulasi Kalimat Register Akta Kelahiran (F-2.14) berdasarkan Peraturan Menteri Dalam Negeri Nomor 109 Tahun 2019 tentang Formulir dan Buku Yang Digunakan Dalam Administrasi Kependudukan, diatur bahwa penulisan tempat terjadinya peristiwa penting (seperti: tempat lahir, mati) diisi nama kabupaten/kota, dengan penjelasan:
+Berdasarkan Petunjuk pengisian Formulir Pelaporan Pencatatan Sipil di Dalam Wilayah NKRI&#x20;(F-2.01) dan Formulasi Kalimat Register Akta Kelahiran (F-2.14) berdasarkan Peraturan Menteri Dalam Negeri Nomor 109 Tahun 2019 tentang Formulir dan Buku Yang Digunakan Dalam Administrasi Kependudukan, diatur bahwa penulisan tempat terjadinya peristiwa penting (seperti: tempat lahir, mati) diisi nama kabupaten/kota, dengan penjelasan:
 
 a. Peristiwa penting yang terjadi di kabupaten/kota, maka tempat terjadinya ditulis nama&#x20;“kabupaten/kota” dalam dokumen kependudukan, contohnya Kabupaten Tangerang dan Kota Tangerang.
 
 b. Khusus untuk peristiwa penting yang terjadi di Provinsi DKI Jakarta, maka tempat terjadinya ditulis Jakarta dalam dokumen kependudukan.
 
-c. Peristiwa penting yang terjadi di luar Wilayah Negara Kesatuan Republik Indonesia, tempat&#x20;terjadinya peristiwa ditulis “nama kota/setingkat dan nama negara” dalam dokumen kependudukan, contohnya Tawau Malaysia. Dengan demikian, nama kabupaten/kota sebagai tempat lahir yang tercantum pada akta kelahiran dan akta kematian, tidak dapat diubah menjadi nama desa/kelurahan atau nama lainnya sesuai dengan yang tercantum dalam ijazah pendidikan.\
-\
+c. Peristiwa penting yang terjadi di luar Wilayah Negara Kesatuan Republik Indonesia, tempat&#x20;terjadinya peristiwa ditulis “nama kota/setingkat dan nama negara” dalam dokumen kependudukan, contohnya Tawau Malaysia. Dengan demikian, nama kabupaten/kota sebagai tempat lahir yang tercantum pada akta kelahiran dan akta kematian, tidak dapat diubah menjadi nama desa/kelurahan atau nama lainnya sesuai dengan yang tercantum dalam ijazah pendidikan.
+
 **Sumber rujukan:**
 
 * Peraturan Menteri Dalam Negeri Nomor 109 Tahun 2019 tentang Formulir dan Buku Yang Digunakan Dalam Administrasi Kependudukan.
@@ -354,10 +338,8 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana penggantian tanggal lahir pada akta kelahiran?</summary>
 
+Bahwa perubahan/penggantian tanggal lahir tidak dapat dilakukan hanya berdasarkan surat&#x20;pemberkatan gereja, karena semua dokumen lainnya yang dimiliki, yaitu KK dan KTPel sudah sama tercantum tanggal lahir yang sama, sehingga termasuk kategori penggantian tanggal lahir. Penggantian tanggal lahir tersebut, harus berdasarkan penetapan pengadilan.
 
-
-Bahwa perubahan/penggantian tanggal lahir tidak dapat dilakukan hanya berdasarkan surat&#x20;pemberkatan gereja, karena semua dokumen lainnya yang dimiliki, yaitu KK dan KTPel sudah sama tercantum tanggal lahir yang sama, sehingga termasuk kategori penggantian tanggal lahir. Penggantian tanggal lahir tersebut, harus berdasarkan penetapan pengadilan.\
-\
 **Sumber rujukan:**\
 Surat Dirjen Dukcapil No. 472.11/9028/DUKCAPIL tanggal 15 Juli 2021 kpd Kepala Dinas Dukcapil Kota Batam.
 
@@ -373,10 +355,8 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Apakah mungkin untuk menerbitkan akta kelahiran baru untuk anak diluar pernikahan dengan kedua orang tuanya tercatat setelah pengesahan seorang anak melalui pernikahan? Apakah harus ada keputusan pengadilan?</summary>
 
+Harus melalui penetapan pengadilan bagi anak yang lahir sebelum orang tuanya melaksanakan perkawinan sah menurut hukum agama/kepercayaan terhadap Tuhan YME, sebagaimana diatur dalam Pasal 52 Peraturan Presiden Nomor 96 Tahun 2019 diatur bahwa Pencatatan pengesahan anak Penduduk yang dilahirkan sebelum orang tuanya melaksanakan perkawinan sah menurut hukum agama atau kepercayaan terhadap Tuhan YME dilakukan berdasarkan penetapan pengadilan. Pejabat Pencatatan Sipil membuat catatan pinggir pada register akta kelahiran maupun pada kutipan akta kelahiran.&#x20;
 
-
-Harus melalui penetapan pengadilan bagi anak yang lahir sebelum orang tuanya melaksanakan perkawinan sah menurut hukum agama/kepercayaan terhadap Tuhan YME, sebagaimana diatur dalam Pasal 52 Peraturan Presiden Nomor 96 Tahun 2019 diatur bahwa Pencatatan pengesahan anak Penduduk yang dilahirkan sebelum orang tuanya melaksanakan perkawinan sah menurut hukum agama atau kepercayaan terhadap Tuhan YME dilakukan berdasarkan penetapan pengadilan. Pejabat Pencatatan Sipil membuat catatan pinggir pada register akta kelahiran maupun pada kutipan akta kelahiran.&#x20;\
-\
 **Sumber rujukan:**\
 Pasal 52 Peraturan Presiden Nomor 96 Tahun 2018 tentang Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil.
 
@@ -388,10 +368,8 @@ Pasal 52 Peraturan Presiden Nomor 96 Tahun 2018 tentang Persyaratan dan Tata Car
 
 <summary>Bagaimana permohonan penerbitan kembali kutipan akta kelahiran (terbitan Pengadilan Negeri) karena kesalahan tulis redaksional, tetapi belum ada kepastian dari Pengadilan Negeri apakah akta tersebut tercatat/terregister?</summary>
 
+Terkait kondisi tersebut apabila register aktanya tidak ditemukan maka Disdukcapil Kabupaten/Kota dapat menerbitkan kembali registernya berdasarkan kutipan atau fotokopi kutipan akta kelahiran tersebut sebagaimana ketentuan Pasal 90 dan 91 Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019. Selanjutnya dilakukan penerbitan kembali dan pembetulan kutipan akta kelahiran dimaksud.&#x20;
 
-
-Terkait kondisi tersebut apabila register aktanya tidak ditemukan maka Disdukcapil Kabupaten/Kota dapat menerbitkan kembali registernya berdasarkan kutipan atau fotokopi kutipan akta kelahiran tersebut sebagaimana ketentuan Pasal 90 dan 91 Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019. Selanjutnya dilakukan penerbitan kembali dan pembetulan kutipan akta kelahiran dimaksud. \
-\
 **Sumber rujukan:**
 
 * Pasal 90 dan 91 Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 tentang Peraturan Pelaksanaan Peraturan Presiden Nomor 96 Tahun 2018 tentang Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil.
@@ -409,10 +387,8 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana cara memastikan keabsahan akta kelahiran yang telah diterbitkan?</summary>
 
+Untuk memastikan kebenaran seluruh data akta kelahiran maupun dokumen lain yang diterbitkan oleh Disdukcapil, agar berkoordinasi langsung kepada Disdukcapil yang menerbitkan akta kelahiran atau dokumen yang dimaksud karena Ditjen Kependudukan&#x20;dan Pencatatan Sipil tidak menyimpan arsip dokumen kependudukan termasuk register akta kelahiran, KK atau dokumen lainnya.&#x20;
 
-
-Untuk memastikan kebenaran seluruh data akta kelahiran maupun dokumen lain yang diterbitkan oleh Disdukcapil, agar berkoordinasi langsung kepada Disdukcapil yang menerbitkan akta kelahiran atau dokumen yang dimaksud karena Ditjen Kependudukan&#x20;dan Pencatatan Sipil tidak menyimpan arsip dokumen kependudukan termasuk register akta kelahiran, KK atau dokumen lainnya. \
-\
 **Sumber rujukan:**\
 Surat Dirjen Dukcapil No. 400.8.2.1/16400/Dukcapil tanggal 14 November 2023 kpd Abraham Rodo Law Office
 
@@ -428,17 +404,15 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana prosedur penambahan nama ayah pada akta kelahiran bagi anak yang lahir dalam perkawinan sah namun tidak mencantumkan nama ayahnya pada akta kelahiran?</summary>
 
-
-
-Prosedur penambahan nama ayah pada akta kelahiran bagi anak yang lahir dalam perkawinan sah namun tidak mencantumkan nama ayahnya pada akta kelahiran dilakukan melalui beberapa tahap sebagai berikut:\
+Prosedur penambahan nama ayah pada akta kelahiran bagi anak yang lahir dalam perkawinan sah namun tidak mencantumkan nama ayahnya pada akta kelahiran dilakukan melalui beberapa tahap sebagai berikut:\
 a. Pembatalan Akta Kelahiran: Berdasarkan Pasal 72 Undang-Undang Nomor 23 Tahun 2006,&#x20;pembatalan akta pencatatan sipil dilakukan berdasarkan putusan pengadilan yang telah mempunyai kekuatan hukum tetap. Selanjutnya&#x20;merujuk ketentuan Pasal 89 ayat (2) dan ayat (4) Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 diatur bahwa pembatalan akta pencatatan sipil juga dapat dilakukan tanpa melalui pengadilan (Contrarius Actus).
 
 b. Pembatalan Akta Kelahiran yang Tidak Mencantumkan Nama Ayah: Untuk kasus anak&#x20;yang lahir dalam perkawinan sah (orag tuanya memiliki buku nikah) namun pada akta kelahirannya tidak mencantumkan nama ayahnya, akta tersebut dapat dibatalkan sesuai dengan ketentuan pembatalan yang disebutkan di atas.
 
 c. Penerbitan Akta Kelahiran Baru: Setelah akta kelahiran tersebut dibatalkan, maka berdasarkan permohonan diterbitkan kembali akta kelahiran yang baru dengan mencantumkan nama ayahnya. Pada akta kelahiran yang baru ini, nama ayah akan dicantumkan dan ditulis sebagai Warga Negara Indonesia (WNI) karena pada dokumen&#x20;kependudukan dan paspor yang dimiliki berstatus sebagai WNI.
 
-d. Koordinasi dengan Kementerian Hukum dan HAM: Jika masih ada keraguan mengenai status kewarganegaraan anak-anak tersebut, maka perlu segera berkoordinasi dengan Kementerian Hukum dan HAM untuk memastikan status kewarganegaraan mereka.&#x20;Dengan mengikuti prosedur di atas, penambahan nama ayah pada akta kelahiran dapat dilakukan sesuai dengan ketentuan hukum yang berlaku.\
-\
+d. Koordinasi dengan Kementerian Hukum dan HAM: Jika masih ada keraguan mengenai status kewarganegaraan anak-anak tersebut, maka perlu segera berkoordinasi dengan Kementerian Hukum dan HAM untuk memastikan status kewarganegaraan mereka.&#x20;Dengan mengikuti prosedur di atas, penambahan nama ayah pada akta kelahiran dapat dilakukan sesuai dengan ketentuan hukum yang berlaku.
+
 **Sumber rujukan:**
 
 * Undang-Undang Nomor 23 Tahun 2006;
@@ -457,10 +431,12 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana prosedur pelaporan dan penerbitan dokumen kependudukan bagi penduduk yang tidak mampu melakukan pelaporan sendiri, dan apa syarat yang harus dipenuhi jika pelaporan tersebut dilakukan oleh orang lain?</summary>
 
+Prosedur pelaporan dan penerbitan dokumen kependudukan bagi penduduk yang tidak mampu melakukan pelaporan sendiri diatur dalam Pasal 66 ayat (1) dan ayat (2) Peraturan Presiden Nomor 96 Tahun 2018. Berdasarkan ketentuan ini, penduduk yang tidak mampu melaporkan sendiri (karena umur, sakit keras, cacat fisik, atau cacat mental) dapat dibantu oleh Disdukcapil Kabupaten/Kota, UPT Disdukcapil Kabupaten/Kota, dan Perwakilan Republik&#x20;Indonesia, atau meminta bantuan kepada orang lain.
 
+Jika pelaporan dilakukan oleh orang lain,&#x20;diperlukan surat kuasa dalam pelayanan administrasi kependudukan (F-1.07) yang ditandatangani oleh penduduk yang memberikan kuasa dan penduduk yang diberikan kuasa. Format surat kuasa ini diatur dalam lampiran Peraturan Menteri Dalam Negeri Nomor 109 Tahun 2019.
 
-Prosedur pelaporan dan penerbitan dokumen kependudukan bagi penduduk yang tidak mampu melakukan pelaporan sendiri diatur dalam Pasal 66 ayat (1) dan ayat (2) Peraturan Presiden Nomor 96 Tahun 2018. Berdasarkan ketentuan ini, penduduk yang tidak mampu melaporkan sendiri (karena umur, sakit keras, cacat fisik, atau cacat mental) dapat dibantu oleh Disdukcapil Kabupaten/Kota, UPT Disdukcapil Kabupaten/Kota, dan Perwakilan Republik&#x20;Indonesia, atau meminta bantuan kepada orang lain. Jika pelaporan dilakukan oleh orang lain,&#x20;diperlukan surat kuasa dalam pelayanan administrasi kependudukan (F-1.07) yang ditandatangani oleh penduduk yang memberikan kuasa dan penduduk yang diberikan kuasa. Format surat kuasa ini diatur dalam lampiran Peraturan Menteri Dalam Negeri Nomor 109 Tahun 2019. Dengan demikian, penerbitan dokumen kependudukan dapat diwakilkan oleh orang lain selama penduduk yang bersangkutan tidak mampu melakukan pelaporan sendiri dan telah melengkapi surat kuasa (F-1.07) yang ditandatangani sesuai ketentuan yang berlaku. Namun, surat kuasa yang tidak sesuai dengan format yang telah ditetapkan,&#x20;tidak dapat digunakan dalam pelayanan administrasi kependudukan. Selain itu, ketelitian dalam verifikasi dan validasi kelengkapan dokumen sangat penting untuk menghindari penerbitan dokumen yang tidak sah, seperti contoh yang terjadi pada kasus penerbitan Kartu Keluarga yang harus dibatalkan karena ketidakcocokan masa berlaku ITAP. \
-\
+Dengan demikian, penerbitan dokumen kependudukan dapat diwakilkan oleh orang lain selama penduduk yang bersangkutan tidak mampu melakukan pelaporan sendiri dan telah melengkapi surat kuasa (F-1.07) yang ditandatangani sesuai ketentuan yang berlaku. Namun, surat kuasa yang tidak sesuai dengan format yang telah ditetapkan,&#x20;tidak dapat digunakan dalam pelayanan administrasi kependudukan. Selain itu, ketelitian dalam verifikasi dan validasi kelengkapan dokumen sangat penting untuk menghindari penerbitan dokumen yang tidak sah, seperti contoh yang terjadi pada kasus penerbitan Kartu Keluarga yang harus dibatalkan karena ketidakcocokan masa berlaku ITAP.&#x20;
+
 **Sumber rujukan:**
 
 * Peraturan Presiden Nomor 96 Tahun 2018 tentang Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil;
@@ -479,16 +455,14 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana prosedur Pencatatan Nama Ayah pada Akta Kelahiran bagi Subjek Akta yang Lahir Sebelum Perkawinan Agama?</summary>
 
-
-
-Berdasarkan Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019, pada:
+Berdasarkan Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019, pada:
 
 a. Pasal 48 ayat (2) diatur bahwa dalam hal pencatatan kelahiran tidak dapat memenuhi&#x20;persyaratan berupa buku nikah/kutipan akta perkawinan atau bukti lain yang sah; dan status&#x20;hubungan dalam keluarga pada Kartu Keluarga menunjukkan status hubungan perkawinan sebagai suami istri, dilakukan pencatatan dalam Register Akta Kelahiran dan Kutipan Akta Kelahiran sebagai Anak Ayah dan Ibu dengan tambahan Frasa, yaitu:&#x20;yang perkawinannya belum tercatat sesuai dengan ketentuan peraturan perundang-undangan.
 
-b. Pasal 87 (2) huruf d dan e, disebutkan bahwa pencatatan Pembetulan Akta Pencatatan Sipil dilakukan oleh Pejabat Pencatatan Sipil dengan membuat Catatan Pinggir pada Register Akta Pencatatan Sipil mengenai pembetulan Akta, menerbitkan kembali Kutipan Akta Pencatatan Sipil dan mencabut Kutipan Akta Pencatatan Sipil dari subjek akta. \
-\
-Berdasarkan ketentuan tersebut, Akta Kelahiran dapat diperbarui untuk mencantumkan kedua orangtuanya dengan tambahan frasa yang dimaksud. Hal ini dapat dilakukan jika saat anak dilahirkan, orangtuanya sudah menunjukkan status sebagai suami istri dalam Kartu Keluarga, dengan membuat Surat Pernyataan Tanggung Jawab Mutlak (SPTJM) Kebenaran sebagai Pasangan Suami Istri (F-2.04). Proses ini melibatkan Pejabat Pencatatan Sipil yang&#x20;akan membuat Catatan Pinggir pada Register Akta Kelahiran, menerbitkan kembali Kutipan Akta Kelahiran dengan perubahan yang sesuai, dan mencabut Kutipan Akta Kelahiran lama dari subjek akta.\
-\
+b. Pasal 87 (2) huruf d dan e, disebutkan bahwa pencatatan Pembetulan Akta Pencatatan Sipil dilakukan oleh Pejabat Pencatatan Sipil dengan membuat Catatan Pinggir pada Register Akta Pencatatan Sipil mengenai pembetulan Akta, menerbitkan kembali Kutipan Akta Pencatatan Sipil dan mencabut Kutipan Akta Pencatatan Sipil dari subjek akta.&#x20;
+
+Berdasarkan ketentuan tersebut, Akta Kelahiran dapat diperbarui untuk mencantumkan kedua orangtuanya dengan tambahan frasa yang dimaksud. Hal ini dapat dilakukan jika saat anak dilahirkan, orangtuanya sudah menunjukkan status sebagai suami istri dalam Kartu Keluarga, dengan membuat Surat Pernyataan Tanggung Jawab Mutlak (SPTJM) Kebenaran sebagai Pasangan Suami Istri (F-2.04). Proses ini melibatkan Pejabat Pencatatan Sipil yang&#x20;akan membuat Catatan Pinggir pada Register Akta Kelahiran, menerbitkan kembali Kutipan Akta Kelahiran dengan perubahan yang sesuai, dan mencabut Kutipan Akta Kelahiran lama dari subjek akta.
+
 **Sumber rujukan:**
 
 * Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 tentang Peraturan Pelaksanaan Peraturan Presiden Nomor 96 Tahun 2018 tentang Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil;
@@ -506,10 +480,8 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Apakah penduduk yang sudah memiliki Akta Kelahiran dari negara lain perlu diinputkan ke dalam BAKAK atau cukup di biodata WNI?</summary>
 
+Cukup direkam datanya dalam database kependudukan dan diterbitkan surat keterangan&#x20;pelaporan kelahiran dari luar negeri. Dengan demikian, tidak perlu diinputkan ke dalam Biodata Penduduk Kepemilikan Akta Kelahiran (BAKAK), tetapi cukup memastikan bahwa biodata WNI tersebut diperbarui dengan informasi yang sesuai dan lengkap.
 
-
-Cukup direkam datanya dalam database kependudukan dan diterbitkan surat keterangan&#x20;pelaporan kelahiran dari luar negeri. Dengan demikian, tidak perlu diinputkan ke dalam Biodata Penduduk Kepemilikan Akta Kelahiran (BAKAK), tetapi cukup memastikan bahwa biodata WNI tersebut diperbarui dengan informasi yang sesuai dan lengkap.\
-\
 **Sumber rujukan:**\
 Rapat Koordinasi Nasional Kependudukan dan Pencatatan Sipil Tahun 2024, Batam, 27 s.d. Februari 2024.
 

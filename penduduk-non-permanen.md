@@ -115,10 +115,9 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana cara mengurus surat domisili dari Disdukcapil?</summary>
 
-Disdukcapil tidak mengeluarkan Surat Keterangan Domisili karena hal itu tidak diperbolehkan oleh Undang-Undang Nomor 23 Tahun 2006 ataupun Undang-Undang Nomor 24 Tahun 2013 beserta Peraturan Pemerintah Nomor 40 Tahun 2019 dan Peraturan Presiden Nomor 96&#x20;
+Disdukcapil tidak mengeluarkan Surat Keterangan Domisili karena hal itu tidak diperbolehkan oleh Undang-Undang Nomor 23 Tahun 2006 ataupun Undang-Undang Nomor 24 Tahun 2013 beserta Peraturan Pemerintah Nomor 40 Tahun 2019 dan Peraturan Presiden Nomor 96Tahun 2018 serta Permendagri Nomor 108 Tahun 2019.&#x20;
 
-Tahun 2018 serta Permendagri Nomor 108 Tahun 2019. \
-Jika bertempat tinggal tidak sesuai KTPel dan tidak bertujuan menetap, maka dapat melakukan pendaftaran penduduk nonpermanen di Disdukcapil daerah domisili sesuai amanat Peraturan Menteri Dalam Negeri Nomor 74 Tahun 2022.&#x20;
+Jika bertempat tinggal tidak sesuai KTP-el dan tidak bertujuan menetap, maka dapat melakukan pendaftaran penduduk nonpermanen di Disdukcapil daerah domisili sesuai amanat Peraturan Menteri Dalam Negeri Nomor 74 Tahun 2022.&#x20;
 
 **Sumber rujukan:**
 
