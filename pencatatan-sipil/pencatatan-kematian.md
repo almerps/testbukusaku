@@ -8,7 +8,8 @@ icon: tombstone-blank
 
 <summary>Bagaimana tata cara pencatatan kematian?</summary>
 
-Berdasarkan ketentuan Pasal 45 Peraturan Presiden Nomor 96 Tahun 2018, pencatatan kematian di wilayah NKRI harus memenuhi persyaratan:\
+Berdasarkan ketentuan Pasal 45 Peraturan Presiden Nomor 96 Tahun 2018, pencatatan kematian di wilayah NKRI harus memenuhi persyaratan:
+
 a. Fotokopi surat kematian, yang dapat berupa:
 
 1. Surat kematian dari dokter atau kepala desa/lurah.
@@ -17,21 +18,34 @@ a. Fotokopi surat kematian, yang dapat berupa:
 4. Surat pernyataan kematian dari maskapai penerbangan bagi seseorang yang tidak jelas keberadaannya karena hilang atau mati tetapi tidak ditemukan jenazahnya sesuai dengan ketentuan peraturan perundang-undangan.
 5. Surat keterangan kematian dari Perwakilan Republik Indonesia bagi penduduk yang kematiannya terjadi di luar wilayah Negara Kesatuan Republik Indonesia.
 
-b. Fotokopi Dokumen Perjalanan Republik Indonesia bagi WNI bukan penduduk atau fotokopi Dokumen Perjalanan Republik Indonesia bagi orang asing; dan\
+b. Fotokopi Dokumen Perjalanan Republik Indonesia bagi WNI bukan penduduk atau fotokopi Dokumen Perjalanan Republik Indonesia bagi orang asing; dan
+
 c. Fotokopi KK/KTP yang meninggal dunia.
 
-Tata Cara:\
-a. WNI mengisi Formulir Pelaporan Pencatatan Sipil di dalam Wilayah NKRI (F-2.01) dan melampirkan persyaratan;\
-b. OA mengisi Formulir Pelaporan Pencatatan Sipil di dalam Wilayah NKRI (F-2.01);\
-c. Untuk pelayanan secara offline/tatap muka, persyaratan surat kematian yang diserahkan berupa fotokopi bukan asli (asli hanya diperlihatkan);\
-d. Dinas tidak menarik surat kematian asli;\
-e. WNI melampirkan fotokopi KK untuk verifikasi data yang tercantum dalam Formulir Pelaporan Pencatatan Sipil di dalam Wilayah NKRI (F-2.01);\
-f. Untuk pelayanan online/daring, persyaratan yang discan/ difoto untuk diunggah harus aslinya;\
-g. WNI dan OA tidak perlu melampirkan fotokopi KTP-el saksi, karena identitasnya sudah tercantum dalam Formulir Pelaporan Pencatatan Sipil di dalam Wilayah NKRI (F-2.01);\
-h. OA menyerahkan fotokopi Dokumen Perjalanan atau fotokopi ITAS/SKTT atau fotokopi ITAP/KTPel;\
-i. WNI bukan penduduk menyerahkan fotokopi dokumen perjalanan RI yang meninggal dunia;\
-j. Pencatatan Kematian dilaporkan tidak hanya oleh anak atau ahli waris tetapi dapat juga dilaporkan oleh keluarga lainnya, termasuk ketua RT;\
-k. Dalam hal subjek akta tidak tercantum dalam KK dan database kependudukan, kutipan akta kematian diterbitkan tanpa NIK; dan\
+Tata Cara:
+
+a. WNI mengisi Formulir Pelaporan Pencatatan Sipil di dalam Wilayah NKRI (F-2.01) dan melampirkan persyaratan;
+
+b. OA mengisi Formulir Pelaporan Pencatatan Sipil di dalam Wilayah NKRI (F-2.01);
+
+c. Untuk pelayanan secara offline/tatap muka, persyaratan surat kematian yang diserahkan berupa fotokopi bukan asli (asli hanya diperlihatkan);
+
+d. Dinas tidak menarik surat kematian asli;
+
+e. WNI melampirkan fotokopi KK untuk verifikasi data yang tercantum dalam Formulir Pelaporan Pencatatan Sipil di dalam Wilayah NKRI (F-2.01);
+
+f. Untuk pelayanan online/daring, persyaratan yang discan/ difoto untuk diunggah harus aslinya;
+
+g. WNI dan OA tidak perlu melampirkan fotokopi KTP-el saksi, karena identitasnya sudah tercantum dalam Formulir Pelaporan Pencatatan Sipil di dalam Wilayah NKRI (F-2.01);
+
+h. OA menyerahkan fotokopi Dokumen Perjalanan atau fotokopi ITAS/SKTT atau fotokopi ITAP/KTPel;
+
+i. WNI bukan penduduk menyerahkan fotokopi dokumen perjalanan RI yang meninggal dunia;
+
+j. Pencatatan Kematian dilaporkan tidak hanya oleh anak atau ahli waris tetapi dapat juga dilaporkan oleh keluarga lainnya, termasuk ketua RT;
+
+k. Dalam hal subjek akta tidak tercantum dalam KK dan database kependudukan, kutipan akta kematian diterbitkan tanpa NIK; dan
+
 l. Dinas menerbitkan kutipan akta kematian.
 
 **Sumber rujukan:**
