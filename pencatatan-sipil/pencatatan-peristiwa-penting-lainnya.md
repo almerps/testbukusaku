@@ -8,11 +8,9 @@ icon: file-lines
 
 <summary>Bagaimana pencatatan peristiwa penting lainnya?</summary>
 
-Berdasarkan Penjelasan Pasal 56 ayat (1) Undang-Undang No 23 Tahun 2006 diatur bahwa\
-yang dimaksud dengan “Peristiwa Penting lainnya” adalah peristiwa yang ditetapkan oleh pengadilan negeri untuk dicatatkan pada Instansi Pelaksana, antara lain perubahan jenis kelamin. Pencatatan Peristiwa Penting lainnya dilakukan oleh Pejabat Pencatatan Sipil atas permintaan Penduduk yang bersangkutan setelah adanya putusan pengadilan negeri yang telah memperoleh kekuatan hukum tetap.
+Berdasarkan Penjelasan Pasal 56 ayat (1) Undang-Undang No 23 Tahun 2006 diatur bahwa yang dimaksud dengan “Peristiwa Penting lainnya” adalah peristiwa yang ditetapkan oleh pengadilan negeri untuk dicatatkan pada Instansi Pelaksana, antara lain perubahan jenis kelamin. Pencatatan Peristiwa Penting lainnya dilakukan oleh Pejabat Pencatatan Sipil atas permintaan Penduduk yang bersangkutan setelah adanya putusan pengadilan negeri yang telah memperoleh kekuatan hukum tetap.
 
-Persyaratan pencatatan peristiwa penting lainnya\
-berupa:\
+Persyaratan pencatatan peristiwa penting lainnya berupa:\
 a. salinan penetapan pengadilan negeri tentang Peristiwa Penting lainnya;\
 b. kutipan akta Pencatatan Sipil;\
 c. KK; dan\
