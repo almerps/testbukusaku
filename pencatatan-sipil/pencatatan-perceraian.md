@@ -66,8 +66,7 @@ Tata cara pelaporan pencatatan perceraian yang&#x20;telah dicatatkan pada insta
 4. Perwakilan Republik Indonesia mencatat   &#x20;laporan dalam daftar pelaporan dan menerbitkan surat keterangan pelaporan
 5. Surat keterangan pelaporan diberikan kepada   &#x20;Pemohon.
 6.   Pencatatan perkawinan WNI dengan orang   &#x20;asing di luar negeri dalam hal negara setempat tidak menyelenggarakan pencatatan   &#x20;perkawinan bagi orang asing berupa:   &#x20;Dokumen yang sah tentang terjadinya perceraian di negara setempat;   &#x20;kutipan akta perkawinan atau bukti   &#x20;pencatatan perkawinan; dan   &#x20;Dokumen Perjalanan Republik Indonesia atau surat keterangan pindah luar negeri suami   \
-   dan istri yang telah bercerai.\
-
+   dan istri yang telah bercerai.
 
 Catatan:\
 Dalam hal pemohon tidak dapat menyerahkan&#x20;kutipan akta perkawinan atau bukti pencatatan perkawinan, pemohon membuat surat pernyataan yang menyatakan kutipan akta perkawinan tidak&#x20;dimiliki dengan alasan sesuai dengan ketentuan peraturan perundang-undangan.&#x20;Perwakilan Republik Indonesia tidak&#x20;menarik dokumen yang sah tentang terjadinya perceraian di negara setempat atau dokumen&#x20;perjalanan Republik Indonesia atau dokumen&#x20;perjalanan bagi orang asing atau surat keterangan yang menunjukkan domisili atau surat\
@@ -155,8 +154,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pencatatan perceraian bagi penduduk beragama Muslim yang telah menikah di luar negeri?</summary>
 
-Berdasarkan:\
-
+Berdasarkan:
 
 1. Pasal 40 ayat (1) dan ayat (2) Undang   -Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan diatur bahwa   &#x20;perceraian wajib dilaporkan oleh yang bersangkutan kepada Instansi Pelaksana   &#x20;paling lambat 60 (enam puluh) hari sejak   &#x20;putusan pengadilan tentang perceraian yang telah memperoleh kekuatan hukum tetap.   &#x20;Pejabat Pencatatan Sipil mencatat pada   &#x20;Register Akta Perceraian dan menerbitkan Kutipan Akta Perceraian.
 2. Pasal 7 ayat (2) huruf l Undang-Undang   &#x20;Nomor 30 Tahun 2014 tentang Administrasi Pemerintahan diatur   &#x20;bahwa Pejabat   &#x20;Pemerintahan memiliki kewajiban mematuhi   &#x20;putusan Pengadilan yang telah berkekuatan   &#x20;hukum tetap.
@@ -199,8 +197,7 @@ Prosedur&#x20;pencatatan&#x20;perceraian&#x20;dapat&#x20;dilaksanakan di Dis
     * Telah ada putusan dari Pengadilan Negeri      &#x20;mengenai      &#x20;perceraian      \
       yang menjadi persyaratan      &#x20;pokok dalam pencatatan      &#x20;perceraian.
     *      Jika perkawinannya tidak dicatatkan atau      &#x20;tidak memiliki akta perkawinan, pemohon harus membuat Surat Pernyataan Tanggung      &#x20;Jawab Mutlak (SPTJM) yang menjelaskan      &#x20;bahwa tidak memiliki akta perkawinan dan      &#x20;perkawinannya tidak dicatatkan.
-    * Pada aplikasi Sistem Informasi Administrasi      &#x20;Kependudukan (SIAK), elemen data nomor      &#x20;dan tanggal akta perkawinan tidak perlu diisi,      &#x20;cukup diberi tanda “-”.      \
-
+    * Pada aplikasi Sistem Informasi Administrasi      &#x20;Kependudukan (SIAK), elemen data nomor      &#x20;dan tanggal akta perkawinan tidak perlu diisi,      &#x20;cukup diberi tanda “-”.
 
     Dengan memenuhi persyaratan ini, pencatatan    &#x20;perceraian dapat dilakukan secara sah dan    &#x20;sesuai dengan peraturan perundang-undangan    \
     yang berlaku.
@@ -244,8 +241,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana penerbitan Akta Perceraian salah satu pihak pendukung orang asing</summary>
 
-Berdasarkan:\
-
+Berdasarkan:
 
 1. Pasal 8 dan Pasal 102 huruf b Undang   -Undang Nomor 24 Tahun 2013 tentang Perubahan Atas Undang-Undang Nomor 23   &#x20;Tahun   \
    2008 tentang Administrasi Kependudukan;
