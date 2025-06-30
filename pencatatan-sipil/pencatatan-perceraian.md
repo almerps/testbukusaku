@@ -109,9 +109,10 @@ a. bukti pelaporan perceraia dari Perwakilan RI;dan\
 b. kutipan akta perceraian.\
 \
 Disdukcapil Kabupaten/Kota atau UPT&#x20;Disdukcapil Kabupaten/Kota merekam pelaporan&#x20;dalam basis data kependudukan dan menerbitkan\
-surat keterangan pelaporan.\
-Dalam hal pencatatan peristiwa penting&#x20;WNI di luar negeri yang telah dicatatkan pada&#x20;instansi yang berwenang di Negara setempat&#x20;belum dilaporkan kepada Perwakilan RI, maka penerbitan surat keterangan pelaporan dapat dilakukan pada Disdukcapil Kabupaten/Kota atau\
-UPT Disdukcapil Kabupaten/Kota.\
+surat keterangan pelaporan.
+
+Dalam hal pencatatan peristiwa penting&#x20;WNI di luar negeri yang telah dicatatkan pada&#x20;instansi yang berwenang di Negara setempat&#x20;belum dilaporkan kepada Perwakilan RI, maka penerbitan surat keterangan pelaporan dapat dilakukan pada Disdukcapil Kabupaten/Kota atau&#x20;UPT Disdukcapil Kabupaten/Kota.
+
 Pelaporan hasil pencatatan peristiwa&#x20;penting tersebut dengan persyaratan berupa bukti pencatatan peristiwa penting yang diterjemahkan oleh penerjemah tersumpah atau surat pernyataan tanggung jawab mutlak.
 
 **Sumber rujukan**:&#x20;
