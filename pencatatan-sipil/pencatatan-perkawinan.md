@@ -45,8 +45,7 @@ l. bagi perkawinan orang asing dengan melampirkan Dokumen Perjalanan, surat kete
 Catatan:\
 Untuk pelayanan secara offline/tatap muka, persyaratan surat keterangan telah terjadinya perkawinan dari pemuka agama atau Penghayat Kepercayaan Terhadap Tuhan Yang Maha Esa, salinan penetapan pengadilan yang diserahkan berupa fotokopi bukan asli (asli hanya diperlihatkan) dan untuk pelayanan online/Daring, persyaratan yang discan/difoto untuk diunggah harus aslinya.
 
-Sedangkan tata cara pencatatan perkawinan bagi yang beragama selain Islam diatur dalam\
-Pasal 50, Pasal 51 dan Pasal 52 Peraturan Menteri Dalam Negeri 108 Tahun 2019, sebagai berikut:\
+Sedangkan tata cara pencatatan perkawinan bagi yang beragama selain Islam diatur dalam Pasal 50, Pasal 51 dan Pasal 52 Peraturan Menteri Dalam Negeri 108 Tahun 2019, sebagai berikut:\
 a. Pemohon mengisi dan menandatangani formulir pelaporan pencatatan sipil di dalam wilayah NKRI dengan kode F-2.01 serta menyerahkan persyaratan.\
 b. Petugas pelayanan melakukan verifikasi dan validasi terhadap formulir pelaporan dan persyaratan.\
 c. Petugas pada Disdukcapil Kabupaten/Kota atau UPT Disdukcapil Kabupaten/Kota melakukan perekaman data dalam basis data kependudukan.\
