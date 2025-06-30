@@ -483,14 +483,11 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pencantuman tanggal perkawinan pada Kartu Keluarga dan implikasi hukum pada status anak dari hasil perkawinan dengan status “kawin belum tercatat”?</summary>
 
-a. Berdasarkan Lampiran petunjuk teknis pengisian Formulir Biodata Keluarga (F-1.01) dan Formulir Pelaporan Pencatatan Sipil di dalam Wilayah NKRI (F-2.01) Permendagri Nomor 109 Tahun 2019, bahwa tanggal perkawinan diisi sesuai dengan tanggal pelaksanaan perkawinan\
-menurut hukum agama atau kepercayaannya, sebagaimana tertera pada Akta Perkawinan atau pada SPTJM Perkawinan/Perceraian Belum Tercatat. Tanggal Perkawinan diisi dengan\
-tanggal pemberkatan perkawinan.
+a. Berdasarkan Lampiran petunjuk teknis pengisian Formulir Biodata Keluarga (F-1.01) dan Formulir Pelaporan Pencatatan Sipil di dalam Wilayah NKRI (F-2.01) Permendagri Nomor 109 Tahun 2019, bahwa tanggal perkawinan diisi sesuai dengan tanggal pelaksanaan perkawinan menurut hukum agama atau kepercayaannya, sebagaimana tertera pada Akta Perkawinan atau pada SPTJM Perkawinan/Perceraian Belum Tercatat. Tanggal Perkawinan diisi dengan tanggal pemberkatan perkawinan.
 
 b. Bagi perkawinan secara Islam ditulis tanggal terjadinya akad nikah, sedangkan bagi perkawinan non-Islam ditulis tanggal terjadinya pemberkatan/perkawinan sah dihadapan Pemuka Agama/Penghayat Kepercayaan Terhadap Tuhan YME.
 
-c. Implikasi/akibat hukum pada status anak dari hasil perkawinan dengan status kawin belum\
-tercatat, adalah:
+c. Implikasi/akibat hukum pada status anak dari hasil perkawinan dengan status kawin belum tercatat, adalah:
 
 1. Status anak sebagai anak seorang ibu, atau
 2. Status anak dengan mencantumkan nama ayah dan ibu namu ada frasa _**“yang perkawinannya belum tercatat sesuai dengan peraturan perundang-undangan”**_.
@@ -740,8 +737,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Kenapa dalam Kartu Keluarga bisa tercantum status “Kawin Tidak Tercatat’ padahal ada akta kawin/buku nikah dan akta lahir anak disebutkan anak dari pasutri tersebut?</summary>
 
-a. Jika sudah memiliki akta perkawinan/buku nikah maka status perkawinan pada Kartu Keluarga tercantum “Kawin Tercatat”, dan jika tidak memiliki akta perkawinan/buku nikah namun sudah berkeluarga dapat mengisi SPTJM Perkawinan belum tercatat sehingga status\
-perkawinan dalam Kartu Keluarga menjadi “Kawin Belum Tercatat”, sebagaimana diamanatkan dalam Pasal 10 ayat (2) Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 yang mengatur bahwa Penerbitan Kartu Keluarga Baru karena membentuk keluarga baru dilengkapi dengan syarat lainnya berupa surat pernyataan tanggung jawab mutlak perkawinan/perceraian belum tercatat.
+a. Jika sudah memiliki akta perkawinan/buku nikah maka status perkawinan pada Kartu Keluarga tercantum “Kawin Tercatat”, dan jika tidak memiliki akta perkawinan/buku nikah namun sudah berkeluarga dapat mengisi SPTJM Perkawinan belum tercatat sehingga status perkawinan dalam Kartu Keluarga menjadi “Kawin Belum Tercatat”, sebagaimana diamanatkan dalam Pasal 10 ayat (2) Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 yang mengatur bahwa Penerbitan Kartu Keluarga Baru karena membentuk keluarga baru dilengkapi dengan syarat lainnya berupa surat pernyataan tanggung jawab mutlak perkawinan/perceraian belum tercatat.
 
 b. Sebagaimana diamanatkan dalam Pasal 48 Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 terkait dengan status hukum pada akta kelahiran, sebagai berikut:
 
