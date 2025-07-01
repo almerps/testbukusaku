@@ -55,8 +55,7 @@ Persyaratan dalam hal negara setempat tidak&#x20;menyelenggarakan pencatatan pe
 Tata cara pelaporan pencatatan pengangkatan&#x20;anak warga negara asing oleh WNI di luar negeri yang dilakukan pada instansi yang berwenang di Negara setempat, dan dalam hal negara setempat&#x20;tidak&#x20;menyelenggarakan pencatatan&#x20;pengangkatan anak warga negara asing oleh WNI&#x20;sebagai berikut:
 
 1. Pemohon mengisi dan menandatangani   &#x20;formulir pelaporan pencatatan sipil di luar wilayah NKRI dengan kode F-2.02 serta menyerahkan persyaratan;
-2. Pejabat pada Perwakilan RI melakukan   &#x20;verifikasi   \
-   dan validasi terhadap formulir pelaporan dan persyaratan;
+2. Pejabat pada Perwakilan RI melakukan   &#x20;verifikasi dan validasi terhadap formulir pelaporan dan persyaratan;
 3. Petugas pada Perwakilan RI yang dapat   &#x20;mengakses basis data kependudukan;
 4. Melakukan perekaman data pelaporan ke   &#x20;dalam basis data kependudukan;
 5. Perwakilan RI menerbitkan surat keterangan pengangkatan anak; dan

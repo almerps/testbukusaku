@@ -61,7 +61,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <details>
 
-<summary>Bagaimana pencatatan pembetulan nama orang tua<br>pada kutipan akta kelahiran?</summary>
+<summary>Bagaimana pencatatan pembetulan nama orang tua pada kutipan akta kelahiran?</summary>
 
 Berdasarkan Pasal 59 Peraturan Presiden Nomor&#x20;96 Tahun 2018, disebutkan bahwa pembetulan akta Pencatatan Sipil&#x20;dilakukan pada&#x20;Disdukcapil&#x20;Kabupaten/Kota atau UPT Disdukcapil Kabupaten/Kota atau Perwakilan Republik Indonesia sesuai domisili dengan atau tanpa permohonan dari subjek akta serta harus memenuhi persyaratan:
 
@@ -86,7 +86,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <details>
 
-<summary>Bagaimana catatan pinggir perubahan nama dan<br>perubahan status kewaganegaraan?</summary>
+<summary>Bagaimana catatan pinggir perubahan nama dan perubahan status kewaganegaraan?</summary>
 
 a. Berdasarkan Pasal 52, Pasal 53 dan Pasal 54&#x20;Undang-Undang Nomor 23 Tahun 2006, diatur bahwa perubahan nama dan perubahan status kewarganegaraan dari WNA menjadi WNI atau dari WNI menjadi WNA wajib dilaporkan kepada Instansi Pelaksana untuk dibuatkan catatan pinggir pada register akta pencatatan sipil dan kutipan akta&#x20;pencatatan sipil.
 
@@ -119,8 +119,7 @@ a. Pencatatan perubahan nama dilaksanakan&#x20;berdasarkan penetapan pengadilan
 b. Pencatatan perubahan nama sebagaimana&#x20;dimaksud pada ayat (1) wajib dilaporkan oleh Penduduk kepada Instansi Pelaksana yang menerbitkan akta Pencatatan Sipil paling lambat 30 (tiga&#x20;puluh) hari sejak diterimanya&#x20;salinan penetapan pengadilan negeri oleh Penduduk.\
 c. Berdasarkan laporan sebagaimana dimaksud pada ayat (2), Pejabat Pencatatan Sipil membuat catatan pinggir pada register akta Pencatatan Sipil dan kutipan akta Pencatatan Sipil.
 
-Sedangkan pembetulan nama termasuk bagian&#x20;pembetulan dokumen kependudukan berdasarkan dokumen otentik yang menjadi dasar untuk pembetulan sesuai dengan ketentuan peraturan perundang-undangan sebagaimana diatur dalam Pasal 4 ayat (4) Peraturan Menteri Dalam Negeri Nomor 73 Tahun 2022, yang berbunyi dalam hal penduduk melakukan\
-pembetulan nama, pencatatan pembetulan nama termasuk bagian pembetulan dokumen kependudukan berdasarkan dokumen otentik yang menjadi dasar untuk pembetulan sesuai dengan ketentuan peraturan perundang-undangan.
+Sedangkan pembetulan nama termasuk bagian&#x20;pembetulan dokumen kependudukan berdasarkan dokumen otentik yang menjadi dasar untuk pembetulan sesuai dengan ketentuan peraturan perundang-undangan sebagaimana diatur dalam Pasal 4 ayat (4) Peraturan Menteri Dalam Negeri Nomor 73 Tahun 2022, yang berbunyi dalam hal penduduk melakukan&#x20;pembetulan nama, pencatatan pembetulan nama termasuk bagian pembetulan dokumen kependudukan berdasarkan dokumen otentik yang menjadi dasar untuk pembetulan sesuai dengan ketentuan peraturan perundang-undangan.
 
 **Sumber rujukan:**&#x20;
 
