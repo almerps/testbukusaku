@@ -36,9 +36,7 @@ Disdukcapil Kabupaten/Kota atau UPT Disdukcapil&#x20;Kabupaten/Kota membuat cat
 
 **c. Pencatatan pengesahan anak di luar negeri.**
 
-1. **Pencatatan pengesahan anak bagi WNI**   \
-   **Bukan Penduduk di luar negeri.**   \
-   \
+1. **Pencatatan pengesahan anak bagi WNI   &#x20;Bukan Penduduk di luar negeri.**   \
    Persyaratan pengesahan anak bagi WNI   &#x20;Bukan Penduduk di Luar Negeri dimaksud berupa:   \
    a) kutipan akta kelahiran;   \
    b) kutipan akta perkawinan yang   &#x20;menerangkan   &#x20;terjadinya peristiwa perkawinan agama atau Kepercayaan Terhadap Tuhan Yang Maha Esa terjadi   &#x20;sebelum kelahiran anak; dan   \
@@ -46,7 +44,6 @@ Disdukcapil Kabupaten/Kota atau UPT Disdukcapil&#x20;Kabupaten/Kota membuat cat
    \
    Perwakilan Republik Indonesia mencatat dalam register akta pengesahan anak dan menerbitkan kutipan akta pengesahan anak dan membuat catatan pinggir dalam register akta kelahiran dan kutipan akta kelahiran;   &#x20;serta kutipan akta pengesahan anak dan kutipan akta kelahiran yang telah diberikan catatan   &#x20;pinggir disampaikan kepada Pemohon.
 2. **Pencatatan pengesahan anak bagi WNI   &#x20;Bukan Penduduk di luar negeri yang dilahirkan   &#x20;sebelum orangtuanya   &#x20;melaksanakan perkawinan sah menurut   &#x20;hukum agama atau kepercayaan terhadap Tuhan Yang Maha Esa.**   \
-   \
    Persyaratan pengakuan anak bagi WNI Bukan   &#x20;Penduduk di luar negeri dimaksud berupa:   \
    a) salinan penetapan pengadilan dari   &#x20;pengadilan yang berwenang sesuai dengan ketentuan peraturan perundang undangan;   \
    b) kutipan akta kelahiran; dan   \
