@@ -97,7 +97,7 @@ a. Berdasarkan Pasal 102 b Undang-Undang Nomor&#x20;24 Tahun 2013, intinya diat
 
 Pencatatan pengesahan anak dilaksanakan di Disdukcapil Kabupaten/Kota tempat penduduk berdomisili. Apabila domisili antar kedua orang tua atau anak berbeda, maka&#x20;pencatatan dapat dilaksanakan di salah satu domisili orang tua.
 
-Karena akta kelahiran anak yang bersangkutan&#x20;diterbitkan oleh Disdukcapil Kabupaten/Kota A, sedangkan orang tuanya sudah menjadi penduduk Kabupaten/Kota B, maka pencatatan pengesahan anak&#x20;dilaksanakan di&#x20;Kabupaten / Kota B.&#x20;Selanjutnya B,&#x20;memberitahukan kepada&#x20;Disdukcapil&#x20;Kabupaten / Kota A untuk membuat catatan pinggir pengesahan anak tersebut pada register akta kelahiran dimaksud.
+Karena akta kelahiran anak yang bersangkutan&#x20;diterbitkan oleh Disdukcapil Kabupaten/Kota A, sedangkan orang tuanya sudah menjadi penduduk Kabupaten/Kota B, maka pencatatan pengesahan anak&#x20;dilaksanakan di&#x20;Kabupaten/Kota B.&#x20;Selanjutnya B,&#x20;memberitahukan kepada Disdukcapil&#x20;Kabupaten/Kota A untuk membuat catatan pinggir pengesahan anak tersebut pada register akta kelahiran dimaksud.
 
 b. Pasal 1 angka 39 Praturan Menteri Dalam Negeri&#x20;Nomor 19 Tahun 2010, disebutkan bahwa catatan pinggir diletakkan pada bagian pinggir akta atau bagian akta yang memungkinkan (di dalam/bagian muka atau belakang akta). Karena fotokopi kutipan akta kelahiran yang dilampirkan masih tersedia tempat yang cukup untuk membuat&#x20;catatan pinggir, yaitu di halaman depan sebelah kiri bawah serta pada halaman belakang sebelah kiri bawah dan di antara catatan pinggir sebelah kanan, Disdukcapil&#x20;Kabupaten/Kota&#x20;dapat membuat catatan pinggir pada tempat yang masih&#x20;tersedia tersebut.
 
