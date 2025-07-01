@@ -8,9 +8,10 @@ icon: file-lines
 
 <summary>Bagaimana prosedur penerbitan kembali akta pencatatan sipil?</summary>
 
-Berdasarkan Pasal 90, Pasal 91 dan Pasal 92&#x20;Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019&#x20;diatur register akta Pencatatan Sipil dan kutipan akta&#x20;Pencatatan Sipil dapat diterbitkan kembali oleh Disdukcapil Kabupaten/Kota:\
-a. Penerbitan kembali register akta Pencatatan Sipil&#x20;dilakukan di tempat register diterbitkan atau sesuai&#x20;dengan domisili Penduduk dan dilaksanakan&#x20;berdasarkan kutipan atau fotokopi kutipan akta&#x20;Pencatatan Sipil.\
-\
+Berdasarkan Pasal 90, Pasal 91 dan Pasal 92&#x20;Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019&#x20;diatur register akta Pencatatan Sipil dan kutipan akta&#x20;Pencatatan Sipil dapat diterbitkan kembali oleh Disdukcapil Kabupaten/Kota:
+
+a. Penerbitan kembali register akta Pencatatan Sipil&#x20;dilakukan di tempat register diterbitkan atau sesuai&#x20;dengan domisili Penduduk dan dilaksanakan&#x20;berdasarkan kutipan atau fotokopi kutipan akta&#x20;Pencatatan Sipil.
+
 b. Penerbitan kembali kutipan akta Pencatatan Sipil&#x20;karena rusak, hilang, atau berada dalam penguasaan&#x20;salah satu pihak yang bersengketa dilakukan di&#x20;tempat domisili Penduduk sebagai berikut:
 
 1. Penerbitan kutipan akta Pencatatan Sipil yang   &#x20;rusak berdasarkan permohonan dengan   &#x20;melampirkan kutipan akta Pencatatan Sipil yang   &#x20;rusak.

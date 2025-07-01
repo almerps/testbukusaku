@@ -8,7 +8,8 @@ icon: school
 
 <summary>Bagaimana cara mendaftar sebagai penduduk nonpermanen?</summary>
 
-**a. Pendaftaran secara web/daring/online/mandiri:**                                                                    Sesuai Pasal 3 Peraturan Menteri Dalam&#x20;Negeri Nomor 74 Tahun 2022 serta Surat Edara&#x20;Dirjen Dukcapil Nomor 471/18393/Dukcapil bahwa&#x20;melakukan pendaftaran penduduk nonpermanen&#x20;dapat dilakukan secara online melalui&#x20;[https://penduduknonpermanen.kemendagri.go.id](https://penduduknonpermanen.kemendagri.go.id/auth).&#x20;Proses pendaftaran secara online dilakukan dimulai&#x20;dengan pendaftaran akun. Setelah akun diverifikasi&#x20;maka penduduk dapat mengisi daftar rincian&#x20;pendaftaran sebagai penduduk nonpermanen. Jika&#x20;permohonan penduduk nonpermanen telah&#x20;disetujui oleh Disdukcapil maka akan mendapatkan&#x20;notifikasi pemberitahuan melalui email.
+**a. Pendaftaran secara web/daring/online/mandiri:**\
+Sesuai Pasal 3 Peraturan Menteri Dalam&#x20;Negeri Nomor 74 Tahun 2022 serta Surat Edara&#x20;Dirjen Dukcapil Nomor 471/18393/Dukcapil bahwa&#x20;melakukan pendaftaran penduduk nonpermanen&#x20;dapat dilakukan secara online melalui&#x20;[https://penduduknonpermanen.kemendagri.go.id](https://penduduknonpermanen.kemendagri.go.id/auth).&#x20;Proses pendaftaran secara online dilakukan dimulai&#x20;dengan pendaftaran akun. Setelah akun diverifikasi&#x20;maka penduduk dapat mengisi daftar rincian&#x20;pendaftaran sebagai penduduk nonpermanen. Jika&#x20;permohonan penduduk nonpermanen telah&#x20;disetujui oleh Disdukcapil maka akan mendapatkan&#x20;notifikasi pemberitahuan melalui email.
 
 **b. Pendaftaran secara manual/luring/langsung/&#x20;tatap muka:**\
 Sesuai Pasal 4 Peraturan Menteri Dalam&#x20;Negeri Nomor 74 Tahun 2022, bahwa melakukan&#x20;pendaftaran penduduk nonpermanen dapat&#x20;dilakukan secara langsung di Disdukcapil sesuai&#x20;domisili nonpermanen dengan mengisi Formulir&#x20;Pendaftaran atau Pembatalan Penduduk&#x20;Nonpermanen (F.1-15).
@@ -76,7 +77,8 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana cara pembatalan sebagai penduduk nonpermanen?</summary>
 
-**a. Secara web/daring/online/mandiri:**                                                                                       Pembatalan dapat dilakukan melalui&#x20;[https://penduduknonpermanen.kemendagri.go.id](https://penduduknonpermanen.kemendagri.go.id/auth).\
+**a. Secara web/daring/online/mandiri:**\
+Pembatalan dapat dilakukan melalui&#x20;[https://penduduknonpermanen.kemendagri.go.id](https://penduduknonpermanen.kemendagri.go.id/auth).\
 Penduduk memilih menu Riwayat kemudian pilih&#x20;kolom Aksi untuk melakukan pembatalan. Jika&#x20;permohonan telah sukses akan mendapatkan&#x20;notifikasi pemberitahuan melalui email.
 
 **b. Secara manual/luring/langsung/tatap muka:**\

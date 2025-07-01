@@ -182,8 +182,7 @@ c. Fotokopi kartu izin tinggal terbatas.\
 Tata cara:\
 a. OA mengisi F-1.03;\
 b. OA melampirkan fotokopi SKTT, Dokumen&#x20;Perjalanan dan KITAS;\
-c. Dalam hal OA menumpang KK, menyewa rumah,&#x20;kontrak dan kost perlu menyerahkan surat\
-pernyataan tidak keberatan dari pemilik rumah;&#x20;                                                                                   d. Disdukcapil menarik SKTT bagi OA yang pindah&#x20;dan mengganti SKTT dengan alamat baru; dan\
+c. Dalam hal OA menumpang KK, menyewa rumah,&#x20;kontrak dan kost perlu menyerahkan surat&#x20;pernyataan tidak keberatan dari pemilik rumah;&#x20;                                                                                   d. Disdukcapil menarik SKTT bagi OA yang pindah&#x20;dan mengganti SKTT dengan alamat baru; dan\
 e. Disdukcapil menerbitkan SKTT bagi OA yang&#x20;pindah dengan alamat baru.
 
 Catatan:\

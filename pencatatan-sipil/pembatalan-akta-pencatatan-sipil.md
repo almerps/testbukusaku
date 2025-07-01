@@ -99,9 +99,9 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <details>
 
-<summary>Apakah Ditjen Dukcapil Kementerian Dalam Negerimempunyai kewenangan untuk membatalkan akta pencatatan sipil?</summary>
+<summary>Apakah Ditjen Dukcapil Kementerian Dalam Negeri mempunyai kewenangan untuk membatalkan akta pencatatan sipil?</summary>
 
-a. Berdasarkan Pasal 72 Undang-Undang Nomor 23&#x20;Tahun 2006 bahwa pembatalan akta p mempunyai kekuatan hukum tetap.
+a. Berdasarkan Pasal 72 Undang-Undang Nomor 23&#x20;Tahun 2006 bahwa pembatalan akta pencatatan sipil dilakukan berdasarkan putusan pengadilan yang telah mempunyai kekuatan hukum tetap.
 
 b. Sesuai Pasal 89 ayat (2) dan ayat (4) Peraturan&#x20;Menteri Dalam Negeri Nomor 108 Tahun 2019, diatur&#x20;bahwa pembatalan akta pencatatan sipil dapat juga&#x20;dilakukan tanpa melalui pengadilan/Contrarius Actus,&#x20;dengan memenuhi persyaratan berupa kutipan akta&#x20;pencatatan sipil yang dibatalkan, dokumen pendukung&#x20;yang menguatkan pembatalan, fotokopi KK, KTP-el&#x20;dan surat pernyataan tanggung jawab mutlak.&#x20;Disamping itu, pembatalan akta pencatatan sipil tanpa&#x20;melalui pengadilan/Contrarius Actus hanya dapat&#x20;dilakukan apabila tidak dalam sengketa.&#x20;
 
