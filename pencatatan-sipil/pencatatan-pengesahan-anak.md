@@ -41,9 +41,7 @@ Disdukcapil Kabupaten/Kota atau UPT Disdukcapil&#x20;Kabupaten/Kota membuat cat
    \
    Persyaratan pengesahan anak bagi WNI   &#x20;Bukan Penduduk di Luar Negeri dimaksud berupa:   \
    a) kutipan akta kelahiran;   \
-   b) kutipan akta perkawinan yang   &#x20;menerangkan   \
-   terjadinya peristiwa perkawinan agama atau Kepercayaan Terhadap Tuhan Yang Maha Esa terjadi   \
-   sebelum kelahiran anak; dan   \
+   b) kutipan akta perkawinan yang   &#x20;menerangkan   &#x20;terjadinya peristiwa perkawinan agama atau Kepercayaan Terhadap Tuhan Yang Maha Esa terjadi   &#x20;sebelum kelahiran anak; dan   \
    c) Dokumen Perjalanan Republik Indonesia \
    \
    Perwakilan Republik Indonesia mencatat dalam register akta pengesahan anak dan menerbitkan kutipan akta pengesahan anak dan membuat catatan pinggir dalam register akta kelahiran dan kutipan akta kelahiran;   &#x20;serta kutipan akta pengesahan anak dan kutipan akta kelahiran yang telah diberikan catatan   &#x20;pinggir disampaikan kepada Pemohon.
@@ -93,7 +91,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <details>
 
-<summary>Bagaimana pencatatan pengesahan anak, domisili<br>antar kedua orang tua atau anak berbeda?</summary>
+<summary>Bagaimana pencatatan pengesahan anak, domisili antar kedua orang tua atau anak berbeda?</summary>
 
 a. Berdasarkan Pasal 102 b Undang-Undang Nomor&#x20;24 Tahun 2013, intinya diatur bahwa pelayanan administrasi kependudukan dilaporkan oleh penduduk di Disdukcapil Kabupaten/Kota tempat penduduk berdomisili.
 
