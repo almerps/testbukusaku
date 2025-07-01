@@ -65,12 +65,10 @@ Tata cara pelaporan pencatatan perceraian yang&#x20;telah dicatatkan pada insta
 3. Petugas pada Perwakilan Republik Indonesia   &#x20;yang dapat mengakses basis data kependudukan melakukan perekaman data   &#x20;pelaporan ke dalam   &#x20;basis   &#x20;data kependudukan
 4. Perwakilan Republik Indonesia mencatat   &#x20;laporan dalam daftar pelaporan dan menerbitkan surat keterangan pelaporan
 5. Surat keterangan pelaporan diberikan kepada   &#x20;Pemohon.
-6.   Pencatatan perkawinan WNI dengan orang   &#x20;asing di luar negeri dalam hal negara setempat tidak menyelenggarakan pencatatan   &#x20;perkawinan bagi orang asing berupa:   &#x20;Dokumen yang sah tentang terjadinya perceraian di negara setempat;   &#x20;kutipan akta perkawinan atau bukti   &#x20;pencatatan perkawinan; dan   &#x20;Dokumen Perjalanan Republik Indonesia atau surat keterangan pindah luar negeri suami   \
-   dan istri yang telah bercerai.
+6.   Pencatatan perkawinan WNI dengan orang   &#x20;asing di luar negeri dalam hal negara setempat tidak menyelenggarakan pencatatan   &#x20;perkawinan bagi orang asing berupa:   &#x20;Dokumen yang sah tentang terjadinya perceraian di negara setempat;   &#x20;kutipan akta perkawinan atau bukti   &#x20;pencatatan perkawinan; dan   &#x20;Dokumen Perjalanan Republik Indonesia atau surat keterangan pindah luar negeri suami   &#x20;dan istri yang telah bercerai.
 
 Catatan:\
-Dalam hal pemohon tidak dapat menyerahkan&#x20;kutipan akta perkawinan atau bukti pencatatan perkawinan, pemohon membuat surat pernyataan yang menyatakan kutipan akta perkawinan tidak&#x20;dimiliki dengan alasan sesuai dengan ketentuan peraturan perundang-undangan.&#x20;Perwakilan Republik Indonesia tidak&#x20;menarik dokumen yang sah tentang terjadinya perceraian di negara setempat atau dokumen&#x20;perjalanan Republik Indonesia atau dokumen&#x20;perjalanan bagi orang asing atau surat keterangan yang menunjukkan domisili atau surat\
-keterangan pindah luar negeri asli berupa&#x20;fotokopi, asli hanya diperlihatkan. WNI tidak perlu fotokopi KTP-el 2 (dua) orang saksi karena identitasnya sudah tercantum dalam formulir F-2.02.\
+Dalam hal pemohon tidak dapat menyerahkan&#x20;kutipan akta perkawinan atau bukti pencatatan perkawinan, pemohon membuat surat pernyataan yang menyatakan kutipan akta perkawinan tidak&#x20;dimiliki dengan alasan sesuai dengan ketentuan peraturan perundang-undangan.&#x20;Perwakilan Republik Indonesia tidak&#x20;menarik dokumen yang sah tentang terjadinya perceraian di negara setempat atau dokumen&#x20;perjalanan Republik Indonesia atau dokumen&#x20;perjalanan bagi orang asing atau surat keterangan yang menunjukkan domisili atau surat&#x20;keterangan pindah luar negeri asli berupa&#x20;fotokopi, asli hanya diperlihatkan. WNI tidak perlu fotokopi KTP-el 2 (dua) orang saksi karena identitasnya sudah tercantum dalam formulir F-2.02.\
 \
 Tata cara pencatatan perkawinan WNI dengan&#x20;orang asing di luar negeri dalam hal negara setempat tidak menyelenggarakan pencatatan&#x20;perkawinan bagi orang asing sebagai berikut:
 
@@ -105,11 +103,10 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 <summary>Bagaimana pelaporan pencatatan peristiwa perceraian di luar negeri setelah kembali ke Indonesia?</summary>
 
 Peristiwa perceraian di luar negeri setelah&#x20;kembali ke Indonesia dilaporkan oleh yang&#x20;bersangkutan&#x20;kepada&#x20;Kabupaten/Kota&#x20;Disdukcapil&#x20;atau UPT Disdukcapil&#x20;Kabupaten/Kota di tempat Penduduk berdomisli&#x20;paling lambat 30 (tiga puluh) hari sejak yang&#x20;bersangkutan kembali ke Indonesia, dengan&#x20;memenuhi persyaratan berupa:\
-a. bukti pelaporan perceraia dari Perwakilan RI;dan\
+a. bukti pelaporan perceraian dari Perwakilan RI;dan\
 b. kutipan akta perceraian.\
 \
-Disdukcapil Kabupaten/Kota atau UPT&#x20;Disdukcapil Kabupaten/Kota merekam pelaporan&#x20;dalam basis data kependudukan dan menerbitkan\
-surat keterangan pelaporan.
+Disdukcapil Kabupaten/Kota atau UPT&#x20;Disdukcapil Kabupaten/Kota merekam pelaporan&#x20;dalam basis data kependudukan dan menerbitkan&#x20;surat keterangan pelaporan.
 
 Dalam hal pencatatan peristiwa penting&#x20;WNI di luar negeri yang telah dicatatkan pada&#x20;instansi yang berwenang di Negara setempat&#x20;belum dilaporkan kepada Perwakilan RI, maka penerbitan surat keterangan pelaporan dapat dilakukan pada Disdukcapil Kabupaten/Kota atau&#x20;UPT Disdukcapil Kabupaten/Kota.
 

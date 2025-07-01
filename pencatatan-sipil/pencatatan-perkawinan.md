@@ -673,8 +673,7 @@ b. Peraturan Presiden Nomor 96 Tahun 2018, Persyaratan pencatatan perkawinan WNI
 
 c. Undang-Undang Nomor 16 Tahun 2019 tentang Perubahan Atas Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan, Pasal 7 mengamanatkan:
 
-* Perkawinan hanya diizinkan apabila pria dan wanita sudah mencapai umur 19 (sembilan\
-  belas) tahun, dalam hal terjadi penyimpangan terhadap ketentuan umur, orang tua pihak pria dan/atau orang tua pihak wanita dapat meminta dispensasi kepada Pengadilan dengan alasan sangat mendesak disertai bukti-bukti pendukung yang cukup.
+* Perkawinan hanya diizinkan apabila pria dan wanita sudah mencapai umur 19 (sembilan belas) tahun, dalam hal terjadi penyimpangan terhadap ketentuan umur, orang tua pihak pria dan/atau orang tua pihak wanita dapat meminta dispensasi kepada Pengadilan dengan alasan sangat mendesak disertai bukti-bukti pendukung yang cukup.
 
 d. Alternatif solusi pencatatan perkawinan bagi perkawinan belum mencapai umur 19 (sembilan belas) tahun:
 
