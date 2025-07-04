@@ -10,15 +10,12 @@ icon: file-lines
 
 Berdasarkan Pasal 90, Pasal 91 dan Pasal 92&#x20;Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019&#x20;diatur register akta Pencatatan Sipil dan kutipan akta&#x20;Pencatatan Sipil dapat diterbitkan kembali oleh Disdukcapil Kabupaten/Kota:
 
-a. Penerbitan kembali register akta Pencatatan Sipil&#x20;dilakukan di tempat register diterbitkan atau sesuai&#x20;dengan domisili Penduduk dan dilaksanakan&#x20;berdasarkan kutipan atau fotokopi kutipan akta&#x20;Pencatatan Sipil.
-
-b. Penerbitan kembali kutipan akta Pencatatan Sipil&#x20;karena rusak, hilang, atau berada dalam penguasaan&#x20;salah satu pihak yang bersengketa dilakukan di&#x20;tempat domisili Penduduk sebagai berikut:
-
-1. Penerbitan kutipan akta Pencatatan Sipil yang   &#x20;rusak berdasarkan permohonan dengan   &#x20;melampirkan kutipan akta Pencatatan Sipil yang   &#x20;rusak.
-2. Penerbitan kutipan akta Pencatatan Sipil yang   &#x20;hilang berdasarkan permohonan dengan   &#x20;melampirkan surat keterangan hilang dari   &#x20;kepolisian.
-3. Penerbitan kutipan akta Pencatatan Sipil yang   &#x20;berada dalam penguasaan salah satu pihak yang   bersengketa berdasarkan permohonan dengan   &#x20;melampirkan surat pernyataan.
-
-c. Penerbitan kutipan akta Pencatatan Sipil dilakukan&#x20;setelah pencatatan register akta Pencatatan Sipil.
+1. Penerbitan kembali register akta Pencatatan Sipil   &#x20;dilakukan di tempat register diterbitkan atau sesuai   &#x20;dengan domisili Penduduk dan dilaksanakan   &#x20;berdasarkan kutipan atau fotokopi kutipan akta   &#x20;Pencatatan Sipil.
+2. Penerbitan kembali kutipan akta Pencatatan Sipil   &#x20;karena rusak, hilang, atau berada dalam penguasaan   &#x20;salah satu pihak yang bersengketa dilakukan di   &#x20;tempat domisili Penduduk sebagai berikut:
+   1. Penerbitan kutipan akta Pencatatan Sipil yang      &#x20;rusak berdasarkan permohonan dengan      &#x20;melampirkan kutipan akta Pencatatan Sipil yang      &#x20;rusak.
+   2. Penerbitan kutipan akta Pencatatan Sipil yang      &#x20;hilang berdasarkan permohonan dengan      &#x20;melampirkan surat keterangan hilang dari      &#x20;kepolisian.
+   3. Penerbitan kutipan akta Pencatatan Sipil yang      &#x20;berada dalam penguasaan salah satu pihak yang      bersengketa berdasarkan permohonan dengan      &#x20;melampirkan surat pernyataan.
+3. Penerbitan kutipan akta Pencatatan Sipil dilakukan   &#x20;setelah pencatatan register akta Pencatatan Sipil.
 
 **Sumber rujukan:**
 
@@ -39,12 +36,10 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 Berdasarkan Pasal 92 Peraturan Menteri dalam&#x20;Negeri Nomor 108 Tahun 2019 diatur bahwa penerbitan&#x20;kembali kutipan akta pencatatan sipil karena:
 
-a. rusak, dilakukan berdasarkan permohonan dengan&#x20;melampirkan kutipan akta pencatatan sipil yang rusak;\
-\
-b. hilang, dilakukan berdasarkan permohonan dengan&#x20;melampirkan surat keterangan hilang  dari kepolisian;&#x20;dan\
-\
-c. berada dalam penguasaan salah satu pihak yang&#x20;bersengketa, dilakukan berdasarkan permohonan&#x20;dengan melampirkan surat pernyataan tanggung&#x20;jawab multak.\
-\
+1.   rusak, dilakukan berdasarkan permohonan dengan   &#x20;melampirkan kutipan akta pencatatan sipil yang rusak;
+2. hilang, dilakukan berdasarkan permohonan dengan   &#x20;melampirkan surat keterangan hilang  dari kepolisian;   &#x20;dan
+3. berada dalam penguasaan salah satu pihak yang   &#x20;bersengketa, dilakukan berdasarkan permohonan   &#x20;dengan melampirkan surat pernyataan tanggung   &#x20;jawab multak.
+
 Merujuk pada ketentuan tersebut, maka penerbitan&#x20;kembali kutipan akta pencatatan sipil dapat juga&#x20;dilakukan terhadap subjek/orang yang telah meninggal&#x20;dunia, dengan adanya permohonan dan melampirkan&#x20;persyaratan sesuai ketentuan Pasal 92 Peraturan&#x20;Menteri Dalam Negeri Nomor 108 Tahun 2019 dimaksud,&#x20;serta sepanjang register akta pencatatan sipil tercatat&#x20;pada Disdukcapil Kabupaten/Kota tempat akta&#x20;pencatatan sipil diterbitkan.
 
 **Sumber rujukan:**
@@ -87,10 +82,10 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana penerbitan dokumen kependudukan bagi anak yang lahir dari perkawinan yang sah dari seorang ayah WNA dan ibu WNI?</summary>
 
-Berdasarkan:\
-a. Pasal 4 huruf d dan Pasal 41 Undang-Undang Nomor&#x20;12 Tahun 2006. Anak yang lahir dari perkawinan yang&#x20;sah dari seorang ayah warga negara asing dan ibu&#x20;Warga Negara Indonesia. Sebelum Undang-Undang&#x20;Nomor 12 Tahun 2006 ini diundangkan dan belum&#x20;berusia 18 (delapan belas) tahun atau belum kawin&#x20;memperoleh Kewarganegaraan Indonesia selanjutnya&#x20;mendaftarkan diri kepada Menteri Kemenkumham&#x20;melalui Pejabat atau Perwakilan Republik Indonesia&#x20;paling lambat 4 (tahun) setelah Undang-Undang 12&#x20;Tahun 2006 diundangkan (Diundangkan di Jakarta&#x20;pada tanggal 1 Agustus 2006).
+Berdasarkan:
 
-b. Pasal 60 ayat (1) Peraturan Pemerintah Nomor 2&#x20;Tahun 2007, maka paling lambat 3 (tiga) tahun setelah&#x20;berusia 18 (delapan belas) tahun atau sudah kawin&#x20;harus menyatakan memilih salah satu&#x20;kewarganegaraannya.
+1. Pasal 4 huruf d dan Pasal 41 Undang-Undang Nomor   &#x20;12 Tahun 2006. Anak yang lahir dari perkawinan yang   &#x20;sah dari seorang ayah warga negara asing dan ibu   &#x20;Warga Negara Indonesia. Sebelum Undang-Undang   &#x20;Nomor 12 Tahun 2006 ini diundangkan dan belum   &#x20;berusia 18 (delapan belas) tahun atau belum kawin   &#x20;memperoleh Kewarganegaraan Indonesia selanjutnya   &#x20;mendaftarkan diri kepada Menteri Kemenkumham   &#x20;melalui Pejabat atau Perwakilan Republik Indonesia   &#x20;paling lambat 4 (tahun) setelah Undang-Undang 12   &#x20;Tahun 2006 diundangkan (Diundangkan di Jakarta   &#x20;pada tanggal 1 Agustus 2006).
+2. Pasal 60 ayat (1) Peraturan Pemerintah Nomor 2   &#x20;Tahun 2007, maka paling lambat 3 (tiga) tahun setelah   &#x20;berusia 18 (delapan belas) tahun atau sudah kawin   &#x20;harus menyatakan memilih salah satu   &#x20;kewarganegaraannya.
 
 Merujuk ketentuan di atas, apabila anak tersebut sudah&#x20;didaftarakan ke Kemenkumham menjadi Warga Negara&#x20;Indonesia Anak Berkewarganegaraan Ganda Terbatas&#x20;berdasarkan Surat Keputusan Menkumham maka dalam&#x20;penerbitan Dokumen Kependudukan dan Pencatatan&#x20;Sipil anak yang bersangkutan ditulis sebagai Warga&#x20;Negara Indonesia.
 
@@ -112,13 +107,12 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana perubahan identitas dalam dokumen kependudukan?</summary>
 
-Berdasarkan:\
-a. Pasal 7 ayat (2) huruf l Undang-Undang Nomor 30&#x20;Tahun 2014 tentang Administrasi Pemerintahan,&#x20;bahwa pejabat pemerintahan memiliki kewajiban&#x20;mematuhi putusan pengadilan yang telah&#x20;berkekuatan hukum tetap.
+Berdasarkan:
 
-b. Pasal 52 ayat (1) Undang-Undang Nomor 23 Tahun&#x20;2006, diatur bahwa pencatatan perubahan nama&#x20;dilaksanakan berdasarkan penetapan pengadilan&#x20;negeri tempat pemohon.
+1. Pasal 7 ayat (2) huruf l Undang-Undang Nomor 30   &#x20;Tahun 2014 tentang Administrasi Pemerintahan,   &#x20;bahwa pejabat pemerintahan memiliki kewajiban   &#x20;mematuhi putusan pengadilan yang telah   &#x20;berkekuatan hukum tetap.
+2. Pasal 52 ayat (1) Undang-Undang Nomor 23 Tahun   &#x20;2006, diatur bahwa pencatatan perubahan nama   &#x20;dilaksanakan berdasarkan penetapan pengadilan   &#x20;negeri tempat pemohon.
+3. Pasal 33 Peraturan Pemerintah Nomor 40 Tahun   &#x20;2019, diatur bahwa dalam hal NIK yang tercantum   &#x20;pada KTP-el berbeda dengan NIK yang tercantum   &#x20;pada dokumen kependudukan dan/atau dokumen   &#x20;identitas lainnya yang diterbitkan oleh   &#x20;kementerian/lembaga atau badan hukum Indonesia,   &#x20;berlaku NIK yang tercantum pada KTP-el.
 
-c. Pasal 33 Peraturan Pemerintah Nomor 40 Tahun&#x20;2019, diatur bahwa dalam hal NIK yang tercantum&#x20;pada KTP-el berbeda dengan NIK yang tercantum&#x20;pada dokumen kependudukan dan/atau dokumen&#x20;identitas lainnya yang diterbitkan oleh&#x20;kementerian/lembaga atau badan hukum Indonesia,&#x20;berlaku NIK yang tercantum pada KTP-el.\
-\
 Merujuk ketentuan di atas, identitas dalam dokumen&#x20;kependudukan dapat diubah berdasarkan Penetapan&#x20;Pengadilan yang telah berkekuatan hukum tetap.
 
 **Sumber rujukan:**

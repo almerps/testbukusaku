@@ -10,11 +10,12 @@ icon: file-lines
 
 Berdasarkan Penjelasan Pasal 56 ayat (1) Undang-Undang No 23 Tahun 2006 diatur bahwa yang dimaksud dengan “Peristiwa Penting lainnya” adalah peristiwa yang ditetapkan oleh pengadilan negeri untuk dicatatkan pada Instansi Pelaksana, antara lain perubahan jenis kelamin. Pencatatan Peristiwa Penting lainnya dilakukan oleh Pejabat Pencatatan Sipil atas permintaan Penduduk yang bersangkutan setelah adanya putusan pengadilan negeri yang telah memperoleh kekuatan hukum tetap.
 
-Persyaratan pencatatan peristiwa penting lainnya berupa:\
-a. salinan penetapan pengadilan negeri tentang Peristiwa Penting lainnya;\
-b. kutipan akta Pencatatan Sipil;\
-c. KK; dan\
-d. KTP-el.
+Persyaratan pencatatan peristiwa penting lainnya berupa:
+
+1. salinan penetapan pengadilan negeri tentang Peristiwa Penting lainnya;
+2. kutipan akta Pencatatan Sipil;
+3. KK; dan
+4. KTP-el.
 
 Disdukcapil Kabupaten/Kota atau UPT Disdukcapil Kabupaten/Kota memberikan catatan pinggir pada register akta Pencatatan Sipil dan kutipan akta Pencatatan Sipil dan kutipan akta Pencatatan Sipil yang telah diberikan catatan pinggir disampaikan kepada Pemohon.
 
