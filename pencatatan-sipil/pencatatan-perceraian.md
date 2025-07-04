@@ -65,10 +65,15 @@ Tata cara pelaporan pencatatan perceraian yang&#x20;telah dicatatkan pada insta
 3. Petugas pada Perwakilan Republik Indonesia   &#x20;yang dapat mengakses basis data kependudukan melakukan perekaman data   &#x20;pelaporan ke dalam   &#x20;basis   &#x20;data kependudukan
 4. Perwakilan Republik Indonesia mencatat   &#x20;laporan dalam daftar pelaporan dan menerbitkan surat keterangan pelaporan
 5. Surat keterangan pelaporan diberikan kepada   &#x20;Pemohon.
-6.   Pencatatan perkawinan WNI dengan orang   &#x20;asing di luar negeri dalam hal negara setempat tidak menyelenggarakan pencatatan   &#x20;perkawinan bagi orang asing berupa:   &#x20;Dokumen yang sah tentang terjadinya perceraian di negara setempat;   &#x20;kutipan akta perkawinan atau bukti   &#x20;pencatatan perkawinan; dan   &#x20;Dokumen Perjalanan Republik Indonesia atau surat keterangan pindah luar negeri suami   &#x20;dan istri yang telah bercerai.
+6.   Pencatatan perkawinan WNI dengan orang   &#x20;asing di luar negeri dalam hal negara setempat tidak menyelenggarakan pencatatan   &#x20;perkawinan bagi orang asing berupa:
+7. Dokumen yang sah tentang terjadinya perceraian di negara setempat;
+8. kutipan akta perkawinan atau bukti   &#x20;pencatatan perkawinan; dan
+9. Dokumen Perjalanan Republik Indonesia atau surat keterangan pindah luar negeri suami   &#x20;dan istri yang telah bercerai.
 
 Catatan:\
-Dalam hal pemohon tidak dapat menyerahkan&#x20;kutipan akta perkawinan atau bukti pencatatan perkawinan, pemohon membuat surat pernyataan yang menyatakan kutipan akta perkawinan tidak&#x20;dimiliki dengan alasan sesuai dengan ketentuan peraturan perundang-undangan.&#x20;Perwakilan Republik Indonesia tidak&#x20;menarik dokumen yang sah tentang terjadinya perceraian di negara setempat atau dokumen&#x20;perjalanan Republik Indonesia atau dokumen&#x20;perjalanan bagi orang asing atau surat keterangan yang menunjukkan domisili atau surat&#x20;keterangan pindah luar negeri asli berupa&#x20;fotokopi, asli hanya diperlihatkan. WNI tidak perlu fotokopi KTP-el 2 (dua) orang saksi karena identitasnya sudah tercantum dalam formulir F-2.02.\
+Dalam hal pemohon tidak dapat menyerahkan&#x20;kutipan akta perkawinan atau bukti pencatatan perkawinan, pemohon membuat surat pernyataan yang menyatakan kutipan akta perkawinan tidak&#x20;dimiliki dengan alasan sesuai dengan ketentuan peraturan perundang-undangan.
+
+Perwakilan Republik Indonesia tidak&#x20;menarik dokumen yang sah tentang terjadinya perceraian di negara setempat atau dokumen&#x20;perjalanan Republik Indonesia atau dokumen&#x20;perjalanan bagi orang asing atau surat keterangan yang menunjukkan domisili atau surat&#x20;keterangan pindah luar negeri asli berupa&#x20;fotokopi, asli hanya diperlihatkan. WNI tidak perlu fotokopi KTP-el 2 (dua) orang saksi karena identitasnya sudah tercantum dalam formulir F-2.02.\
 \
 Tata cara pencatatan perkawinan WNI dengan&#x20;orang asing di luar negeri dalam hal negara setempat tidak menyelenggarakan pencatatan&#x20;perkawinan bagi orang asing sebagai berikut:
 
