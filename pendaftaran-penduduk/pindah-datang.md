@@ -10,22 +10,22 @@ icon: van-shuttle
 
 Berdasarkan ketentutan Pasal 25 ayat (3)&#x20;Peraturan Presiden 96 Tahun 2018 bahwa syarat&#x20;pengurusan pindah penduduk adalah Fotokopi Kartu&#x20;Keluarga, dengan tata caranya sebagai berikut:
 
-**a.** WNI mengisi Formulir Pendaftaran Perpindahan&#x20;Penduduk (F-1.03);\
-**b.** WNI melampirkan fotokopi KK;\
-**c.** Dalam hal penduduk menumpang KK, menyewa&#x20;rumah, kontrak dan kost perlu menyerahkan surat&#x20;pernyataan tidak keberatan dari pemilik rumah;\
-**d.** Apabila Kepala Keluarga dan seluruh anggota&#x20;keluarga pindah, maka Disdukcapil\
-Kabupaten/Kota menerbitkan KK dengan nomor&#x20;KK tetap;\
-**e.** Dalam hal Kepala Keluarga tidak pindah, maka&#x20;Disdukcapil Kabupaten/Kota menerbitkan KK&#x20;dengan nomor KK tetap;\
-**f.** Dalam hal Kepala Keluarga pindah namun&#x20;anggota keluarga tidak pindah, maka Disdukcapil&#x20;menerbitkan KK dengan nomor KK baru;\
-**g.** Dalam hal anggota keluarga yang tidak pindah&#x20;dan tidak memenuhi syarat menjadi Kepala\
-Keluarga maka ditumpangkan ke Kartu Keluarga&#x20;lainnya dan diterbitkan Kartu Keluarga karena&#x20;menumpang;\
-**h.** Disdukcapil menarik KTP-el dan/atau KIA bagi&#x20;penduduk yang pindah dan mengganti KTP-el&#x20;dan/atau KIA dengan alamat baru;&#x20;33\
-**i.** Disdukcapil memusnahkan KTP-el dan/atau KIA&#x20;alamat lama; dan\
-**j.** Disdukcapil menerbitkan KK bagi penduduk yang&#x20;pindah dengan alamat baru.
+1. WNI mengisi Formulir Pendaftaran Perpindahan   &#x20;Penduduk (F-1.03);
+2. WNI melampirkan fotokopi KK;
+3. Dalam hal penduduk menumpang KK, menyewa   &#x20;rumah, kontrak dan kost perlu menyerahkan surat   &#x20;pernyataan tidak keberatan dari pemilik rumah;
+4. Apabila Kepala Keluarga dan seluruh anggota   &#x20;keluarga pindah, maka Disdukcapil   \
+   Kabupaten/Kota menerbitkan KK dengan nomor&#x20;   KK tetap;
+5. Dalam hal Kepala Keluarga tidak pindah, maka   &#x20;Disdukcapil Kabupaten/Kota menerbitkan KK   &#x20;dengan nomor KK tetap;
+6. Dalam hal Kepala Keluarga pindah namun   &#x20;anggota keluarga tidak pindah, maka Disdukcapil   &#x20;menerbitkan KK dengan nomor KK baru;
+7. Dalam hal anggota keluarga yang tidak pindah   &#x20;dan tidak memenuhi syarat menjadi Kepala   &#x20;Keluarga maka ditumpangkan ke Kartu Keluarga   &#x20;lainnya dan diterbitkan Kartu Keluarga karena   &#x20;menumpang;
+8. Disdukcapil menarik KTP-el dan/atau KIA bagi   &#x20;penduduk yang pindah dan mengganti KTP-el   &#x20;dan/atau KIA dengan alamat baru;   &#x20;
+9. Disdukcapil memusnahkan KTP-el dan/atau KIA   &#x20;alamat lama; dan
+10. Disdukcapil menerbitkan KK bagi penduduk yang    &#x20;pindah dengan alamat baru.
 
-Catatan:\
-a. Tidak perlu diterbitkan SKPWNI;\
-b. Untuk pelayanan online/daring, persyaratan yang&#x20;discan/difoto untuk diunggah harus aslinya.
+Catatan:
+
+1. Tidak perlu diterbitkan SKPWNI;
+2. Untuk pelayanan online/daring, persyaratan yang   &#x20;discan/difoto untuk diunggah harus aslinya.
 
 **Sumber rujukan:**
 
@@ -46,46 +46,38 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 <summary>Bagaimana cara mengurus pindah penduduk antar Kabupaten/Kota?</summary>
 
 Berdasarkan ketentutan Pasal 25 ayat (3)&#x20;Peraturan Presiden 96 Tahun 2018 bahwa syarat\
-pengurusan pindah penduduk adalah Fotokopi Kartu&#x20;Keluarga. \
-Penduduk mengurus penerbitan Surat&#x20;Keterangan Pindah WNI (SKPWNI) dari Disdukcapil&#x20;daerah asal selanjutnya SKPWNI diserahkan ke&#x20;Disdukcapil daerah tujuan untuk dilakukan penerbitan&#x20;KK dan KTP-el/KIA dengan alamat baru.
+pengurusan pindah penduduk adalah Fotokopi Kartu&#x20;Keluarga. Penduduk mengurus penerbitan Surat&#x20;Keterangan Pindah WNI (SKPWNI) dari Disdukcapil&#x20;daerah asal selanjutnya SKPWNI diserahkan ke&#x20;Disdukcapil daerah tujuan untuk dilakukan penerbitan&#x20;KK dan KTP-el/KIA dengan alamat baru.
 
-**Tata cara mengurus SKPWNI dari daerah asal:**\
-a. WNI mengisi Formulir Pendaftaran Perpindahan&#x20;Penduduk (F-1.03);\
-b. WNI melampirkan fotokopi KK;\
-c. Dinas menerbitkan KK dengan nomor KK tetap&#x20;apabila Kepala Keluarga tidak pindah;\
-d. Dinas menerbitkan KK dengan nomor KK baru&#x20;apabila Kepala Keluarga pindah namun \
-anggota&#x20;keluarga tidak pindah;\
-e. Dalam hal seluruh anggota keluarga masih&#x20;berusia di bawah 17 tahun tidak pindah, maka\
-diperlukan kepala keluarga yang telah dewasa.&#x20;Solusinya adalah ada Saudara yang bersedia&#x20;pindah menjadi Kepala Keluarga di dalam&#x20;Keluarga ini atau anak-anak dimaksud dititipkan\
-pada Kartu Keluarga saudaranya yang terdekat&#x20;dengan membuat surat pernyataan bersedia\
-menjadi wali;\
-f. Disdukcapil menerbitkan SKPWNI bagi penduduk&#x20;yang pindah; dan\
-g. Disdukcapil tidak menarik KTPel dan/atau KIA&#x20;penduduk yang pindah, karena KTPel dan/atau&#x20;KIA ditarik di daerah tujuan.
+**Tata cara mengurus SKPWNI dari daerah asal:**
+
+1. WNI mengisi Formulir Pendaftaran Perpindahan   &#x20;Penduduk (F-1.03);
+2. WNI melampirkan fotokopi KK;
+3. Dinas menerbitkan KK dengan nomor KK tetap   &#x20;apabila Kepala Keluarga tidak pindah;
+4. Dinas menerbitkan KK dengan nomor KK baru   &#x20;apabila Kepala Keluarga pindah namun  anggota   &#x20;keluarga tidak pindah;
+5. Dalam hal seluruh anggota keluarga masih   &#x20;berusia di bawah 17 tahun tidak pindah, maka   &#x20;diperlukan kepala keluarga yang telah dewasa.   &#x20;Solusinya adalah ada Saudara yang bersedia   &#x20;pindah menjadi Kepala Keluarga di dalam   &#x20;Keluarga ini atau anak-anak dimaksud dititipkan   &#x20;pada Kartu Keluarga saudaranya yang terdekat   &#x20;dengan membuat surat pernyataan bersedia   &#x20;menjadi wali;
+6. Disdukcapil menerbitkan SKPWNI bagi penduduk   &#x20;yang pindah; dan
+7. Disdukcapil tidak menarik KTPel dan/atau KIA   &#x20;penduduk yang pindah, karena KTPel dan/atau   &#x20;KIA ditarik di daerah tujuan.
 
 **Catatan:**\
 Untuk pelayanan online/Daring, persyaratan yang&#x20;discan/difoto untuk diunggah harus aslinya.
 
 **Tata cara ketika telah berada di daerah tujuan:**
 
-a. WNI menyerahkan **SKPWNI** di Disdukcapil&#x20;Tujuan;\
-b. Dalam hal WNI menumpang KK, menyewa rumah,&#x20;kontrak dan kost perlu menyerahkan surat&#x20;pernyataan tidak keberatan dari pemilik rumah di&#x20;tempat layanan tujuan;\
-c. WNI menyerahkan KTPel dan/atau KIA alamat&#x20;lama untuk diterbitkan KTP-el dan/atau KIA\
-dengan alamat baru; dan\
-d. Dalam hal WNI secara faktual sudah berada di&#x20;daerah tujuan dan belum mempunyai SKP\
-maka Disdukcapil tujuan membantu komunikasi&#x20;melalui media elektronik untuk pengurusan SKP&#x20;dengan Disdukcapil daerah asal dilengkapi&#x20;dengan:
-
-1. WNI mengisi Formulir Pendaftaran   &#x20;Perpindahan Penduduk (F-1.03);
-2. WNI melampirkan fotokopi KK;
-3. Dalam hal WNI tidak dapat melampirkan KK,   &#x20;maka WNI dapat mengisi Formulir   \
-   Pendaftaran Perpindahan Penduduk (F-1.03)   &#x20;secara lengkap dengan meminta informasi   \
-   NIK dan Nomor KK ke Disdukcapil daerah   &#x20;tujuan. Disdukcapil daerah tujuan melakukan   \
-   pencarian data melalui SIAK Konsolidasi   &#x20;untuk mengetahui NIK dan Nomor KK;
-4. Dinas daerah tujuan membuat surat   &#x20;permohonan kepada Disdukcapil daerah asal   \
-   agar melakukan penerbitan SKPWNI.   &#x20;Permohonan ini dengan melampirkan Formulir   \
-   Pendaftaran Perpindahan Penduduk (F-1.03).
-
-e. Disdukcapil menerbitkan KTP-el dan/atau KIA&#x20;dengan alamat baru.\
-f. Disdukcapil memusnahkan KTP-el dan/atau KIA&#x20;alamat lama.
+1. WNI menyerahkan **SKPWNI** di Disdukcapil   &#x20;Tujuan;
+2. Dalam hal WNI menumpang KK, menyewa rumah,   &#x20;kontrak dan kost perlu menyerahkan surat   &#x20;pernyataan tidak keberatan dari pemilik rumah di   &#x20;tempat layanan tujuan;
+3. WNI menyerahkan KTPel dan/atau KIA alamat   &#x20;lama untuk diterbitkan KTP-el dan/atau KIA   &#x20;dengan alamat baru; dan
+4. Dalam hal WNI secara faktual sudah berada di   &#x20;daerah tujuan dan belum mempunyai SKP   &#x20;maka Disdukcapil tujuan membantu komunikasi   &#x20;melalui media elektronik untuk pengurusan SKP   &#x20;dengan Disdukcapil daerah asal dilengkapi   &#x20;dengan:
+   1. WNI mengisi Formulir Pendaftaran      &#x20;Perpindahan Penduduk (F-1.03);
+   2. WNI melampirkan fotokopi KK;
+   3. Dalam hal WNI tidak dapat melampirkan KK,      &#x20;maka WNI dapat mengisi Formulir      \
+      Pendaftaran Perpindahan Penduduk (F-1.03)      &#x20;secara lengkap dengan meminta informasi      \
+      NIK dan Nomor KK ke Disdukcapil daerah      &#x20;tujuan. Disdukcapil daerah tujuan melakukan      \
+      pencarian data melalui SIAK Konsolidasi      &#x20;untuk mengetahui NIK dan Nomor KK;
+   4. Dinas daerah tujuan membuat surat      &#x20;permohonan kepada Disdukcapil daerah asal      \
+      agar melakukan penerbitan SKPWNI.      &#x20;Permohonan ini dengan melampirkan Formulir      \
+      Pendaftaran Perpindahan Penduduk (F-1.03).
+5. Disdukcapil menerbitkan KTP-el dan/atau KIA   &#x20;dengan alamat baru.
+6. Disdukcapil memusnahkan KTP-el dan/atau KIA   &#x20;alamat lama.
 
 **Sumber rujukan:**
 
@@ -107,23 +99,26 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana cara mengurus pindah penduduk bagi orang asing pemegang izin tinggal tetap dengan tujuan berbeda kelurahan/kecamatan namun masih dalam 1 (satu) kabupaten/kota?</summary>
 
-Berdasarkan ketentutan Pasal 27 ayat (2) Peraturan Presiden Nomor 96 Tahun 2018 bahwa syarat pengurusan pindah penduduk orang asing pemegang izin tinggal tetap adalah: \
-a. Fotokopi Kartu Keluarga; \
-b. Fotokopi KTP-el; \
-c. Fotokopi Dokumen Perjalanan; dan \
-d. Fotokopi kartu izin tinggal tetap.&#x20;
+Berdasarkan ketentutan Pasal 27 ayat (2) Peraturan Presiden Nomor 96 Tahun 2018 bahwa syarat pengurusan pindah penduduk orang asing pemegang izin tinggal tetap adalah:
 
-Tata cara: \
-a. OA mengisi Formulir Pendaftaran Perpindahan Penduduk (F-1.03); 37 \
-b. OA melampirkan fotokopi KK, KTP-el, Dokumen Perjalanan dan kartu izin tinggal tetap; \
-c. Dalam hal OA menumpang KK, menyewa rumah, kontrak dan kost perlu menyerahkan surat pernyataan tidak keberatan dari pemilik rumah; \
-d. Disdukcapil menarik KTP-el dan/atau KIA bagi OA yang pindah dan mengganti KTP-el dan/atau KIA dengan alamat baru; \
-e. Disdukcapil memusnahkan KTP-el dan/atau KIA alamat lama; dan \
-f. Disdukcapil menerbitkan KK bagi OA yang pindah dengan alamat baru.&#x20;
+1. Fotokopi Kartu Keluarga;&#x20;
+2. Fotokopi KTP-el;&#x20;
+3. Fotokopi Dokumen Perjalanan; dan&#x20;
+4. Fotokopi kartu izin tinggal tetap.&#x20;
 
-Catatan: \
-a. Tidak perlu diterbitkan SKP; \
-b. Untuk pelayanan online/daring, persyaratan yang discan/difoto untuk diunggah harus aslinya.&#x20;
+Tata cara:&#x20;
+
+1. OA mengisi Formulir Pendaftaran Perpindahan Penduduk (F-1.03); 37&#x20;
+2. OA melampirkan fotokopi KK, KTP-el, Dokumen Perjalanan dan kartu izin tinggal tetap;
+3. Dalam hal OA menumpang KK, menyewa rumah, kontrak dan kost perlu menyerahkan surat pernyataan tidak keberatan dari pemilik rumah;&#x20;
+4. Disdukcapil menarik KTP-el dan/atau KIA bagi OA yang pindah dan mengganti KTP-el dan/atau KIA dengan alamat baru;&#x20;
+5. Disdukcapil memusnahkan KTP-el dan/atau KIA alamat lama; dan
+6. Disdukcapil menerbitkan KK bagi OA yang pindah dengan alamat baru.&#x20;
+
+Catatan:&#x20;
+
+1. Tidak perlu diterbitkan SKP;&#x20;
+2. Untuk pelayanan online/daring, persyaratan yang discan/difoto untuk diunggah harus aslinya.&#x20;
 
 **Sumber rujukan:**
 
@@ -139,25 +134,28 @@ b. Untuk pelayanan online/daring, persyaratan yang discan/difoto untuk diunggah 
 
 <summary>Bagaimana cara mengurus pindah penduduk bagi orang asing pemegang izin tinggal tetap dengan tujuan antar kabupaten/kota ?</summary>
 
-Berdasarkan ketentutan Pasal 27 ayat (2) Peraturan Presiden Nomor 96 Tahun 2018 bahwa syarat pengurusan pindah penduduk orang asing pemegang izin tinggal tetap adalah: \
-a. Fotokopi Kartu Keluarga; \
-b. Fotokopi KTP-el; \
-c. Fotokopi Dokumen Perjalanan; dan \
-d. Fotokopi kartu izin tinggal tetap.&#x20;
+Berdasarkan ketentutan Pasal 27 ayat (2) Peraturan Presiden Nomor 96 Tahun 2018 bahwa syarat pengurusan pindah penduduk orang asing pemegang izin tinggal tetap adalah:&#x20;
+
+1. Fotokopi Kartu Keluarga;&#x20;
+2. Fotokopi KTP-el;&#x20;
+3. Fotokopi Dokumen Perjalanan; dan&#x20;
+4. Fotokopi kartu izin tinggal tetap.&#x20;
 
 Orang Asing mengurus penerbitan Surat Keterangan Pindah (SKP) dari Disdukcapil daerah asal selanjutnya SKP diserahkan ke Disdukcapil daerah tujuan untuk dilakukan penerbitan KK dan KTP-el/KIA yang baru.&#x20;
 
-Tata cara mengurus SKP dari daerah asal: \
-a. OA mengisi Formulir Pendaftaran Perpindahan Penduduk (F-1.03); \
-b. OA melampirkan fotokopi KK, KTP-el, Dokumen Perjalanan dan KITAP; \
-c. Disdukcapil menerbitkan SKP bagi OA yang pindah; dan \
-d. Disdukcapil tidak menarik KTP-el dan/atau KIA OA yang pindah, karena KTP-el dan/atau KIA ditarik di daerah tujuan.&#x20;
+Tata cara mengurus SKP dari daerah asal:&#x20;
 
-Tata cara mengurus pindah di daerah tujuan: \
-a. OA menyerahkan SKP di Disdukcapil tujuan; \
-b. Dalam hal OA menumpang KK, menyewa rumah, kontrak dan kost perlu menyerahkan surat pernyataan tidak keberatan dari pemilik rumah di tempat layanan tujuan; \
-c. OA menyerahkan KTP-el dan/atau KIA alamat lama untuk diterbitkan KTP-el dan/atau KIA dengan alamat baru; dan \
-d. Disdukcapil memusnahkan KTP-el dan/atau KIA alamat lama.&#x20;
+1. OA mengisi Formulir Pendaftaran Perpindahan Penduduk (F-1.03);&#x20;
+2. OA melampirkan fotokopi KK, KTP-el, Dokumen Perjalanan dan KITAP;&#x20;
+3. Disdukcapil menerbitkan SKP bagi OA yang pindah; dan&#x20;
+4. Disdukcapil tidak menarik KTP-el dan/atau KIA OA yang pindah, karena KTP-el dan/atau KIA ditarik di daerah tujuan.&#x20;
+
+Tata cara mengurus pindah di daerah tujuan:&#x20;
+
+1. OA menyerahkan SKP di Disdukcapil tujuan;&#x20;
+2. Dalam hal OA menumpang KK, menyewa rumah, kontrak dan kost perlu menyerahkan surat pernyataan tidak keberatan dari pemilik rumah di tempat layanan tujuan;&#x20;
+3. OA menyerahkan KTP-el dan/atau KIA alamat lama untuk diterbitkan KTP-el dan/atau KIA dengan alamat baru; dan&#x20;
+4. Disdukcapil memusnahkan KTP-el dan/atau KIA alamat lama.&#x20;
 
 **Sumber rujukan:**
 
@@ -173,17 +171,19 @@ d. Disdukcapil memusnahkan KTP-el dan/atau KIA alamat lama.&#x20;
 
 <summary>Bagaimana cara mengurus pindah penduduk bagi orang asing pemegang izin tinggal terbatas dengan tujuan berbeda kelurahan/kecamatan namun masih dalam 1 (satu) kabupaten/kota?</summary>
 
-Berdasarkan ketentutan Pasal 27 ayat (3)&#x20;Peraturan Presiden Nomor 96 Tahun 2018 bahwa\
-syarat pengurusan pindah penduduk orang asing&#x20;pemegang izin tinggal sementara adalah:\
-a. Fotokopi surat keterangan tempat tinggal;\
-b. Fotokopi Dokumen Perjalanan; dan\
-c. Fotokopi kartu izin tinggal terbatas.\
-\
-Tata cara:\
-a. OA mengisi F-1.03;\
-b. OA melampirkan fotokopi SKTT, Dokumen&#x20;Perjalanan dan KITAS;\
-c. Dalam hal OA menumpang KK, menyewa rumah,&#x20;kontrak dan kost perlu menyerahkan surat&#x20;pernyataan tidak keberatan dari pemilik rumah;&#x20;                                                                                   d. Disdukcapil menarik SKTT bagi OA yang pindah&#x20;dan mengganti SKTT dengan alamat baru; dan\
-e. Disdukcapil menerbitkan SKTT bagi OA yang&#x20;pindah dengan alamat baru.
+Berdasarkan ketentutan Pasal 27 ayat (3)&#x20;Peraturan Presiden Nomor 96 Tahun 2018 bahwa&#x20;syarat pengurusan pindah penduduk orang asing&#x20;pemegang izin tinggal sementara adalah:
+
+1. Fotokopi surat keterangan tempat tinggal;
+2. Fotokopi Dokumen Perjalanan; dan
+3. Fotokopi kartu izin tinggal terbatas.
+
+Tata cara:
+
+1. OA mengisi F-1.03;
+2. OA melampirkan fotokopi SKTT, Dokumen   &#x20;Perjalanan dan KITAS;
+3. Dalam hal OA menumpang KK, menyewa rumah,   &#x20;kontrak dan kost perlu menyerahkan surat   &#x20;pernyataan tidak keberatan dari pemilik rumah;
+4. Disdukcapil menarik SKTT bagi OA yang pindah   &#x20;dan mengganti SKTT dengan alamat baru; dan
+5. Disdukcapil menerbitkan SKTT bagi OA yang   &#x20;pindah dengan alamat baru.
 
 Catatan:\
 Tidak perlu diterbitkan SKP.
@@ -207,24 +207,27 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana cara mengurus pindah penduduk bagi orang asing pemegang izin tinggal sementara dengan tujuan antar kabupaten/kota?</summary>
 
-Berdasarkan ketentutan Pasal 27 ayat (3)&#x20;Peraturan Presiden Nomor 96 Tahun 2018 bahwa&#x20;syarat pengurusan pindah penduduk orang asing&#x20;pemegang izin tinggal sementara adalah:\
-a. Fotokopi surat keterangan tempat tinggal;\
-b. Fotokopi Dokumen Perjalanan; dan\
-c. Fotokopi kartu izin tinggal terbatas.
+Berdasarkan ketentutan Pasal 27 ayat (3)&#x20;Peraturan Presiden Nomor 96 Tahun 2018 bahwa&#x20;syarat pengurusan pindah penduduk orang asing&#x20;pemegang izin tinggal sementara adalah:
+
+1. Fotokopi surat keterangan tempat tinggal;
+2. Fotokopi Dokumen Perjalanan; dan
+3. Fotokopi kartu izin tinggal terbatas.
 
 Orang asing mengurus penerbitan Surat&#x20;Keterangan Pindah (SKP) dari Disdukcapil daerah asal&#x20;selanjutnya SKP diserahkan ke Disdukcapil daerah&#x20;tujuan untuk dilakukan penerbitan SKTT yang baru.&#x20;
 
-Tata cara mengurus SKP dari daerah asal:\
-a. OA mengisi Formulir Pendaftaran Perpindahan&#x20;Penduduk (F-1.03);\
-b. OA melampirkan fotokopi SKTT, Dokumen&#x20;Perjalanan dan KITAS (ditambah);\
-c. Disdukcapil menerbitkan SKP bagi OA yang&#x20;pindah; dan\
-d. Disdukcapil tidak menarik SKTT OA yang pindah,&#x20;karena SKTT ditarik di daerah tujuan.
+Tata cara mengurus SKP dari daerah asal:
 
-Tata cara mengurus pindah di daerah tujuan:\
-a. OA menyerahkan SKP di Disdukcapi Tujuan\
-b. Dalam hal OA menempati rumah orang lain,&#x20;kontrak dan kost perlu menyerahkan surat\
-pernyataan tidak keberatan dari pemilik rumah.&#x20;                                                                                   c. OA menyerahkan SKTT alamat lama untuk&#x20;diterbitkan SKTT dengan alamat baru\
-\
+1. OA mengisi Formulir Pendaftaran Perpindahan   &#x20;Penduduk (F-1.03);
+2. OA melampirkan fotokopi SKTT, Dokumen   &#x20;Perjalanan dan KITAS (ditambah);
+3. Disdukcapil menerbitkan SKP bagi OA yang   &#x20;pindah; dan
+4. Disdukcapil tidak menarik SKTT OA yang pindah,   &#x20;karena SKTT ditarik di daerah tujuan.
+
+Tata cara mengurus pindah di daerah tujuan:
+
+* OA menyerahkan SKP di Disdukcapi Tujuan
+* Dalam hal OA menempati rumah orang lain,  &#x20;kontrak dan kost perlu menyerahkan surat  &#x20;pernyataan tidak keberatan dari pemilik rumah.
+* OA menyerahkan SKTT alamat lama untuk  &#x20;diterbitkan SKTT dengan alamat baru
+
 **Sumber rujukan:**
 
 * Pasal 27 ayat (3) Peraturan Presiden Nomor 96  &#x20;Tahun 2018 tentang Persyaratan dan Tata Cara  &#x20;Pendaftaran Penduduk dan Pencatatan Sipil. ([link](https://peraturan.go.id/id/perpres-no-96-tahun-2018))
@@ -243,16 +246,17 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana cara melaporkan penduduk WNI yang pindah ke luar negeri?</summary>
 
-Berdasarkan ketentutan Pasal 28 ayat (2)&#x20;Peraturan Presiden Nomor 96 Tahun 2018 bahwa&#x20;syarat pengurusan pindah WNI ke luar negeri adalah&#x20;Kartu Keluarga dan KTP-el, dengan tata cara sebagai&#x20;berikut:\
-a. WNI mengisi Formulir Pendaftaran Perpindahan&#x20;Penduduk (F-1.03);\
-b. WNI menyerahkan KK, KTP-el dan/atau KIA&#x20;kepada Disdukcapi;\
-c. Disdukcapi menyerahkan SKPLN;\
-d. Disdukcapi mengganti KK dan menerbitkan KK&#x20;dengan nomor KK tetap apabila Kepala Keluarga&#x20;tidak pindah;\
-e. Disdukcapi menerbitkan KK dengan nomor KK&#x20;baru apabila Kepala Keluarga pindah namun&#x20;anggota keluarga tidak pindah; dan\
-f. Dalam hal seluruh anggota keluarga masih berusia&#x20;di bawah 17 tahun tidak pindah, maka diperlukan&#x20;kepala keluarga yang telah dewasa. Solusinya&#x20;adalah ada Saudara yang bersedia pindah menjadi&#x20;Kepala Keluarga di dalam Keluarga ini atau anak-anak dimaksud dititipkan pada Kartu Keluarga&#x20;Saudaranya yang terdekat dengan membuat surat&#x20;pernyataan bersedia menjadi wali.
+Berdasarkan ketentutan Pasal 28 ayat (2)&#x20;Peraturan Presiden Nomor 96 Tahun 2018 bahwa&#x20;syarat pengurusan pindah WNI ke luar negeri adalah&#x20;Kartu Keluarga dan KTP-el, dengan tata cara sebagai&#x20;berikut:
 
-Catatan:&#x20;WNI yang telah pindah dan berstatus menetap di luar&#x20;negeri wajib melaporkan kepada Perwakilan Republik&#x20;Indonesia paling lambat 30 hari sejak kedatangannya\
-sesuai Pasal 18 ayat (3) UU 23/2006.
+1. WNI mengisi Formulir Pendaftaran Perpindahan   &#x20;Penduduk (F-1.03);
+2. WNI menyerahkan KK, KTP-el dan/atau KIA   &#x20;kepada Disdukcapi;
+3. Disdukcapil menyerahkan SKPLN;
+4. Disdukcapil mengganti KK dan menerbitkan KK   &#x20;dengan nomor KK tetap apabila Kepala Keluarga   &#x20;tidak pindah;
+5. Disdukcapil menerbitkan KK dengan nomor KK   &#x20;baru apabila Kepala Keluarga pindah namun   &#x20;anggota keluarga tidak pindah; dan
+6. Dalam hal seluruh anggota keluarga masih berusia   &#x20;di bawah 17 tahun tidak pindah, maka diperlukan   &#x20;kepala keluarga yang telah dewasa. Solusinya   &#x20;adalah ada Saudara yang bersedia pindah menjadi   &#x20;Kepala Keluarga di dalam Keluarga ini atau anak-anak dimaksud dititipkan pada Kartu Keluarga   &#x20;Saudaranya yang terdekat dengan membuat surat   &#x20;pernyataan bersedia menjadi wali.
+
+Catatan:&#x20;\
+WNI yang telah pindah dan berstatus menetap di luar&#x20;negeri wajib melaporkan kepada Perwakilan Republik&#x20;Indonesia paling lambat 30 hari sejak kedatangannya&#x20;sesuai Pasal 18 ayat (3) UU 23/2006.
 
 **Sumber rujukan:**
 
@@ -276,11 +280,12 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 Berdasarkan ketentutan Pasal 28 ayat (4)&#x20;Peraturan Presiden Nomor 96 Tahun 2018 bahwa&#x20;syarat pengurusan pindah WNI dari luar negeri adalah&#x20;Fotokopi Dokumen Perjalanan Republik Indonesia&#x20;dan SKPLN dari Disdukcapi atau SKP dari&#x20;perwakilan RI.
 
-Tata cara:\
-a. WNI mengisi Formulir Pendaftaran Perpindahan&#x20;Penduduk (F-1.03);\
-b. WNI menyerahkan fotokopi Dokumen Perjalanan&#x20;RI/SPLP;\
-c. WNI menyerahkan SKPLN dari Disdukcapi (yang&#x20;pernah diterbitkan) atau SKP dari Perwakilan RI&#x20;atau SPNIK atau surat pernyataan; dan\
-d. Disdukcapi menerbitkan/mengaktifkan KK, KTP-el&#x20;dan KIA sesuai alamat di dalam wilayah NKRI.
+Tata cara:
+
+1. WNI mengisi Formulir Pendaftaran Perpindahan   &#x20;Penduduk (F-1.03);
+2. WNI menyerahkan fotokopi Dokumen Perjalanan   &#x20;RI/SPLP;
+3. WNI menyerahkan SKPLN dari Disdukcapi (yang   &#x20;pernah diterbitkan) atau SKP dari Perwakilan RI   &#x20;atau SPNIK atau surat pernyataan; dan
+4. Disdukcapil menerbitkan/mengaktifkan KK, KTP-el   &#x20;dan KIA sesuai alamat di dalam wilayah NKRI.
 
 Catatan:\
 WNI yang datang dari luar negeri wajib melaporkan&#x20;kedatangannya kepada Instansi Pelaksana paling&#x20;lambat 14 hari sejak tanggal kedatangan sesuai Pasal&#x20;19 ayat (1) UU Nomor 23 Tahun 2006.
@@ -307,11 +312,12 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 Berdasarkan ketentutan Pasal 28 ayat (5)&#x20;Peraturan Presiden Nomor 96 Tahun 2018 bahwa&#x20;syarat pengurusan pindah WNI dari luar negeri adalah&#x20;Fotokopi Dokumen Perjalanan dan Fotokopi Kartu&#x20;Izin Tinggal Terbatas
 
-Tata cara:\
-a. OA mengisi Formulir Pendaftaran Perpindahan&#x20;Penduduk (F-1.03);\
-b. OA menyerahkan fotokopi Dokumen Perjalanan&#x20;dan kartu izin tinggal terbatas;\
-c. Dalam hal OA menumpang KK, menyewa rumah,&#x20;kontrak dan kost perlu menyerahkan surat&#x20;pernyataan tidak keberatan dari pemilik rumah; dan\
-d. Disdukcapil menerbitkan Surat Keterangan&#x20;Tempat Tinggal dengan masa berlaku sesuai izin&#x20;tinggal terbatas.
+Tata cara:
+
+1. OA mengisi Formulir Pendaftaran Perpindahan   &#x20;Penduduk (F-1.03);
+2. OA menyerahkan fotokopi Dokumen Perjalanan   &#x20;dan kartu izin tinggal terbatas;
+3. Dalam hal OA menumpang KK, menyewa rumah,   &#x20;kontrak dan kost perlu menyerahkan surat   &#x20;pernyataan tidak keberatan dari pemilik rumah; dan
+4. Disdukcapil menerbitkan Surat Keterangan   &#x20;Tempat Tinggal dengan masa berlaku sesuai izin   &#x20;tinggal terbatas.
 
 Catatan:\
 OA wajib melaporkan kepada Instansi Pelaksana&#x20;paling lambat 14 (empat belas) hari sejak diterbitkan&#x20;ITAS sebagai dasar penerbitan SKTT sesuai Pasal 20&#x20;ayat (1) UU 23/2006.
