@@ -155,60 +155,21 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <details>
 
-<summary>Bagaimana pencatatan perceraian bagi penduduk beragama Muslim yang telah menikah di luar negeri?</summary>
+<summary>Bagaimana penerbitan Akta Perceraian salah satu pihak pendukung orang asing</summary>
 
 Berdasarkan:
 
-1. Pasal 40 ayat (1) dan ayat (2) Undang   -Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan diatur bahwa   &#x20;perceraian wajib dilaporkan oleh yang bersangkutan kepada Instansi Pelaksana   &#x20;paling lambat 60 (enam puluh) hari sejak   &#x20;putusan pengadilan tentang perceraian yang telah memperoleh kekuatan hukum tetap.   &#x20;Pejabat Pencatatan Sipil mencatat pada   &#x20;Register Akta Perceraian dan menerbitkan Kutipan Akta Perceraian.
-2. Pasal 7 ayat (2) huruf l Undang-Undang   &#x20;Nomor 30 Tahun 2014 tentang Administrasi Pemerintahan diatur   &#x20;bahwa Pejabat   &#x20;Pemerintahan memiliki kewajiban mematuhi   &#x20;putusan Pengadilan yang telah berkekuatan   &#x20;hukum tetap.
+1. Pasal 8 dan Pasal 102 huruf b Undang   -Undang Nomor 24 Tahun 2013 tentang Perubahan Atas Undang-Undang Nomor 23   &#x20;Tahun   \
+   2008 tentang Administrasi Kependudukan;
+2. Pasal 32 dan Pasal 42 Peraturan Presiden   &#x20;Nomor 96 Tahun 2018 tentang Persyaratan   &#x20;dan Tata Cara Pendaftaran Penduduk dan   &#x20;Pencatatan Sipil;
+3. Pasal 40 Peraturan Menteri Dalam Negeri   &#x20;Nomor 108 Tahun 2019 tentang Peraturan Pelaksanaan Peraturan Presiden Nomor 96   &#x20;Tahun 2018 tentang Persyaratan dan Tata   &#x20;Cara Pendaftaran Penduduk dan Pencatatan   &#x20;Sipil.
 
-Merujuk ketentuan diatas, maka permohonan&#x20;pencatatan perceraian\
-beragama Islam&#x20;berdasarkan perintah putusan pengadilan yang&#x20;telah mempunyai kekuatan hukum tetap dapat dilakukan pencatatan pada Disdukcapil dengan memenuhi persyaratan sesuai ketentuan&#x20;peraturan perundang-undangan.
+Mengatur&#x20;bahwa terhadap permohonan&#x20;pencatatan perceraian yang telah memenuhi&#x20;persyaratan adanya putusan perceraian yang&#x20;berkekuatan&#x20;hukum tetap yaitu Putusan&#x20;Pengadilan Negeri agar dilakukan sesuai dengan&#x20;ketentuan peraturan perundang-undangan;
 
-**Sumber rujukan**:
+Selanjutnya, sehubungan dengan salah satu&#x20;pihak adalah penduduk Orang Asing, agar pencatatan perceraian tersebut dilaporkan&#x20;kepada Kementerian Dalam Negeri cq. Ditjen Dukcapil Kemendagri untuk proses penyampaian lebih lanjut kepada Kedutaan Besar melalui&#x20;Kementerian Luar Negeri.
 
-* &#x20;Pasal 40 ayat (1) dan ayat (2) Undang-Undang  &#x20;Nomor 23 Tahun 2006 tentang Administrasi Kependudukan.([link](https://dukcapil.kemendagri.go.id/download/detail/1))
-* Pasal 7 ayat (2) huruf l Undang-Undang  &#x20;Nomor 30 Tahun 2014 tentang Administrasi Pemerintahan.([link](https://jdih.kemendagri.go.id/dokumen/view?id=1695))
-* Surat  &#x20;Dirjen  &#x20;Dukcapil  &#x20;Nomor  &#x20;400.8.2.9/12506/Dukcapil Tgl 25 Agustus 2023  &#x20;kpd Disdukcapil Prov DKI Jakarta.
-
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
-</details>
-
-
-
-<details>
-
-<summary>Bagaimana prosedur pencatatan perceraian jika tidak ada perintah dari pengadilan untuk mencatatkannya dan perkawinannya tidak memiliki akta perkawinan?</summary>
-
-Prosedur&#x20;pencatatan&#x20;perceraian&#x20;dapat&#x20;dilaksanakan di Disdukcapil meskipun tidak ada&#x20;perintah dari pengadilan untuk mencatatkannya&#x20;dan perkawinannya tidak memiliki akta&#x20;perkawinan, dengan mengacu pada ketentuan&#x20;sebagai berikut:
-
-* Undang-Undang Nomor 23 Tahun 2006 Pasal  \
-  40 ayat (1) dan ayat (2):
-  1. Perceraian wajib dilaporkan oleh yang     &#x20;bersangkutan kepada Instansi Pelaksana     \
-     paling lambat 60 hari sejak putusan     &#x20;pengadilan tentang perceraian yang telah     \
-     memperoleh kekuatan hukum tetap.
-  2. Pejabat Pencatatan Sipil mencatat pada     &#x20;Register     &#x20;Akta     &#x20;Perceraian     &#x20;dan     &#x20;menerbitkan Kutipan Akta Perceraian.
-*   Undang-Undang Nomor 30 Tahun 2014 Pasal    &#x20;7 ayat (2) huruf l:
-
-    * Pejabat Pemerintahan memiliki kewajiban      &#x20;mematuhi Putusan Pengadilan yang telah      &#x20;berkekuatan hukum tetap.
-
-    Merujuk pada ketentuan tersebut, pencatatan    &#x20;perceraian dapat dilaksanakan di Disdukcapil    &#x20;Kabupaten/Kota dengan syarat sebagai berikut:
-
-    * Telah ada putusan dari Pengadilan Negeri      &#x20;mengenai      &#x20;perceraian      \
-      yang menjadi persyaratan      &#x20;pokok dalam pencatatan      &#x20;perceraian.
-    *      Jika perkawinannya tidak dicatatkan atau      &#x20;tidak memiliki akta perkawinan, pemohon harus membuat Surat Pernyataan Tanggung      &#x20;Jawab Mutlak (SPTJM) yang menjelaskan      &#x20;bahwa tidak memiliki akta perkawinan dan      &#x20;perkawinannya tidak dicatatkan.
-    * Pada aplikasi Sistem Informasi Administrasi      &#x20;Kependudukan (SIAK), elemen data nomor      &#x20;dan tanggal akta perkawinan tidak perlu diisi,      &#x20;cukup diberi tanda “-”.
-
-    Dengan memenuhi persyaratan ini, pencatatan    &#x20;perceraian dapat dilakukan secara sah dan    &#x20;sesuai dengan peraturan perundang-undangan    \
-    yang berlaku.
-
-**Sumber Rujukan**:&#x20;
-
-* Undang-Undang Nomor 23 Tahun 2006 Pasal  &#x20;40 ayat (1) dan ayat (2). ([link](https://peraturan.go.id/id/uu-no-23-tahun-2006))
-* Undang-Undang Nomor 30 Tahun 2014 Pasal 7  &#x20;ayat (2) huruf l. ([link](https://peraturan.go.id/id/uu-no-30-tahun-2014))
+**Sumber rujukan**:\
+Surat Dirjen Dukcapil No. 472.2/3893/Dukcapil tanggal 24 Maret 2021 kepada Kepala Disdukcapil Kab.Jepara.
 
 {% hint style="success" %}
 Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
@@ -231,6 +192,7 @@ Merujuk ketentuan di atas, maka penerbitan&#x20;Kutipan Akta Perceraian dapat d
 
 * Pasal 40 ayat (1) Undang-Undang Nomor 23  Tahun 2006  &#x20;tentang  &#x20;Administrasi Kependudukan. ([link](https://peraturan.go.id/id/uu-no-23-tahun-2006))
 * Pasal 102 huruf b Undang-Undang Nomor 24  &#x20;Tahun 2013 tentang Perubahan Atas Undang  &#x20;Undang Nomor 23 Tahun 2006 tentang  &#x20;Administrasi Kependudukan. ([link](https://peraturan.go.id/id/uu-no-24-tahun-2013))
+* Surat Dirjen Dukcapil Nomor 400.8.2.9/12164/Dukcapil Tgl 18 Agustus 2023 kpd Advokat Budiman Sudharma.
 
 {% hint style="success" %}
 Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
@@ -242,21 +204,21 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <details>
 
-<summary>Bagaimana penerbitan Akta Perceraian salah satu pihak pendukung orang asing</summary>
+<summary>Bagaimana pencatatan perceraian bagi penduduk beragama Muslim yang telah menikah di luar negeri?</summary>
 
 Berdasarkan:
 
-1. Pasal 8 dan Pasal 102 huruf b Undang   -Undang Nomor 24 Tahun 2013 tentang Perubahan Atas Undang-Undang Nomor 23   &#x20;Tahun   \
-   2008 tentang Administrasi Kependudukan;
-2. Pasal 32 dan Pasal 42 Peraturan Presiden   &#x20;Nomor 96 Tahun 2018 tentang Persyaratan   &#x20;dan Tata Cara Pendaftaran Penduduk dan   &#x20;Pencatatan Sipil;
-3. Pasal 40 Peraturan Menteri Dalam Negeri   &#x20;Nomor 108 Tahun 2019 tentang Peraturan Pelaksanaan Peraturan Presiden Nomor 96   &#x20;Tahun 2018 tentang Persyaratan dan Tata   &#x20;Cara Pendaftaran Penduduk dan Pencatatan   &#x20;Sipil.
+1. Pasal 40 ayat (1) dan ayat (2) Undang   -Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan diatur bahwa   &#x20;perceraian wajib dilaporkan oleh yang bersangkutan kepada Instansi Pelaksana   &#x20;paling lambat 60 (enam puluh) hari sejak   &#x20;putusan pengadilan tentang perceraian yang telah memperoleh kekuatan hukum tetap.   &#x20;Pejabat Pencatatan Sipil mencatat pada   &#x20;Register Akta Perceraian dan menerbitkan Kutipan Akta Perceraian.
+2. Pasal 7 ayat (2) huruf l Undang-Undang   &#x20;Nomor 30 Tahun 2014 tentang Administrasi Pemerintahan diatur   &#x20;bahwa Pejabat   &#x20;Pemerintahan memiliki kewajiban mematuhi   &#x20;putusan Pengadilan yang telah berkekuatan   &#x20;hukum tetap.
 
-Mengatur&#x20;bahwa terhadap permohonan&#x20;pencatatan perceraian yang telah memenuhi&#x20;persyaratan adanya putusan perceraian yang&#x20;berkekuatan&#x20;hukum tetap yaitu Putusan&#x20;Pengadilan Negeri agar dilakukan sesuai dengan&#x20;ketentuan peraturan perundang-undangan;
+Merujuk ketentuan diatas, maka permohonan&#x20;pencatatan perceraian\
+beragama Islam&#x20;berdasarkan perintah putusan pengadilan yang&#x20;telah mempunyai kekuatan hukum tetap dapat dilakukan pencatatan pada Disdukcapil dengan memenuhi persyaratan sesuai ketentuan&#x20;peraturan perundang-undangan.
 
-Selanjutnya, sehubungan dengan salah satu&#x20;pihak adalah penduduk Orang Asing, agar pencatatan perceraian tersebut dilaporkan&#x20;kepada Kementerian Dalam Negeri cq. Ditjen Dukcapil Kemendagri untuk proses penyampaian lebih lanjut kepada Kedutaan Besar melalui&#x20;Kementerian Luar Negeri.
+**Sumber rujukan**:
 
-**Sumber rujukan**:\
-Surat Dirjen Dukcapil No. 472.2/3893/Dukcapil tanggal 24 Maret 2021 kepada Kepala Disdukcapil Kab.Jepara.
+* &#x20;Pasal 40 ayat (1) dan ayat (2) Undang-Undang  &#x20;Nomor 23 Tahun 2006 tentang Administrasi Kependudukan.([link](https://dukcapil.kemendagri.go.id/download/detail/1))
+* Pasal 7 ayat (2) huruf l Undang-Undang  &#x20;Nomor 30 Tahun 2014 tentang Administrasi Pemerintahan.([link](https://jdih.kemendagri.go.id/dokumen/view?id=1695))
+* Surat  &#x20;Dirjen  &#x20;Dukcapil  &#x20;Nomor  &#x20;400.8.2.9/12506/Dukcapil Tgl 25 Agustus 2023  &#x20;kpd Disdukcapil Prov DKI Jakarta.
 
 {% hint style="success" %}
 Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
@@ -294,6 +256,72 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <details>
 
+<summary>Bagaimana prosedur pencatatan perceraian jika tidak ada perintah dari pengadilan untuk mencatatkannya dan perkawinannya tidak memiliki akta perkawinan?</summary>
+
+Prosedur&#x20;pencatatan&#x20;perceraian&#x20;dapat&#x20;dilaksanakan di Disdukcapil meskipun tidak ada&#x20;perintah dari pengadilan untuk mencatatkannya&#x20;dan perkawinannya tidak memiliki akta&#x20;perkawinan, dengan mengacu pada ketentuan&#x20;sebagai berikut:
+
+* Undang-Undang Nomor 23 Tahun 2006 Pasal  &#x20;40 ayat (1) dan ayat (2):
+  1. Perceraian wajib dilaporkan oleh yang     &#x20;bersangkutan kepada Instansi Pelaksana     \
+     paling lambat 60 hari sejak putusan     &#x20;pengadilan tentang perceraian yang telah     \
+     memperoleh kekuatan hukum tetap.
+  2. Pejabat Pencatatan Sipil mencatat pada     &#x20;Register     &#x20;Akta     &#x20;Perceraian     &#x20;dan     &#x20;menerbitkan Kutipan Akta Perceraian.
+
+
+
+* Undang-Undang Nomor 30 Tahun 2014 Pasal  &#x20;7 ayat (2) huruf l:
+  * Pejabat Pemerintahan memiliki kewajiban    &#x20;mematuhi Putusan Pengadilan yang telah    &#x20;berkekuatan hukum tetap.
+
+Merujuk pada ketentuan tersebut, pencatatan&#x20;perceraian dapat dilaksanakan di Disdukcapil&#x20;Kabupaten/Kota dengan syarat sebagai berikut:
+
+1. Telah ada putusan dari Pengadilan Negeri   &#x20;mengenai   &#x20;perceraian   &#x20;yang menjadi persyaratan   &#x20;pokok dalam pencatatan   &#x20;perceraian.
+2. Jika perkawinannya tidak dicatatkan atau   &#x20;tidak memiliki akta perkawinan, pemohon harus membuat Surat Pernyataan Tanggung   &#x20;Jawab Mutlak (SPTJM) yang menjelaskan   &#x20;bahwa tidak memiliki akta perkawinan dan   &#x20;perkawinannya tidak dicatatkan.
+3. Pada aplikasi Sistem Informasi Administrasi   &#x20;Kependudukan (SIAK), elemen data nomor   &#x20;dan tanggal akta perkawinan tidak perlu diisi,   &#x20;cukup diberi tanda “-”.
+
+Dengan memenuhi persyaratan ini, pencatatan&#x20;perceraian dapat dilakukan secara sah dan&#x20;sesuai dengan peraturan perundang-undangan\
+yang berlaku.
+
+**Sumber Rujukan**:&#x20;
+
+* Undang-Undang Nomor 23 Tahun 2006 Pasal  &#x20;40 ayat (1) dan ayat (2). ([link](https://peraturan.go.id/id/uu-no-23-tahun-2006))
+* Undang-Undang Nomor 30 Tahun 2014 Pasal 7  &#x20;ayat (2) huruf l. ([link](https://peraturan.go.id/id/uu-no-30-tahun-2014))
+* Surat Dirjen Dukcapil No. 400.8.2.9/4901/Dukcapil tgl 25 April 2024 kepada Kepala Disdukcapil Kabupaten Tapanuli Tengah tentang Penjelasan Pencatatan Perceraian.
+
+{% hint style="success" %}
+Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
+{% endhint %}
+
+</details>
+
+
+
+<details>
+
+<summary>Mengapa permohonan pelaporan perceraian berdasarkan putusan pengadilan tidak perlu dilaksanakan pencatatan di Disdukcapil jika sudah ada akta perceraian sebelumnya dan pihak terkait telah perkawinan kembali?</summary>
+
+Permohonan pelaporan perceraian berdasarkan putusan pengadilan tidak perlu dilaksanakan pencatatan di Disdukcapil jika sudah ada akta perceraian sebelumnya dan pihak terkait telah melangsungkan perkawinan kembali, karena:
+
+1. Berdasarkan Pasal 40 Undang-Undang   &#x20;Nomor 23 Tahun 2006 tentang Administrasi Kependudukan, perceraian wajib dilaporkan   &#x20;oleh yang bersangkutan kepada Instansi Pelaksana paling lambat 60 hari sejak putusan pengadilan tentang perceraian yang   &#x20;telah memperoleh kekuatan hukum tetap.   &#x20;Pejabat Pencatatan Sipil kemudian mencatat   &#x20;pada Register Akta Perceraian dan   &#x20;menerbitkan Kutipan Akta Perceraian.
+2. Sesuai Pasal 66 ayat (2) Undang-Undang   &#x20;Nomor 23 Tahun 2006, Akta Pencatatan Sipil berlaku selamanya. Ini berarti bahwa akta   &#x20;perceraian yang sudah ada tetap sah dan   &#x20;tidak memerlukan pencatatan ulang.
+3. Jika sudah ada Akta Perceraian yang   &#x20;diterbitkan sebelumnya berdasarkan putusan pengadilan yang sah, pencatatan perceraian   &#x20;yang baru tidak diperlukan. Akta perceraian   &#x20;yang sudah ada mencakup semua informasi   &#x20;yang diperlukan dan diakui secara hukum
+4. Jika pihak yang bercerai telah melangsungkan   &#x20;perkawinan kembali, status perkawinan dalam basis data kependudukan berubah dari "cerai tercatat" menjadi "kawin tercatat". Hal ini   &#x20;tercatat dalam Akta Perkawinan baru dan diakui dalam data kependudukan, sehingga   &#x20;pencatatan perceraian yang baru tidak   &#x20;relevan.
+
+Dengan demikian, pencatatan perceraian yang&#x20;baru tidak perlu dilakukan jika sudah ada akta perceraian yang sah dan pihak terkait telah menikah lagi, mengubah status perkawinannya&#x20;dalam data kependudukan.
+
+**Sumber rujukan**:
+
+* Undang-Undang Nomor 23 Tahun 2006  &#x20;tentang Administrasi Kependudukan.([link](https://dukcapil.kemendagri.go.id/download/detail/1))
+* Surat  &#x20;Dirjen  &#x20;Dukcapil  &#x20;Nomor  &#x20;400.8.2.2/3848/Dukcapil tgl 25 Maret 2024  &#x20;kepada Kepala Disdukcapil Provinsi DKI  &#x20;Jakarta tentang Penjelasan Penerbitan Akta  &#x20;Perceraian.
+
+{% hint style="success" %}
+Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
+{% endhint %}
+
+</details>
+
+
+
+<details>
+
 <summary>Bagaimana Penerbitan Akta Perceraian yang telah dilaporkan dengan putusan perceraian yang berbeda?</summary>
 
 Berdasarkan:
@@ -316,34 +344,6 @@ Merujuk ketentuan di atas bahwa permohonan&#x20;pelaporan perceraian atas nama 
 * Pasal 66 ayat (2) Undang-Undang Nomor 23  &#x20;Tahun  &#x20;2006  &#x20;tentang  \
   Administrasi Kependudukan.([link](https://dukcapil.kemendagri.go.id/download/detail/1))
 * Surat Dirjen Dukcapil kepada Kepala  &#x20;Disdukcapil Provinsi DKI Jakarta Nomor 400.8.2.2/3729/Dukcapil Tgl 21 Maret 2024  &#x20;Hal Penjelasan Penerbitan Akta Perceraian.
-
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
-</details>
-
-
-
-<details>
-
-<summary>Mengapa permohonan pelaporan perceraian berdasarkan putusan pengadilan tidak perlu dilaksanakan pencatatan di Disdukcapil jika sudah ada akta perceraian sebelumnya dan pihak terkait telah perkawinan kembali?</summary>
-
-Berdasarkan:
-
-1. Pasal 40 Undang-Undang   &#x20;Nomor 23 Tahun 2006 tentang Administrasi Kependudukan, perceraian wajib dilaporkan   &#x20;oleh yang bersangkutan kepada Instansi Pelaksana paling lambat 60 hari sejak putusan pengadilan tentang perceraian yang   &#x20;telah memperoleh kekuatan hukum tetap.   &#x20;Pejabat Pencatatan Sipil kemudian mencatat   &#x20;pada Register Akta Perceraian dan   &#x20;menerbitkan Kutipan Akta Perceraian.
-2. Sesuai Pasal 66 ayat (2) Undang-Undang   &#x20;Nomor 23 Tahun 2006, Akta Pencatatan Sipil berlaku selamanya. Ini berarti bahwa akta   &#x20;perceraian yang sudah ada tetap sah dan   &#x20;tidak memerlukan pencatatan ulang.
-
-Jika sudah ada Akta Perceraian yang&#x20;diterbitkan sebelumnya berdasarkan putusan pengadilan yang sah, pencatatan perceraian&#x20;yang baru tidak diperlukan. Akta perceraian&#x20;yang sudah ada mencakup semua informasi&#x20;yang diperlukan dan diakui secara hukum
-
-Jika pihak yang bercerai telah melangsungkan&#x20;perkawinan kembali, status perkawinan dalam basis data kependudukan berubah dari "cerai tercatat" menjadi "kawin tercatat". Hal ini&#x20;tercatat dalam Akta Perkawinan baru dan diakui dalam data kependudukan, sehingga&#x20;pencatatan perceraian yang baru tidak&#x20;relevan.
-
-Dengan demikian, pencatatan perceraian yang&#x20;baru tidak perlu dilakukan jika sudah ada akta perceraian yang sah dan pihak terkait telah menikah lagi, mengubah status perkawinannya&#x20;dalam data kependudukan.
-
-**Sumber rujukan**:
-
-* Undang-Undang Nomor 23 Tahun 2006  &#x20;tentang Administrasi Kependudukan.([link](https://dukcapil.kemendagri.go.id/download/detail/1))
-* Surat  &#x20;Dirjen  &#x20;Dukcapil  &#x20;Nomor  &#x20;400.8.2.2/3848/Dukcapil tgl 25 Maret 2024  &#x20;kepada Kepala Disdukcapil Provinsi DKI  &#x20;Jakarta tentang Penjelasan Penerbitan Akta  &#x20;Perceraian.
 
 {% hint style="success" %}
 Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
