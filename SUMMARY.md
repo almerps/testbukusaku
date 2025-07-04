@@ -17,8 +17,8 @@
 ## Pencatatan Sipil
 
 * [Pencatatan Kelahiran](pencatatan-sipil/pencatatan-kelahiran.md)
-* [Pencatatan Kematian](pencatatan-sipil/pencatatan-kematian.md)
 * [Pencatatan Lahir Mati](pencatatan-sipil/pencatatan-lahir-mati.md)
+* [Pencatatan Kematian](pencatatan-sipil/pencatatan-kematian.md)
 * [Pencatatan Perkawinan](pencatatan-sipil/pencatatan-perkawinan.md)
 * [Pencatatan Pembatalan Perkawinan](pencatatan-sipil/pencatatan-pembatalan-perkawinan.md)
 * [Pencatatan Perjanjian Perkawinan](pencatatan-sipil/pencatatan-perjanjian-perkawinan.md)
