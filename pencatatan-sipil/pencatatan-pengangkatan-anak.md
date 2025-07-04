@@ -102,13 +102,12 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pencatatan pengangkatan anak ketika Kutipan Akta Kelahirannya diterbitkan di tempat yang berbeda dari domisili penduduk?</summary>
 
-a. Berdasarkan Pasal 102 huruf (b) Undang-Undang&#x20;Nomor 24 Tahun 2013 yang mengamanatkan bahwa peristiwa yang wajib dilaporkan oleh penduduk harus dilaporkan di Instansi Pelaksana tempat penduduk berdomisili.\
-b. Merujuk Pasal 47 ayat (2) Undang-Undang Nomor&#x20;23 Tahun 2006 yang menyatakan bahwa pencatatan pengangkatan anak wajib dilaporkan oleh penduduk ke Instansi Pelaksana yang menerbitkan Kutipan Akta Kelahiran, namun dalam hal tersebut tetap harus dimaknai wajib dilaporkan oleh penduduk di Instansi Pelaksana tempat penduduk berdomisili, maka prosedur pencatatan&#x20;pengangkatan anak dalam kasus di mana Kutipan&#x20;Akta Kelahiran diterbitkan di tempat yang berbeda dari domisili penduduk dapat dijelaskan sebagai berikut:
-
-1. Pencatatan pengangkatan anak harus   &#x20;dilaporkan ke Disdukcapil di tempat penduduk memiliki domisili, sesuai dengan amanat Pasal 102 huruf (b) Undang-Undang Nomor 24 Tahun 2013.
-2. Disdukcapil Kabupaten/Kota di tempat   &#x20;penduduk berdomisili akan melakukan pencatatan pengangkatan   &#x20;anak dan memberikan catatan pinggir pada Kutipan   \
-   Akta Kelahiran yang relevan.
-3. Disdukcapil di tempat penduduk berdomisili   &#x20;kemudian harus memberitahukan secara tertulis kepada Disdukcapil di tempat yang menerbitkan Kutipan Akta Kelahiran. Laporan ini harus dilengkapi dengan fotokopi Kutipan Akta Kelahiran yang telah diberi catatan   &#x20;pinggir, serta fotokopi salinan penetapan pengadilan sebagai dasar untuk memberikan catatan pinggir di Register Akta Kelahiran di tempat yang menerbitkan Kutipan Akta Kelahiran.
+1. Berdasarkan Pasal 102 huruf (b) Undang-Undang   &#x20;Nomor 24 Tahun 2013 yang mengamanatkan bahwa peristiwa yang wajib dilaporkan oleh penduduk harus dilaporkan di Instansi Pelaksana tempat penduduk berdomisili.
+2. Merujuk Pasal 47 ayat (2) Undang-Undang Nomor   &#x20;23 Tahun 2006 yang menyatakan bahwa pencatatan pengangkatan anak wajib dilaporkan oleh penduduk ke Instansi Pelaksana yang menerbitkan Kutipan Akta Kelahiran, namun dalam hal tersebut tetap harus dimaknai wajib dilaporkan oleh penduduk di Instansi Pelaksana tempat penduduk berdomisili, maka prosedur pencatatan   &#x20;pengangkatan anak dalam kasus di mana Kutipan   &#x20;Akta Kelahiran diterbitkan di tempat yang berbeda dari domisili penduduk dapat dijelaskan sebagai berikut:
+   1. Pencatatan pengangkatan anak harus      &#x20;dilaporkan ke Disdukcapil di tempat penduduk memiliki domisili, sesuai dengan amanat Pasal 102 huruf (b) Undang-Undang Nomor 24 Tahun 2013.
+   2. Disdukcapil Kabupaten/Kota di tempat      &#x20;penduduk berdomisili akan melakukan pencatatan pengangkatan      &#x20;anak dan memberikan catatan pinggir pada Kutipan      \
+      Akta Kelahiran yang relevan.
+   3. Disdukcapil di tempat penduduk berdomisili      &#x20;kemudian harus memberitahukan secara tertulis kepada Disdukcapil di tempat yang menerbitkan Kutipan Akta Kelahiran. Laporan ini harus dilengkapi dengan fotokopi Kutipan Akta Kelahiran yang telah diberi catatan      &#x20;pinggir, serta fotokopi salinan penetapan pengadilan sebagai dasar untuk memberikan catatan pinggir di Register Akta Kelahiran di tempat yang menerbitkan Kutipan Akta Kelahiran.
 
 **Sumber rujukan:**&#x20;
 
@@ -146,15 +145,13 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana terhadap 2 (dua) putusan pengadilan mengenai pengangkatan anak dan pembatalan akta kelahiran?</summary>
 
-a. Berdasarkan Pasal 47 Undang-Undang Nomor 23&#x20;Tahun 2006 tentang Administrasi Kependudukan, sebagaimana telah diubah dengan Undang-Undang Nomor 24 Tahun 2013, intinya diatur bahwa pencatatan pengangkatan anak dilaksanakan&#x20;berdasarkan penetapan pengadilan dengan&#x20;membuat catatan pinggir pada register akta&#x20;kelahiran dan kutipan akta kelahiran.
-
-b. Merujuk Pasal 4 Peraturan Pemerintah Nomor 54&#x20;Tahun 2007 tentang Pelaksanaan Pengangkatan Anak, diatur bahwa "Pengangkatan anak tidak memutuskan hubungan darah antara anak yang diangkat dengan orang tua kandungnya.
+1. Berdasarkan Pasal 47 Undang-Undang Nomor 23   &#x20;Tahun 2006 tentang Administrasi Kependudukan, sebagaimana telah diubah dengan Undang-Undang Nomor 24 Tahun 2013, intinya diatur bahwa pencatatan pengangkatan anak dilaksanakan   &#x20;berdasarkan penetapan pengadilan dengan   &#x20;membuat catatan pinggir pada register akta   &#x20;kelahiran dan kutipan akta kelahiran.
+2. Merujuk Pasal 4 Peraturan Pemerintah Nomor 54   &#x20;Tahun 2007 tentang Pelaksanaan Pengangkatan Anak, diatur bahwa "Pengangkatan anak tidak memutuskan hubungan darah antara anak yang diangkat dengan orang tua kandungnya.
 
 Sehubungan ketentuan di atas, diberikan penjelasan&#x20;mengenal&#x20;penetapan&#x20;pengadilan mengenai&#x20;pengangkatan anak dan pembatalan akta kelahiran, sebagai berikut:
 
-a. Pencatatan pengangkatan anak, dilaksanakan&#x20;dengan mencantumkan nama orang tua angkat hanya dalam bentuk catatan pinggir pada register akta kelahiran dan kutipan akta kelahiran anak angkat. Dengan demikian, nama orang tua kandung tidak diganti dan harus tetap dicantumkan pada akta kelahiran;
-
-b. Terhadap adanya penetapan pengadilan yang&#x20;memerintahkan untuk membatalkan akta kelahiran&#x20;dan menerbitkan kembali akta kelahiran anak dengan mengganti nama orang tua kandung menjadi orang tua angkat, supaya dikoordinasikan kepada pengadilan tersebut, karena penetapan dimaksud bertentangan dengan prinsip dasar&#x20;pengangkatan anak dan pencatatan pengangkatan&#x20;anak berdasarkan peraturan perundang-undangan.
+1. Pencatatan pengangkatan anak, dilaksanakan   &#x20;dengan mencantumkan nama orang tua angkat hanya dalam bentuk catatan pinggir pada register akta kelahiran dan kutipan akta kelahiran anak angkat. Dengan demikian, nama orang tua kandung tidak diganti dan harus tetap dicantumkan pada akta kelahiran;
+2. Terhadap adanya penetapan pengadilan yang   &#x20;memerintahkan untuk membatalkan akta kelahiran   &#x20;dan menerbitkan kembali akta kelahiran anak dengan mengganti nama orang tua kandung menjadi orang tua angkat, supaya dikoordinasikan kepada pengadilan tersebut, karena penetapan dimaksud bertentangan dengan prinsip dasar   &#x20;pengangkatan anak dan pencatatan pengangkatan   &#x20;anak berdasarkan peraturan perundang-undangan.
 
 **Sumber rujukan:**&#x20;
 
