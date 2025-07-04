@@ -2,20 +2,6 @@
 icon: book
 cover: .gitbook/assets/header buku saku.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Buku Saku Digital Pendaftaran Penduduk dan Pencatatan Sipil
