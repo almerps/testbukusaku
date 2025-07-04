@@ -84,12 +84,12 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 1. Pendataan dan penerbitan dokumen kependudukan bagi komunitas terpencil dilakukan\
    oleh Disdukcapil Kabupaten/Kota atau UPT Disdukcapil Kabupaten/Kota.
 2. Pendataan Penduduk rentan adminduk dilakukan terhadap:
-3. Pendataan Penduduk Rentan Adminduk kependudukan dilaksanakan dengan mendatangi\
-   tempat komunitas terpencil bermukim;
    1. Komunitas terpencil yang tempat tinggalnya\
       menetap;
    2. Komunitas terpencil yang Komunitas terpencil\
       yang memiliki pola hidup berpindah-pindah.
+3. Pendataan Penduduk Rentan Adminduk kependudukan dilaksanakan dengan mendatangi\
+   tempat komunitas terpencil bermukim;
 4. Pendataan Penduduk Rentan Adminduk dilaksanakan dengan mendatangi tempat komunitas terpencil bermukim sementara.
 
 **Sumber rujukan:**

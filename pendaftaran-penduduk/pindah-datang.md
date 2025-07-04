@@ -45,8 +45,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana cara mengurus pindah penduduk antar Kabupaten/Kota?</summary>
 
-Berdasarkan ketentutan Pasal 25 ayat (3)&#x20;Peraturan Presiden 96 Tahun 2018 bahwa syarat\
-pengurusan pindah penduduk adalah Fotokopi Kartu&#x20;Keluarga. Penduduk mengurus penerbitan Surat&#x20;Keterangan Pindah WNI (SKPWNI) dari Disdukcapil&#x20;daerah asal selanjutnya SKPWNI diserahkan ke&#x20;Disdukcapil daerah tujuan untuk dilakukan penerbitan&#x20;KK dan KTP-el/KIA dengan alamat baru.
+Berdasarkan ketentutan Pasal 25 ayat (3)&#x20;Peraturan Presiden 96 Tahun 2018 bahwa syarat&#x20;pengurusan pindah penduduk adalah Fotokopi Kartu&#x20;Keluarga. Penduduk mengurus penerbitan Surat&#x20;Keterangan Pindah WNI (SKPWNI) dari Disdukcapil&#x20;daerah asal selanjutnya SKPWNI diserahkan ke&#x20;Disdukcapil daerah tujuan untuk dilakukan penerbitan&#x20;KK dan KTP-el/KIA dengan alamat baru.
 
 **Tata cara mengurus SKPWNI dari daerah asal:**
 
@@ -224,9 +223,9 @@ Tata cara mengurus SKP dari daerah asal:
 
 Tata cara mengurus pindah di daerah tujuan:
 
-* OA menyerahkan SKP di Disdukcapi Tujuan
-* Dalam hal OA menempati rumah orang lain,  &#x20;kontrak dan kost perlu menyerahkan surat  &#x20;pernyataan tidak keberatan dari pemilik rumah.
-* OA menyerahkan SKTT alamat lama untuk  &#x20;diterbitkan SKTT dengan alamat baru
+1. OA menyerahkan SKP di Disdukcapi Tujuan
+2. Dalam hal OA menempati rumah orang lain,   &#x20;kontrak dan kost perlu menyerahkan surat   &#x20;pernyataan tidak keberatan dari pemilik rumah.
+3. OA menyerahkan SKTT alamat lama untuk   &#x20;diterbitkan SKTT dengan alamat baru
 
 **Sumber rujukan:**
 
