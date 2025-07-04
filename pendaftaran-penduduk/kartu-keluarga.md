@@ -26,10 +26,11 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Apakah penduduk yang telah memiliki KTP-el dan ingin tinggal seorang diri dapat diterbitkan Kartu Keluarga?</summary>
 
-Berdasarkan penjelasan ketentuan Pasal 61 ayat (1) pada lampiran Undang-Undang Nomor 23 Tahun 2006 menyebutkan bahwa yang dimaksud “dengan Kepala Keluarga” adalah:\
-a. orang yang bertempat tinggal dengan orang lain, baik mempunyai hubungan darah maupun tidak, yang bertanggung jawab terhadap keluarga;\
-b. orang yang bertempat tinggal seorang diri; atau\
-c. kepala kesatrian, kepala asrama, kepala rumah yatim piatu, dan lain-lain tempat beberapa orang tinggal bersama-sama.
+Berdasarkan penjelasan ketentuan Pasal 61 ayat (1) pada lampiran Undang-Undang Nomor 23 Tahun 2006 menyebutkan bahwa yang dimaksud “dengan Kepala Keluarga” adalah:
+
+1. orang yang bertempat tinggal dengan orang lain, baik mempunyai hubungan darah maupun tidak, yang bertanggung jawab terhadap keluarga;
+2. orang yang bertempat tinggal seorang diri; atau
+3. kepala kesatrian, kepala asrama, kepala rumah yatim piatu, dan lain-lain tempat beberapa orang tinggal bersama-sama.
 
 Setiap kepala keluarga wajib memiliki KK, meskipun kepala keluarga tersebut masih menumpang di rumah orang tuanya karena pada prinsipnya dalam satu alamat rumah boleh terdapat lebih dari satu KK. Dalam hal ini penduduk yang telah memilki KTP-el yang bertempat tinggal seorang diri dapat diterbitkan Kartu Keluarga dengan status kepala keluarga.
 
@@ -49,8 +50,8 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana cara pencantuman pada kolom Status Hubungan Dalam Keluarga (SHDK) untuk kepala keluarga dan anak sambung/anak tiri?</summary>
 
-a. Bila anak sambung/anak tiri tersebut adalah anak yang dibawa dari perkawinan yang sah orang tuanya, maka pencantuman dalam KK pada kolom SHDK bagi anak sambung/anak tiri dicantumkan dengan status anak. Walaupun dalam kolom SHDK tercantum status anak, namun pada kolom nama orang tua nama yang tercantum adalah nama orang tua biologis dari anak sambung/anak tiri tersebut.\
-b. Dalam hal ayah sambung dari anak sambung/anak tiri tersebut tidak dapat menunjukkan buku nikah/akta perkawinan, maka pencantuman dalam KK pada kolom SHDK bagi anak sambung/anak tiri dicantumkan dengan status lainnya (karena tidak ada hubungan keluarga dengan Kepala Keluarga).
+1. Bila anak sambung/anak tiri tersebut adalah anak yang dibawa dari perkawinan yang sah orang tuanya, maka pencantuman dalam KK pada kolom SHDK bagi anak sambung/anak tiri dicantumkan dengan status anak. Walaupun dalam kolom SHDK tercantum status anak, namun pada kolom nama orang tua nama yang tercantum adalah nama orang tua biologis dari anak sambung/anak tiri tersebut.
+2. Dalam hal ayah sambung dari anak sambung/anak tiri tersebut tidak dapat menunjukkan buku nikah/akta perkawinan, maka pencantuman dalam KK pada kolom SHDK bagi anak sambung/anak tiri dicantumkan dengan status lainnya (karena tidak ada hubungan keluarga dengan Kepala Keluarga).
 
 Dalam hal ibu sambung sebagai kepala keluarga dari anak sambung/anak tiri tersebut dan tidak dapat menunjukkan buku nikah/akta perkawinan, maka pencantuman dalam KK pada kolom SHDK bagi anak sambung/anak tiri dicantumkan dengan status lainnya (karena tidak ada hubungan keluarga dengan Kepala Keluarga).
 
@@ -128,27 +129,24 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 Ya, dapat mencetak mandiri Kartu Keluarga (KK) dan Kartu Identitas Anak (KIA) langsung di Alat Dukungan Mandiri (ADM) menggunakan aplikasi IKD dengan langkah-langkah berikut:
 
-a. Cetak mandiri KK:
-
-1. Buka aplikasi IKD.
-2. Pilih menu “Dokumen”.
-3. Pilih dokumen KK.
-4. Masukkan PIN.
-5. Klik tombol “Bagikan”.
-6. Pindai QR Code menggunakan mesin ADM.
-7. Tunggu beberapa saat hingga dokumen selesai dicetak.
-
-b. Cetak mandiri KIA:
-
-1. Buka aplikasi IKD.
-2. Pilih menu “Data keluarga”.
-3. Pilih data anak yang ingin dicetak KIA-nya.
-4. Klik tab lainnya.
-5. Klik tombol “Bagikan”.
-6. Masukkan PIN.
-7. Klik tombol “Bagikan”.
-8. Pindai QR Code menggunakan mesin ADM.
-9. Tunggu beberapa saat hingga dokumen selesai dicetak.
+1. Cetak mandiri KK:
+   1. Buka aplikasi IKD.
+   2. Pilih menu “Dokumen”.
+   3. Pilih dokumen KK.
+   4. Masukkan PIN.
+   5. Klik tombol “Bagikan”.
+   6. Pindai QR Code menggunakan mesin ADM.
+   7. Tunggu beberapa saat hingga dokumen selesai dicetak.
+2. Cetak mandiri KIA:
+   1. Buka aplikasi IKD.
+   2. Pilih menu “Data keluarga”.
+   3. Pilih data anak yang ingin dicetak KIA-nya.
+   4. Klik tab lainnya.
+   5. Klik tombol “Bagikan”.
+   6. Masukkan PIN.
+   7. Klik tombol “Bagikan”.
+   8. Pindai QR Code menggunakan mesin ADM.
+   9. Tunggu beberapa saat hingga dokumen selesai dicetak.
 
 Dengan mengikuti langkah-langkah tersebut dapat mencetak dokumen KK dan KIA secara mandiri menggunakan ADM dengan bantuan aplikasi IKD.
 
@@ -168,22 +166,12 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana Penerbitan Dokumen Kependudukan, apakah dapat dibantu pelaporannya oleh orang lain?</summary>
 
-a. Penerbitan dokumen kependudukan dapat dibantu pelaporannya oleh orang lain, dengan penjelasan:
-
-1. Berdasarkan amanat Pasal 66 ayat (1) dan ayat (2) Peraturan Presiden Nomor 96 Tahun\
-   2018 Tentang Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil,\
-   dalam hal penduduk dan WNI di luar wilayah Negara Kesatuan Republik Indonesia tidak\
-   mampu (kondisi tidak mampu meliputi pertimbangan umur, sakit keras, cacat fisik,\
-   atau cacat mental) melakukan pelaporan sendiri dalam pelayanan pendaftaran penduduk dan pencatatan sipil dapat dibantu oleh Disdukcapil Kabupaten/Kota, UPT Disdukcapil Kabupaten/Kota, dan Perwakilan Republik Indonesia atau meminta bantuan kepada orang lain.
-2. Bantuan dari orang lain sebagaimana dimaksud pada huruf a di atas, dilengkapi dengan surat kuasa dalam pelayanan administrasi kependudukan (F-1.07) yang ditandatangani oleh penduduk yang memberikan kuasa dan penduduk yang diberikan kuasa. Format surat kuasa dalam pelayanan Administrasi Kependudukan diatur dalam lampiran Peraturan Menteri Dalam Negeri Nomor 109 Tahun 2019 tentang Formulir dan Buku yang Digunakan dalam Administrasi Kependudukan.
-3. Merujuk huruf a dan huruf b di atas, maka penerbitan dokumen kependudukan dapat\
-   diwakilkan oleh orang lain selama penduduk yang bersangkutan tidak mampu melakukan\
-   pelaporan sendiri dalam pelayanan pendaftaran penduduk dan pencatatan sipil dengan dilengkapi surat kuasa dalam pelayanan administrasi kependudukan (F1.07) yang telah ditandatangani oleh penduduk yang memberikan kuasa dan penduduk yang diberikan kuasa.
-
-b. Surat kuasa dari Tania tidak dapat digunakan dalam pelayanan administrasi kependudukan karena format surat kuasa tersebut tidak sesuai dengan format surat kuasa dalam pelayanan administrasi kependudukan (F-1.07) yang diatur dalam lampiran Peraturan Menteri Dalam Negeri Nomor 109 Tahun 2019 tentang Formulir dan Buku yang Digunakan dalam Administrasi Kependudukan.
-
-c. Sehubungan dengan kurang telitinya Disdukcapil Kota Tomohon dalam melakukan verifikasi dan validasi kelengkapan dokumen (tidak memperhatikan masa berlaku ITAP atas\
-nama Tania yang telah habis masa berlakunya pada bulan November 2023) dalam pelaporan perubahan elemen data kependudukan sehingga terbit Kartu Keluarga baru pada tanggal 28 Desember Tahun 2023, maka Kartu Keluarga yang telah diterbitkan tersebut dilakukan pembatalan.
+1. Penerbitan dokumen kependudukan dapat dibantu pelaporannya oleh orang lain, dengan penjelasan:
+   1. Berdasarkan amanat Pasal 66 ayat (1) dan ayat (2) Peraturan Presiden Nomor 96 Tahun 2018 Tentang Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil, dalam hal penduduk dan WNI di luar wilayah Negara Kesatuan Republik Indonesia tidak mampu (kondisi tidak mampu meliputi pertimbangan umur, sakit keras, cacat fisik, atau cacat mental) melakukan pelaporan sendiri dalam pelayanan pendaftaran penduduk dan pencatatan sipil dapat dibantu oleh Disdukcapil Kabupaten/Kota, UPT Disdukcapil Kabupaten/Kota, dan Perwakilan Republik Indonesia atau meminta bantuan kepada orang lain.
+   2. Bantuan dari orang lain sebagaimana dimaksud pada huruf a di atas, dilengkapi dengan surat kuasa dalam pelayanan administrasi kependudukan (F-1.07) yang ditandatangani oleh penduduk yang memberikan kuasa dan penduduk yang diberikan kuasa. Format surat kuasa dalam pelayanan Administrasi Kependudukan diatur dalam lampiran Peraturan Menteri Dalam Negeri Nomor 109 Tahun 2019 tentang Formulir dan Buku yang Digunakan dalam Administrasi Kependudukan.
+   3. Merujuk huruf a dan huruf b di atas, maka penerbitan dokumen kependudukan dapat diwakilkan oleh orang lain selama penduduk yang bersangkutan tidak mampu melakukan pelaporan sendiri dalam pelayanan pendaftaran penduduk dan pencatatan sipil dengan dilengkapi surat kuasa dalam pelayanan administrasi kependudukan (F1.07) yang telah ditandatangani oleh penduduk yang memberikan kuasa dan penduduk yang diberikan kuasa.
+2. Surat kuasa dari Tania tidak dapat digunakan dalam pelayanan administrasi kependudukan karena format surat kuasa tersebut tidak sesuai dengan format surat kuasa dalam pelayanan administrasi kependudukan (F-1.07) yang diatur dalam lampiran Peraturan Menteri Dalam Negeri Nomor 109 Tahun 2019 tentang Formulir dan Buku yang Digunakan dalam Administrasi Kependudukan.
+3. Sehubungan dengan kurang telitinya Disdukcapil Kota Tomohon dalam melakukan verifikasi dan validasi kelengkapan dokumen (tidak memperhatikan masa berlaku ITAP atas nama Tania yang telah habis masa berlakunya pada bulan November 2023) dalam pelaporan perubahan elemen data kependudukan sehingga terbit Kartu Keluarga baru pada tanggal 28 Desember Tahun 2023, maka Kartu Keluarga yang telah diterbitkan tersebut dilakukan pembatalan.
 
 **Sumber rujukan:**
 
