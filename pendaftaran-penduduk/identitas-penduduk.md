@@ -10,19 +10,20 @@ icon: person
 
 Berdasarkan ketentuan Pasal 4 Peraturan Presiden Nomor 96 Tahun 2018, pencatatan biodata penduduk dapat dilakukan dengan memenuhi persyaratan sebagai berikut:
 
-a. Surat pengantar (asli) dari rukun tetangga dan rukun warga atau yang disebut dengan nama lain;\
-b. Fotokopi dokumen atau bukti peristiwa kependudukan dan peristiwa penting;\
-c. Fotokopi bukti pendidikan terakhir;\
-d. Apabila tidak memiliki syarat b dan c, maka mengisi surat keterangan tidak memiliki dokumen kependudukan.
+1. Surat pengantar (asli) dari rukun tetangga dan rukun warga atau yang disebut dengan nama lain;
+2. Fotokopi dokumen atau bukti peristiwa kependudukan dan peristiwa penting;
+3. Fotokopi bukti pendidikan terakhir;
+4. Apabila tidak memiliki syarat 1 dan 2, maka mengisi surat keterangan tidak memiliki dokumen kependudukan.
 
-Tata Cara:\
-a. Pemohon mengisi Formulir Biodata Keluarga (F-1.01);\
-b. Pemohon menyerahkan surat pengantar RT dan RW (tidak diperlukan untuk anak yang baru lahir dengan orang tua yang sudah terdaftar dalam database kependudukan);\
-c. Pemohon menyerahkan fotokopi dokumen atau bukti peristiwa kependudukan dan peristiwa penting (seperti paspor, surat keterangan lahir dari RS/ Puskesmas/Klinik);\
-d. Pemohon menyerahkan fotokopi bukti Pendidikan terakhir (ijazah);\
-e. Apabila huruf c dan huruf d tidak dimiliki, maka Pemohon mengisi Surat Peryataan Tidak Memiliki Dokumen Kependudukan (F1.04);\
-f. Pemohon menyerahkan surat pernyataan (asli) tidak keberatan dari pemilik rumah apabila menumpang KK, menyewa rumah, kontrak dan kost;\
-g. Dinas menerbitkan Biodata. Dalam hal Biodata diminta oleh penduduk, Dinas memberikan Biodatanya.
+Tata Cara:
+
+1. Pemohon mengisi Formulir Biodata Keluarga (F-1.01);
+2. Pemohon menyerahkan surat pengantar RT dan RW (tidak diperlukan untuk anak yang baru lahir dengan orang tua yang sudah terdaftar dalam database kependudukan);
+3. Pemohon menyerahkan fotokopi dokumen atau bukti peristiwa kependudukan dan peristiwa penting (seperti paspor, surat keterangan lahir dari RS/ Puskesmas/Klinik);
+4. Pemohon menyerahkan fotokopi bukti Pendidikan terakhir (ijazah);
+5. Apabila huruf c dan huruf d tidak dimiliki, maka Pemohon mengisi Surat Peryataan Tidak Memiliki Dokumen Kependudukan (F1.04);
+6. Pemohon menyerahkan surat pernyataan (asli) tidak keberatan dari pemilik rumah apabila menumpang KK, menyewa rumah, kontrak dan kost;
+7. Dinas menerbitkan Biodata. Dalam hal Biodata diminta oleh penduduk, Dinas memberikan Biodatanya.
 
 Catatan:\
 Untuk pelayanan online/daring, persyaratan yang discan/difoto untuk diunggah harus aslinya.
