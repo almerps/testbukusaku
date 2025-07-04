@@ -8,14 +8,15 @@ icon: id-card
 
 <summary>Bagaimana penerbitan KTP-el pertama kali bagi WNI?</summary>
 
-Berdasarkan Pasal 15 Peraturan Presiden Nomor 96 Tahun 2018, penerbitan KTP-el bagi\
-penduduk WNI harus memenuhi persyaratan:\
-a. Telah berusia 17 tahun, sudah kawin atau pernah kawin; dan\
-b. Fotokopi KK.
+Berdasarkan Pasal 15 Peraturan Presiden Nomor 96 Tahun 2018, penerbitan KTP-el bagi penduduk WNI harus memenuhi persyaratan:
 
-Tata cara:\
-a. Penduduk mengisi Formulir Pendaftaran Peristiwa Kependudukan (F-1.02) dan melampirkan persyaratan;\
-b. Dinas menerbitkan KTP-el.
+1. Telah berusia 17 tahun, sudah kawin atau pernah kawin; dan
+2. Fotokopi KK.
+
+Tata cara:
+
+1. Penduduk mengisi Formulir Pendaftaran Peristiwa Kependudukan (F-1.02) dan melampirkan persyaratan;
+2. Dinas menerbitkan KTP-el.
 
 **Sumber rujukan:**
 
@@ -33,14 +34,16 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Apakah Orang Asing boleh memiliki KTP-el?</summary>
 
-Berdasarkan Pasal 16 Peraturan Presiden Nomor 96 Tahun 2018, orang asing boleh memiliki KTP-el jika memiliki Izin Tinggal tetap dan terdaftar sebagai penduduk, dengan persyaratan:\
-a. Telah berusia 17 tahun, sudah kawin atau pernah kawin;\
-b. Fotokopi KK; dan\
-c. Fotokopi dokumen perjalanan dan fotokopi Kartu Izin Tinggal Tetap.
+Berdasarkan Pasal 16 Peraturan Presiden Nomor 96 Tahun 2018, orang asing boleh memiliki KTP-el jika memiliki Izin Tinggal tetap dan terdaftar sebagai penduduk, dengan persyaratan:
 
-Tata cara:\
-a. Penduduk mengisi Formulir Pendaftaran Peristiwa Kependudukan (F-1.02) dan melampirkan persyaratan; dan\
-b. Dinas menerbitkan KTP-el.
+1. Telah berusia 17 tahun, sudah kawin atau pernah kawin;
+2. Fotokopi KK; dan
+3. Fotokopi dokumen perjalanan dan fotokopi Kartu Izin Tinggal Tetap.
+
+Tata cara:
+
+1. Penduduk mengisi Formulir Pendaftaran Peristiwa Kependudukan (F-1.02) dan melampirkan persyaratan; dan
+2. Dinas menerbitkan KTP-el.
 
 **Sumber rujukan:**
 
@@ -76,10 +79,11 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Apakah penerbitan KTP-el dapat dilakukan di luar Kabupaten/Kota alamat domisili yang tertera dalam Kartu Keluarga?</summary>
 
-Berdasarkan ketentuan Pasal 15 Peraturan Menteri Dalam Negeri Nomor 8 Tahun 2016, bahwa penerbitan KTP-el bagi penduduk di luar domisili dapat dilakukan dengan ketentuan:\
-a. Telah melakukan perekaman data;\
-b. Kehilangan KTP-el di luar domisili; dan\
-c. Rusak KTP-el di luar domisili.
+Berdasarkan ketentuan Pasal 15 Peraturan Menteri Dalam Negeri Nomor 8 Tahun 2016, bahwa penerbitan KTP-el bagi penduduk di luar domisili dapat dilakukan dengan ketentuan:
+
+1. Telah melakukan perekaman data;
+2. Kehilangan KTP-el di luar domisili; dan
+3. Rusak KTP-el di luar domisili.
 
 Catatan:\
 Hal tersebut dapat dilakukan apabila tidak terdapat perubahan elemen data kependudukan.
@@ -124,10 +128,11 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Apakah pas foto pada KTP-el dapat diganti?</summary>
 
-Berdasarkan ketentuan Pasal 13 Peraturan Menteri Dalam Negeri Nomor 74 Tahun 2015, bahwa perubahan elemen data pas foto dilakukan apabila penduduk mengalami perubahan fisik secara permanen atau adanya kerusakan fisik KTP-el dilakukan dengan cara:\
-a. Mengajukan permohonan perubahan kepada Disdukcapil Kabupaten/Kota;\
-b. Pencatatan perubahan nama melalui SIAK; dan\
-c. Perubahan elemen data pas foto pada biodata penduduk sebagai dasar penerbitan KTP-el yang baru.
+Berdasarkan ketentuan Pasal 13 Peraturan Menteri Dalam Negeri Nomor 74 Tahun 2015, bahwa perubahan elemen data pas foto dilakukan apabila penduduk mengalami perubahan fisik secara permanen atau adanya kerusakan fisik KTP-el dilakukan dengan cara:
+
+1. Mengajukan permohonan perubahan kepada Disdukcapil Kabupaten/Kota;
+2. Pencatatan perubahan nama melalui SIAK; dan
+3. Perubahan elemen data pas foto pada biodata penduduk sebagai dasar penerbitan KTP-el yang baru.
 
 **Sumber rujukan:**
 
@@ -181,9 +186,10 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Mengapa proses pengadaan blangko Kartu Tanda Penduduk Elektronik (KTP-el) tidak lagi diserahkan kepada kabupaten/kota seperti yang dilakukan sebelumnya?</summary>
 
-Proses pengadaan blangko KTP-el tidak diserahkan kepada kabupaten/kota karena:\
-a. Untuk menjaga keseragaman spesifikasi blangko, sehingga setiap KTP-el memiliki standar yang sama dalam hal kualitas dan keamanan.\
-b. Untuk memastikan keamanan data KTP-el elektronik yang tercetak di dalamnya.
+Proses pengadaan blangko KTP-el tidak diserahkan kepada kabupaten/kota karena:
+
+1. Untuk menjaga keseragaman spesifikasi blangko, sehingga setiap KTP-el memiliki standar yang sama dalam hal kualitas dan keamanan.
+2. Untuk memastikan keamanan data KTP-el elektronik yang tercetak di dalamnya.
 
 Ketentuan ini sesuai dengan Undang-Undang 23 Tahun 2006 Pasal 5 huruf f, di mana pemerintah (Kementerian Dalam Negeri) memiliki kewenangan dalam pencetakan, penerbitan, dan distribusi blangko dokumen kependudukan. Dengan demikian, pengadaan blangko KTP-el dipegang oleh pemerintah pusat untuk memastikan standar keamanan dan keseragaman yang diperlukan dalam dokumen kependudukan.
 
