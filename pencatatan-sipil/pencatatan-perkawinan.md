@@ -29,27 +29,28 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 Persyaratan pencatatan perkawinan bagi yang beragama selain Islam diatur dalam Pasal 37 Peraturan Presiden Nomor 96 Tahun 2018 dan Pasal 50 ayat (2), ayat (3) dan ayat (4) Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 serta Surat Dirjen Dukcapil Nomor 470/13287/Dukcapil tanggal 28 September 2021 berupa:
 
-a. surat keterangan telah terjadinya perkawinan dari pemuka agama atau Penghayat Kepercayaan Terhadap Tuhan Yang Maha Esa;\
-b. pas foto berwarna suami dan istri;\
-c. KK;\
-d. KTP-el; dan\
-e. bagi janda atau duda karena cerai mati melampirkan akta kematian pasangannya; atau\
-f. bagi janda atau duda karena cerai hidup melampirkan akta perceraian; atau\
-g. bagi perkawinan berlangsung sebelum berusia 19 tahun dengan melampirkan salinan Penetapan Pengadilan tentang Dispensasi Perkawinan; atau\
-h. bagi perkawinan antar umat yang berbeda agama atau perkawinan yang tidak dapat dibuktikan dengan akta perkawinan dengan melampirkan salinan penetapan pengadilan; atau\
-i. bagi perkawinan yang salah satu atau kedua suami isteri meninggal dunia sebelum pencatatan perkawinan dengan melampirkan SPTJM Kebenaran Data sebagai pasangan suami istri dengan materai; atau\
-j. bagi suami melangsungkan perkawinan kedua dan seterusnya dengan melampirkan salinan penetapan pengadilan tentang izin perkawinan dari isteri sah; atau\
-k. bagi pasangan suami dan isteri yang dalam KK status “Cerai Hidup Belum Tercatat” dengan melampirkan SPTJM Perceraian belum tercatat;\
-l. bagi perkawinan orang asing dengan melampirkan Dokumen Perjalanan, surat keterangan tempat tinggal bagi pemegang izin tinggal terbatas, Kartu Keluarga dan KTP-el bagi pemegang izin tinggal tetap serta Izin dari negara atau perwakilan negaranya.
+1. surat keterangan telah terjadinya perkawinan dari pemuka agama atau Penghayat Kepercayaan Terhadap Tuhan Yang Maha Esa;
+2. pas foto berwarna suami dan istri;
+3. KK;
+4. KTP-el; dan
+5. bagi janda atau duda karena cerai mati melampirkan akta kematian pasangannya; atau
+6. bagi janda atau duda karena cerai hidup melampirkan akta perceraian; atau
+7. bagi perkawinan berlangsung sebelum berusia 19 tahun dengan melampirkan salinan Penetapan Pengadilan tentang Dispensasi Perkawinan; atau
+8. bagi perkawinan antar umat yang berbeda agama atau perkawinan yang tidak dapat dibuktikan dengan akta perkawinan dengan melampirkan salinan penetapan pengadilan; atau
+9. bagi perkawinan yang salah satu atau kedua suami isteri meninggal dunia sebelum pencatatan perkawinan dengan melampirkan SPTJM Kebenaran Data sebagai pasangan suami istri dengan materai; atau
+10. bagi suami melangsungkan perkawinan kedua dan seterusnya dengan melampirkan salinan penetapan pengadilan tentang izin perkawinan dari isteri sah; atau
+11. bagi pasangan suami dan isteri yang dalam KK status “Cerai Hidup Belum Tercatat” dengan melampirkan SPTJM Perceraian belum tercatat;
+12. bagi perkawinan orang asing dengan melampirkan Dokumen Perjalanan, surat keterangan tempat tinggal bagi pemegang izin tinggal terbatas, Kartu Keluarga dan KTP-el bagi pemegang izin tinggal tetap serta Izin dari negara atau perwakilan negaranya.
 
 Catatan:\
 Untuk pelayanan secara offline/tatap muka, persyaratan surat keterangan telah terjadinya perkawinan dari pemuka agama atau Penghayat Kepercayaan Terhadap Tuhan Yang Maha Esa, salinan penetapan pengadilan yang diserahkan berupa fotokopi bukan asli (asli hanya diperlihatkan) dan untuk pelayanan online/Daring, persyaratan yang discan/difoto untuk diunggah harus aslinya.
 
-Sedangkan tata cara pencatatan perkawinan bagi yang beragama selain Islam diatur dalam Pasal 50, Pasal 51 dan Pasal 52 Peraturan Menteri Dalam Negeri 108 Tahun 2019, sebagai berikut:\
-a. Pemohon mengisi dan menandatangani formulir pelaporan pencatatan sipil di dalam wilayah NKRI dengan kode F-2.01 serta menyerahkan persyaratan.\
-b. Petugas pelayanan melakukan verifikasi dan validasi terhadap formulir pelaporan dan persyaratan.\
-c. Petugas pada Disdukcapil Kabupaten/Kota atau UPT Disdukcapil Kabupaten/Kota melakukan perekaman data dalam basis data kependudukan.\
-d. Disdukcapil Kabupaten/Kota atau UPT Disdukcapil Kabupaten/Kota mencatat dalam register akta perkawinan dan menerbitkan kutipan akta perkawinan.
+Sedangkan tata cara pencatatan perkawinan bagi yang beragama selain Islam diatur dalam Pasal 50, Pasal 51 dan Pasal 52 Peraturan Menteri Dalam Negeri 108 Tahun 2019, sebagai berikut:
+
+1. Pemohon mengisi dan menandatangani formulir pelaporan pencatatan sipil di dalam wilayah NKRI dengan kode F-2.01 serta menyerahkan persyaratan.
+2. Petugas pelayanan melakukan verifikasi dan validasi terhadap formulir pelaporan dan persyaratan.
+3. Petugas pada Disdukcapil Kabupaten/Kota atau UPT Disdukcapil Kabupaten/Kota melakukan perekaman data dalam basis data kependudukan.
+4. Disdukcapil Kabupaten/Kota atau UPT Disdukcapil Kabupaten/Kota mencatat dalam register akta perkawinan dan menerbitkan kutipan akta perkawinan.
 
 Kutipan akta perkawinan disampaikan kepada pemohon beserta dokumen kependudukan lainnya berupa KTP-el dengan status Kawin dan KK yang sudah dimutakhirkan datanya serta memusnahkan KTP-el asli yang lama.
 
@@ -100,41 +101,34 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 Perkawinan WNI atau perkawinan WNI dengan Orang Asing di luar negeri dicatatkan pada Instansi yang berwenang di negara setempat dan dilaporkan kepada Perwakilan Republik Indonesia di luar negeri. Apabila negara setempat tidak menyelenggarakan pencatatan perkawinan bagi Orang Asing, pencatatan dilakukan pada Perwakilan Republik Indonesia di luar negeri.
 
-a. Persyaratan pelaporan pencatatan perkawinan WNI atau perkawinan WNI dengan Orang Asing yang telah dicatatkan pada instansi yang berwenang di negara setempat, dilaporkan pada Perwakilan Republik Indonesia, berupa:
-
-1. kutipan akta perkawinan/bukti pencatatan perkawinan dari negara setempat.
-2. dokumen perjalanan Republik Indonesia dari suami dan istri, dan Dokumen Perjalanan bagi Orang Asing.
-3. surat keterangan yang menunjukkan domisili atau surat keterangan pindah luar negeri.\
-   Catatan:\
-   Perwakilan RI tidak menarik kutipan akta perkawinan dari negara setempat asli atau dokumen perjalanan Republik Indonesia dari suami dan istri atau dokumen perjalanan bagi orang asing atau surat keterangan yang menunjukkan domisili atau surat keterangan pindah luar negeri berupa fotokopi, asli hanya diperlihatkan. WNI tidak perlu fotokopi KTP el 2 (dua) orang saksi karena identitasnya sudah tercantum dalam Formulir Pelaporan Pencatatan Sipil di Dalam Wilayah NKRI (F-2.02).
-
-b. Tata cara pelaporan pencatatan perkawinan WNI dan perkawinan WNI dengan Orang Asing yang telah dicatatkan pada instansi yang berwenang di negara setempat di Perwakilan Republik Indonesia, sebagai berikut:
-
-1. Pemohon mengisi dan menyerahkan Formulir Pelaporan Pencatatan Sipil di Luar Wilayah NKRI dengan kode F-2.02 serta menyerahkan persyaratan.
-2. Pejabat pada Perwakilan RI melakukan verifikasi dan validasi terhadap formulir pelaporan dan persyaratan.
-3. Petugas pada Perwakilan RI yang dapat mengakses basis data kependudukan melakukan perekaman data pelaporan ke dalam basis data kependudukan;
-4. Perwakilan RI mencatat laporan dalam daftar pelaporan dan menerbitkan surat keterangan pelaporan;
-5. Surat keterangan pelaporan diberikan kepada Pemohon.
-
-c. Persyaratan pencatatan perkawinan WNI dan perkawinan dengan Orang Asing di luar negeri dalam hal negara setempat tidak menyelenggarakan pencatatan perkawinan bagi Orang Asing, berupa:
-
-1. surat keterangan telah terjadinya perkawinan dari pemuka agama atau penghayat kepercayaan terhadap Tuhan Yang Maha Esa atau Fotokopi surat keterangan terjadinya\
-   perkawinan di negara setempat.
-2. Dokumen Perjalanan Republik Indonesia suami dan istri atau Dokumen Perjalanan bagi\
-   orang asing.
-3. surat keterangan yang menunjukkan domisili atau surat keterangan pindah luar negeri.
-
-Catatan:\
-Perwakilan Republik Indonesia tidak menarik kutipan akta perkawinan dari negara setempat asli atau surat keterangan terjadinya perkawinan di negara setempat atau dokumen perjalanan Republik Indonesia atau dokumen perjalanan bagi Orang Asing atau surat keterangan yang menunjukkan domisili atau surat keterangan pindah luar negeri asli berupa fotokopi, asli hanya diperlihatkan, WNI tidak perlu fotokopi KTP-el 2 (dua) orang saksi karena identitasnya sudah tercantum dalam Formulir Pelaporan Pencatatan Sipil di Dalam Wilayah NKRI (F-2.02).
-
-d. Tata cara pencatatan perkawinan WNI dan perkawinan WNI dengan Orang Asing di luar\
-negeri dalam hal negara setempat tidak menyelenggarakan pencatatan perkawinan bagi orang asing sebagai berikut:
-
-1. Pemohon mengisi dan menyerahkan Formulir Pelaporan Pencatatan Sipil di Luar Wilayah NKRI dengan kode F-2.02 serta menyerahkan persyaratan
-2. Pejabat pada Perwakilan Republik Indonesia melakukan verifikasi dan validasi terhadap formulir pelaporan dan persyaratan.
-3. Petugas pada Perwakilan Republik Indonesia yang dapat mengakses basis data kependudukan melakukan perekaman data pelaporan ke dalam basis data kependudukan.
-4. Pejabat pencatatan sipil pada Perwakilan Republik Indonesia mencatat dalam register akta perkawinan dan menerbitkan kutipan akta perkawinan.
-5. Kutipan akta perkawinan disampaikan kepada Pemohon.
+1. Persyaratan pelaporan pencatatan perkawinan WNI atau perkawinan WNI dengan Orang Asing yang telah dicatatkan pada instansi yang berwenang di negara setempat, dilaporkan pada Perwakilan Republik Indonesia, berupa:
+   1. kutipan akta perkawinan/bukti pencatatan perkawinan dari negara setempat.
+   2. dokumen perjalanan Republik Indonesia dari suami dan istri, dan Dokumen Perjalanan bagi Orang Asing.
+   3. surat keterangan yang menunjukkan domisili atau surat keterangan pindah luar negeri.\
+      Catatan:\
+      Perwakilan RI tidak menarik kutipan akta perkawinan dari negara setempat asli atau dokumen perjalanan Republik Indonesia dari suami dan istri atau dokumen perjalanan bagi orang asing atau surat keterangan yang menunjukkan domisili atau surat keterangan pindah luar negeri berupa fotokopi, asli hanya diperlihatkan. WNI tidak perlu fotokopi KTP el 2 (dua) orang saksi karena identitasnya sudah tercantum dalam Formulir Pelaporan Pencatatan Sipil di Dalam Wilayah NKRI (F-2.02).
+2. Tata cara pelaporan pencatatan perkawinan WNI dan perkawinan WNI dengan Orang Asing yang telah dicatatkan pada instansi yang berwenang di negara setempat di Perwakilan Republik Indonesia, sebagai berikut:
+   1. Pemohon mengisi dan menyerahkan Formulir Pelaporan Pencatatan Sipil di Luar Wilayah NKRI dengan kode F-2.02 serta menyerahkan persyaratan.
+   2. Pejabat pada Perwakilan RI melakukan verifikasi dan validasi terhadap formulir pelaporan dan persyaratan.
+   3. Petugas pada Perwakilan RI yang dapat mengakses basis data kependudukan melakukan perekaman data pelaporan ke dalam basis data kependudukan;
+   4. Perwakilan RI mencatat laporan dalam daftar pelaporan dan menerbitkan surat keterangan pelaporan;
+   5. Surat keterangan pelaporan diberikan kepada Pemohon.
+3. Persyaratan pencatatan perkawinan WNI dan perkawinan dengan Orang Asing di luar negeri dalam hal negara setempat tidak menyelenggarakan pencatatan perkawinan bagi Orang Asing, berupa:
+   1. surat keterangan telah terjadinya perkawinan dari pemuka agama atau penghayat kepercayaan terhadap Tuhan Yang Maha Esa atau Fotokopi surat keterangan terjadinya\
+      perkawinan di negara setempat.
+   2. Dokumen Perjalanan Republik Indonesia suami dan istri atau Dokumen Perjalanan bagi\
+      orang asing.
+   3. surat keterangan yang menunjukkan domisili atau surat keterangan pindah luar negeri.\
+      \
+      Catatan:\
+      Perwakilan Republik Indonesia tidak menarik kutipan akta perkawinan dari negara setempat asli atau surat keterangan terjadinya perkawinan di negara setempat atau dokumen perjalanan Republik Indonesia atau dokumen perjalanan bagi Orang Asing atau surat keterangan yang menunjukkan domisili atau surat keterangan pindah luar negeri asli berupa fotokopi, asli hanya diperlihatkan, WNI tidak perlu fotokopi KTP-el 2 (dua) orang saksi karena identitasnya sudah tercantum dalam Formulir Pelaporan Pencatatan Sipil di Dalam Wilayah NKRI (F-2.02).
+4. Tata cara pencatatan perkawinan WNI dan perkawinan WNI dengan Orang Asing di luar\
+   negeri dalam hal negara setempat tidak menyelenggarakan pencatatan perkawinan bagi orang asing sebagai berikut:
+   1. Pemohon mengisi dan menyerahkan Formulir Pelaporan Pencatatan Sipil di Luar Wilayah NKRI dengan kode F-2.02 serta menyerahkan persyaratan
+   2. Pejabat pada Perwakilan Republik Indonesia melakukan verifikasi dan validasi terhadap formulir pelaporan dan persyaratan.
+   3. Petugas pada Perwakilan Republik Indonesia yang dapat mengakses basis data kependudukan melakukan perekaman data pelaporan ke dalam basis data kependudukan.
+   4. Pejabat pencatatan sipil pada Perwakilan Republik Indonesia mencatat dalam register akta perkawinan dan menerbitkan kutipan akta perkawinan.
+   5. Kutipan akta perkawinan disampaikan kepada Pemohon.
 
 **Surat rujukan:**
 
@@ -157,9 +151,10 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pelaporan pencatatan peristiwa penting di luar negeri setelah kembali ke Indonesia?</summary>
 
-Peristiwa perkawinan WNI di luar negeri setelah kembali ke Indonesia dilaporkan oleh yang bersangkutan kepada Disdukcapil Kabupaten/Kota atau UPT Disdukcapil Kabupaten/Kota di tempat Penduduk berdomisli paling lambat 30 (tiga puluh) hari sejak yang bersangkutan kembali ke Indonesia, dengan memenuhi persyaratan berupa:\
-a. bukti pelaporan perkawinan dari Perwakilan RI; dan\
-b. kutipan akta perkawinan.
+Peristiwa perkawinan WNI di luar negeri setelah kembali ke Indonesia dilaporkan oleh yang bersangkutan kepada Disdukcapil Kabupaten/Kota atau UPT Disdukcapil Kabupaten/Kota di tempat Penduduk berdomisli paling lambat 30 (tiga puluh) hari sejak yang bersangkutan kembali ke Indonesia, dengan memenuhi persyaratan berupa:
+
+1. bukti pelaporan perkawinan dari Perwakilan RI; dan
+2. kutipan akta perkawinan.
 
 Disdukcapil Kabupaten/Kota atau UPT Disdukcapil Kabupaten/Kota merekam pelaporan dalam basis data kependudukan dan menerbitkan surat keterangan pelaporan. Dalam hal pencatatan peristiwa penting WNI di luar negeri yang telah dicatatkan pada instansi yang berwenang di Negara setempat belum dilaporkan kepada Perwakilan Republik Indonesia, maka penerbitan surat keterangan pelaporan dapat dilakukan pada Disdukcapil Kabupaten/Kota atau UPT Disdukcapil Kabupaten/Kota.
 
@@ -207,9 +202,8 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pelaporan pencatatan perkawinan WNI dengan WNA yang terjadi di luar negeri?</summary>
 
-a. Berdasarkan Pasal 8 ayat (1) Undang-Undang Nomor 24 Tahun 2013 diatur bahwa Instansi Pelaksana melaksanakan urusan administrasi kependudukan dengan kewajiban yang meliputi antara lain mendaftar peristiwa kependudukan dan mencatat peristiwa penting.
-
-b. Sesuai Pasal 97 ayat (3) dan ayat (4) Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 diatur bahwa dalam hal pencatatan peristiwa penting WNI di Luar Wilayah NKRI yang telah dicatatkan pada instansi yang berwenang di negara setempat belum dilaporkan kepada Perwakilan RI.
+1. Berdasarkan Pasal 8 ayat (1) Undang-Undang Nomor 24 Tahun 2013 diatur bahwa Instansi Pelaksana melaksanakan urusan administrasi kependudukan dengan kewajiban yang meliputi antara lain mendaftar peristiwa kependudukan dan mencatat peristiwa penting.
+2. Sesuai Pasal 97 ayat (3) dan ayat (4) Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 diatur bahwa dalam hal pencatatan peristiwa penting WNI di Luar Wilayah NKRI yang telah dicatatkan pada instansi yang berwenang di negara setempat belum dilaporkan kepada Perwakilan RI.
 
 Penerbitan surat keterangan pelaporan dapat dilakukan pada Disdukcapil Kabupaten/Kota sesuai domisili, dengan memenuhi persyaratan bukti pencatatan peristiwa penting yang diterjemahkan oleh penerjemah tersumpah atau surat pernyataan tanggung jawab mutlak.
 
@@ -233,9 +227,8 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pencatatan perkawinan beda agama di Indonesia?</summary>
 
-a. Berdasarkan Pasal 35 huruf a Undang-Undang Nomor 23 Tahun 2006, diatur bahwa pencatatan perkawinan berlaku pula bagi perkawinan yang ditetapkan oleh Pengadilan. Penjelasan yang diberikan dalam pasal ini menjelaskan bahwa perkawinan yang ditetapkan oleh pengadilan adalah perkawinan yang melibatkan antar-umat yang berbeda agama.
-
-b. Merujuk Pasal 7 ayat (2) huruf l Undang-Undang Nomor 30 Tahun 2014 menyebutkan bahwa Pejabat Pemerintahan memiliki kewajiban untuk mematuhi putusan Pengadilan yang telah berkekuatan hukum tetap.
+1. Berdasarkan Pasal 35 huruf a Undang-Undang Nomor 23 Tahun 2006, diatur bahwa pencatatan perkawinan berlaku pula bagi perkawinan yang ditetapkan oleh Pengadilan. Penjelasan yang diberikan dalam pasal ini menjelaskan bahwa perkawinan yang ditetapkan oleh pengadilan adalah perkawinan yang melibatkan antar-umat yang berbeda agama.
+2. Merujuk Pasal 7 ayat (2) huruf l Undang-Undang Nomor 30 Tahun 2014 menyebutkan bahwa Pejabat Pemerintahan memiliki kewajiban untuk mematuhi putusan Pengadilan yang telah berkekuatan hukum tetap.
 
 Memperhatikan ketentuan di atas, maka permohonan pencatatan perkawinan antara individu yang berbeda agama, seperti perkawinan antara seseorang beragama Islam dengan agama Khatolik dengan bukti surat nikah gereja (testimonium matrimony), tidak dapat dilakukan, kecuali ada perintah berdasarkan penetapan pengadilan. Selanjutnya Disdukcapil Kabupaten/Kota hanya mencatatkan apa yang sudah menjadi penetapan pengadilan dan tidak dalam konteks mengesahkan perkawinan.
 
@@ -257,8 +250,8 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimanan pelaporan pencatatan perkawinan beda agama di luar negeri?</summary>
 
-a. Berdasarkan Pasal 37 ayat (1) dan ayat (4) Undang-Undang Nomor 23 Tahun 2006 diatur bahwa perkawinan WNI di luar wilayah NKRI wajib dicatatkan pada Instansi yang berwenang di negara setempat dan dilaporkan pada Perwakilan RI. Pencatatan perkawinan dimaksud dilaporkan oleh yang bersangkutan kepada Instansi Pelaksana di tempat tinggalnya setelah yang bersangkutan kembali ke Indonesia.\
-b. Selanjutnya sesuai Pasal 97 ayat (1) dan ayat (2) Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 diatur bahwa setiap pencatatan peristiwa penting yang dialami oleh WNI di luar wilayah NKRI wajib dilaporkan oleh WNI kepada Disdukcapil Kabupaten/Kota di tempat domisili setelah kembali ke Indonesia. Berdasarkan laporan tersebut, Disdukcapil menerbitkan surat keterangan pelaporan.
+1. Berdasarkan Pasal 37 ayat (1) dan ayat (4) Undang-Undang Nomor 23 Tahun 2006 diatur bahwa perkawinan WNI di luar wilayah NKRI wajib dicatatkan pada Instansi yang berwenang di negara setempat dan dilaporkan pada Perwakilan RI. Pencatatan perkawinan dimaksud dilaporkan oleh yang bersangkutan kepada Instansi Pelaksana di tempat tinggalnya setelah yang bersangkutan kembali ke Indonesia.
+2. Selanjutnya sesuai Pasal 97 ayat (1) dan ayat (2) Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 diatur bahwa setiap pencatatan peristiwa penting yang dialami oleh WNI di luar wilayah NKRI wajib dilaporkan oleh WNI kepada Disdukcapil Kabupaten/Kota di tempat domisili setelah kembali ke Indonesia. Berdasarkan laporan tersebut, Disdukcapil menerbitkan surat keterangan pelaporan.
 
 Merujuk ketentuan di atas, maka permohonan pelaporan perkawinan beda agama dari luar negeri dapat diterbitkan surat keterangan pelaporan perkawinan sesuai ketentuan diatas.
 
@@ -280,13 +273,11 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pencatatan perkawinan tanpa dihadiri salah satu pasangan suami/istri atau keduanya tidak dapat hadir?</summary>
 
-a. Berdasarkan Peraturan Pemerintah Nomor 9 Tahun 1975:
-
-1. Pasal 6 ayat (2) huruf f juga mengatur bahwa jika salah satu calon mempelai atau keduanya tidak dapat hadir sendiri karena alasan penting, mereka dapat diwakilkan oleh orang lain dengan persyaratan Surat Kuasa Otentik yang disahkan oleh Pejabat Pencatatan Sipil.
-2. Pasal 11 ayat (1) diatur bahwa salah satu tata cara perkawinan adalah dengan kedua mempelai menandatangani akta perkawinan yang telah disiapkan oleh Pegawai Pencatat sesuai dengan ketentuan yang berlaku.
-3. Pasal 12 huruf j mengatur bahwa Akta Perkawinan harus mencantumkan nama, umur, agama/kepercayaan, pekerjaan, dan tempat kediaman kuasa apabila perkawinan dilakukan melalui seseorang kuasa.
-
-b. Merujuk Pasal 37 ayat (1) Peraturan Presiden Nomor 96 Tahun 2018, dijelaskan persyaratan pencatatan perkawinan bagi WNI dan orang asing di wilayah NKRI.
+1. Berdasarkan Peraturan Pemerintah Nomor 9 Tahun 1975:
+   1. Pasal 6 ayat (2) huruf f juga mengatur bahwa jika salah satu calon mempelai atau keduanya tidak dapat hadir sendiri karena alasan penting, mereka dapat diwakilkan oleh orang lain dengan persyaratan Surat Kuasa Otentik yang disahkan oleh Pejabat Pencatatan Sipil.
+   2. Pasal 11 ayat (1) diatur bahwa salah satu tata cara perkawinan adalah dengan kedua mempelai menandatangani akta perkawinan yang telah disiapkan oleh Pegawai Pencatat sesuai dengan ketentuan yang berlaku.
+   3. Pasal 12 huruf j mengatur bahwa Akta Perkawinan harus mencantumkan nama, umur, agama/kepercayaan, pekerjaan, dan tempat kediaman kuasa apabila perkawinan dilakukan melalui seseorang kuasa.
+2. Merujuk Pasal 37 ayat (1) Peraturan Presiden Nomor 96 Tahun 2018, dijelaskan persyaratan pencatatan perkawinan bagi WNI dan orang asing di wilayah NKRI.
 
 Memperhatikan ketentuan di atas, maka pencatatan perkawinan dapat dilakukan setelah memenuhi persyaratan pencatatan perkawinan dan bagi mempelai laki-laki/perempuan atau keduanya tidak dapat hadir membuat Surat Kuasa Otentik.
 
@@ -308,19 +299,19 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Apakah diperbolehkan mengubah status perkawinan dalam KK dan KTP-el dari "kawin belum tercatat" menjadi "belum kawin" hanya dengan dasar keterangan yang bersangkutan, dan bagaimana proses perubahan status perkawinannya untuk pernikahan di KUA?</summary>
 
-Berdasarkan:\
-a. Pasal 3 Ayat (1) dan Pasal 9 Undang-Undang Nomor 1 Tahun 1974;\
-b. Pasal 8 Ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2013;\
-c. Pasal 38 ayat (1) dan ayat (2) Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019; dan\
-d. Pasal 7 ayat (3) huruf a Kompilasi Hukum Islam.
+Berdasarkan:
 
-Merujuk ketentuan diatas, maka:\
-a. Disdukcapil tidak diperbolehkan mengubah data dalam KK dan KTP-el dari "Kawin Belum Tercatat" menjadi "Belum Kawin" hanya dengan berdasarkan keterangan yang bersangkutan bahwa pernikahannya tidak resmi/belum dicatatkan secara negara.
+1. Pasal 3 Ayat (1) dan Pasal 9 Undang-Undang Nomor 1 Tahun 1974;
+2. Pasal 8 Ayat (1) huruf a Undang-Undang Nomor 24 Tahun 2013;
+3. Pasal 38 ayat (1) dan ayat (2) Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019; dan
+4. Pasal 7 ayat (3) huruf a Kompilasi Hukum Islam.
 
-b. Untuk melakukan perubahan status perkawinan yang bersangkutan agar dapat menikah di KUA Kecamatan, terdapat dua opsi yang dapat dilakukan:
+Merujuk ketentuan diatas, maka:
 
-1. jika terdapat penetapan/putusan perceraian dari Pengadilan Agama yang diajukan melalui proses Itsbat Nikah sebagai bagian dari penyelesaian perceraian, Disdukcapil dapat mengubah status perkawinan yang bersangkutan menjadi "Cerai Hidup Tercatat", atau
-2. jika terdapat penetapan pengadilan yang menyatakan batal atau tidak sahnya perkawinan tersebut, Disdukcapil Kabupaten/Kota dapat mengembalikan status perkawinan yang bersangkutan ke status sebelumnya, atau mengesahkan perkawinan sebelumnya dan diikuti dengan penetapan tentang perceraian.
+1. Disdukcapil tidak diperbolehkan mengubah data dalam KK dan KTP-el dari "Kawin Belum Tercatat" menjadi "Belum Kawin" hanya dengan berdasarkan keterangan yang bersangkutan bahwa pernikahannya tidak resmi/belum dicatatkan secara negara.
+2. Untuk melakukan perubahan status perkawinan yang bersangkutan agar dapat menikah di KUA Kecamatan, terdapat dua opsi yang dapat dilakukan:
+   1. jika terdapat penetapan/putusan perceraian dari Pengadilan Agama yang diajukan melalui proses Itsbat Nikah sebagai bagian dari penyelesaian perceraian, Disdukcapil dapat mengubah status perkawinan yang bersangkutan menjadi "Cerai Hidup Tercatat", atau
+   2. jika terdapat penetapan pengadilan yang menyatakan batal atau tidak sahnya perkawinan tersebut, Disdukcapil Kabupaten/Kota dapat mengembalikan status perkawinan yang bersangkutan ke status sebelumnya, atau mengesahkan perkawinan sebelumnya dan diikuti dengan penetapan tentang perceraian.
 
 **Surat rujukan:**
 
@@ -369,8 +360,8 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pencatatan perkawinan sebelum berlakunya Undang-Undang Nomor 1 Tahun 1974 serta pada saat perkawinan agama masih dibawah umur?</summary>
 
-a. Berdasarkan Pasal 7 ayat (1) Undang-Undang Nomor 16 Tahun 2019, diatur bahwa Perkawinan hanya diizinkan apabila pria dan wanita sudah mencapai umur 19 (sembilan belas) tahun.\
-b. Selanjutnya, Surat Panitera Mahkamah Agung RI Nomor 231/PAN/HK.05/1/2019 tanggal 30 Januari 2019 hal Mohon penjelasan sebagaimana telah dijelaskan dalam surat Dirjen Dukcapil Nomor 472.2/3315/DUKCAPIL tanggal 3 Mei 2019 hal penjelasan masalah pencatatan sipil.
+1. Berdasarkan Pasal 7 ayat (1) Undang-Undang Nomor 16 Tahun 2019, diatur bahwa Perkawinan hanya diizinkan apabila pria dan wanita sudah mencapai umur 19 (sembilan belas) tahun.
+2. Selanjutnya, Surat Panitera Mahkamah Agung RI Nomor 231/PAN/HK.05/1/2019 tanggal 30 Januari 2019 hal Mohon penjelasan sebagaimana telah dijelaskan dalam surat Dirjen Dukcapil Nomor 472.2/3315/DUKCAPIL tanggal 3 Mei 2019 hal penjelasan masalah pencatatan sipil.
 
 Merujuk ketentuan di atas, apabila saat perkawinan agama masih dibawah umur dan hendak mencatatkan perkawinan setelah memenuhi syarat usia perkawinan mereka harus menikah ulang atau memperbaharui nikahnya (Tajdid Nikah) baru kemudian dicatat, atau dispensasi perkawinan ke pengadilan.
 
@@ -391,11 +382,11 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pencatatan perkawinan tanpa kehadiran salah satu pihak serta telah mempunyai penetapan pengadilan?</summary>
 
-a. Berdasarkan Pasal 6 ayat (2) huruf h Peraturan Pemerintah Nomor 9 Tahun 1975 tentang\
-pelaksanaan Undang-Undang Nomor 1 Tahun 1974 diatur bahwa pencatatan perkawinan tanpa kehadiran salah satu pihak dapat dilakukan dengan adanya Surat Kuasa Otentik.\
-b. Pasal 7 ayat (2) huruf l Undang-Undang Nomor 30 Tahun 2014 tentang Administrasi\
-Pemerintahan diatur bahwa Pejabat Pemerintahan memiliki kewajiban mematuhi putusan Pengadilan yang telah berkekuatan hukum tetap.\
-c. Merujuk ketentuan tersebut, maka pencatatan perkawinan berdasarkan putusan pengadilan dimaksud dapat dilaksanakan berdasarkan permohonan, walaupun salah satu pihak tidak hadir untuk menandatangani register akta perkawinan.
+1. Berdasarkan Pasal 6 ayat (2) huruf h Peraturan Pemerintah Nomor 9 Tahun 1975 tentang\
+   pelaksanaan Undang-Undang Nomor 1 Tahun 1974 diatur bahwa pencatatan perkawinan tanpa kehadiran salah satu pihak dapat dilakukan dengan adanya Surat Kuasa Otentik.
+2. Pasal 7 ayat (2) huruf l Undang-Undang Nomor 30 Tahun 2014 tentang Administrasi\
+   Pemerintahan diatur bahwa Pejabat Pemerintahan memiliki kewajiban mematuhi putusan Pengadilan yang telah berkekuatan hukum tetap.
+3. Merujuk ketentuan tersebut, maka pencatatan perkawinan berdasarkan putusan pengadilan dimaksud dapat dilaksanakan berdasarkan permohonan, walaupun salah satu pihak tidak hadir untuk menandatangani register akta perkawinan.
 
 Maka berdasarkan penetapan pengadilan yang berkekuatan hukum tetap telah mengesahkan perkawinan tersebut, Disdukcapil Kabupaten/Kota agar melaksanakan penetapan pengadilan dimaksud.
 
@@ -417,29 +408,25 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pencatatan perkawinan WNI dengan WNA yang tidak bisa hadir dikarenakan terkendala jarak?</summary>
 
-a. Berdasarkan Peraturan Pemerintah Nomor 9 Tahun 1975 pada:
-
-1. Pasal 11 ayat (1) diatur bahwa salah satu tata cara perkawinan antara lain kedua mempelai menandatangani akta perkawinan yang telah disiapkan oleh pegawai pencatat berdasarkan ketentuan yang berlaku.
-2. Pasal 6 ayat (2) huruf h diatur bahwa apabila salah seorang calon mempelai atau keduanya tidak dapat hadir sendiri karena alasan sesuatu yang penting sehingga mewakilkan kepada orang lain, pegawai pencatat meneliti Surat Kuasa Otentik yang disahkan oleh Pejabat Pencatatan Sipil.
-3. Pasal 12 huruf j diatur bahwa akta perkawinan memuat antara lain: Nama, Umur, Agama/Kepercayaan, Pekerjaan dan Tempat Kediaman Kuasa apabila perkawinan dilakukan melalui seorang Kuasa.
-
-b. Sesuai Peraturan Presiden Nomor 96 Tahun 2018:
-
-1. Pasal 37 ayat (1) diatur bahwa pencatatan perkawinan Penduduk WNI di Wilayah NKRI\
-   harus memenuhi persyaratan:
-   1. surat keterangan telah terjadinya perkawinan dari pemuka agama atau Penghayat Kepercayaan Terhadap Tuhan YME;
-   2. pas foto berwarna suami dan istri;
-   3. KK;
-   4. KTP-el; dan
-   5. bagi janda atau duda karena cerai mati melampirkan akta kematian pasangannya;
-   6. bagi janda atau duda karena cerai hidup melampirkan akta perceraian.
-2. Pasal 37 ayat (2) diatur bahwa pencatatan perkawinan Orang Asing di Wilayah NKRI harus memenuhi persyaratan:
-   1. surat keterangan telah terjadinya perkawinan dari pemuka agama atau Penghayat Kepercayaan Terhadap Tuhan YME;
-   2. pas foto berwarna suami dan istri;
-   3. Dokumen Perjalanan;
-   4. surat keterangan tempat tinggal bagi pemegang izin tinggal terbatas;
-   5. KK dan KTP-el bagi pemegang izin tinggal tetap; dan
-   6. izin dari negara atau perwakilan negaranya.
+1. Berdasarkan Peraturan Pemerintah Nomor 9 Tahun 1975 pada:
+   1. Pasal 11 ayat (1) diatur bahwa salah satu tata cara perkawinan antara lain kedua mempelai menandatangani akta perkawinan yang telah disiapkan oleh pegawai pencatat berdasarkan ketentuan yang berlaku.
+   2. Pasal 6 ayat (2) huruf h diatur bahwa apabila salah seorang calon mempelai atau keduanya tidak dapat hadir sendiri karena alasan sesuatu yang penting sehingga mewakilkan kepada orang lain, pegawai pencatat meneliti Surat Kuasa Otentik yang disahkan oleh Pejabat Pencatatan Sipil.
+   3. Pasal 12 huruf j diatur bahwa akta perkawinan memuat antara lain: Nama, Umur, Agama/Kepercayaan, Pekerjaan dan Tempat Kediaman Kuasa apabila perkawinan dilakukan melalui seorang Kuasa.
+2. Sesuai Peraturan Presiden Nomor 96 Tahun 2018:
+   1. Pasal 37 ayat (1) diatur bahwa pencatatan perkawinan Penduduk WNI di Wilayah NKRI harus memenuhi persyaratan:
+      1. surat keterangan telah terjadinya perkawinan dari pemuka agama atau Penghayat Kepercayaan Terhadap Tuhan YME;
+      2. pas foto berwarna suami dan istri;
+      3. KK;
+      4. KTP-el; dan
+      5. bagi janda atau duda karena cerai mati melampirkan akta kematian pasangannya;
+      6. bagi janda atau duda karena cerai hidup melampirkan akta perceraian.
+   2. Pasal 37 ayat (2) diatur bahwa pencatatan perkawinan Orang Asing di Wilayah NKRI harus memenuhi persyaratan:
+      1. surat keterangan telah terjadinya perkawinan dari pemuka agama atau Penghayat Kepercayaan Terhadap Tuhan YME;
+      2. pas foto berwarna suami dan istri;
+      3. Dokumen Perjalanan;
+      4. surat keterangan tempat tinggal bagi pemegang izin tinggal terbatas;
+      5. KK dan KTP-el bagi pemegang izin tinggal tetap; dan
+      6. izin dari negara atau perwakilan negaranya.
 
 Merujuk ketentuan di atas, maka pencatatan perkawinan dapat dilakukan setelah memenuhi persyaratan pencatatan perkawinan dan bagi mempelai laki-laki/wanita yang tidak dapat hadir membuat Surat Kuasa Otentik.
 
@@ -459,9 +446,10 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana jika perkawinan pertama tidak pernah dicatatkan ke Disdukcapil Kabupaten/Kota, sementara warga tersebut ingin menikah lagi dan mencatatkan perkawinan keduanya di Disdukcapil?<br>Dapatkah perkawinan keduanya diproses tanpa akta perceraian, terutama jika permohonan cerai mereka ditolak oleh Pengadilan karena tidak adanya akta perkawinan?</summary>
 
-Berdasarkan Peraturan Presiden Nomor 96 Tahun 2018:\
-a. Pasal 79 ayat (2) mengatur bahwa "Penerbitan Kartu Keluarga karena perubahan data untuk perceraian yang belum dicatatkan sebelum Peraturan Presiden ini berlaku tetapi status hubungan dalam Kartu Keluarga menunjukkan sebagai suami isteri dilaksanakan dengan persyaratan surat pernyataan tanggung jawab mutlak kebenaran data perceraian yang ditandatangani kedua belah pihak dengan diketahui oleh 2 (dua) orang saksi".\
-b. Pasal 79 Ayat (2) mengatur bahwa dapat dilakukan perubahan status kawin pada Kartu Keluarga, yang semula status "kawin belum tercatat" menjadi status "cerai hidup belum tercatat", dengan syarat kedua belah pihak menandatangani SPTJM Perceraian di atas materai dengan diketahui oleh 2 (dua) orang saksi. Perubahan status dalam Kartu Keluarga ini akan merubah status dalam KTPel yang bersangkutan menjadi "cerai".
+Berdasarkan Peraturan Presiden Nomor 96 Tahun 2018:
+
+1. Pasal 79 ayat (2) mengatur bahwa "Penerbitan Kartu Keluarga karena perubahan data untuk perceraian yang belum dicatatkan sebelum Peraturan Presiden ini berlaku tetapi status hubungan dalam Kartu Keluarga menunjukkan sebagai suami isteri dilaksanakan dengan persyaratan surat pernyataan tanggung jawab mutlak kebenaran data perceraian yang ditandatangani kedua belah pihak dengan diketahui oleh 2 (dua) orang saksi".
+2. Pasal 79 Ayat (2) mengatur bahwa dapat dilakukan perubahan status kawin pada Kartu Keluarga, yang semula status "kawin belum tercatat" menjadi status "cerai hidup belum tercatat", dengan syarat kedua belah pihak menandatangani SPTJM Perceraian di atas materai dengan diketahui oleh 2 (dua) orang saksi. Perubahan status dalam Kartu Keluarga ini akan merubah status dalam KTPel yang bersangkutan menjadi "cerai".
 
 Merujuk ketentuan di atas, apabila masingmasing pihak ingin mencatatkan perkawinan barunya, Disdukcapil Kabupaten/Kota dapat memproses permohonan tersebut dengan mendasarkan pada SPTJM Perceraian yang telah dibuat oleh yang bersangkutan, dengan disertai persyaratan lainnya sesuai dengan ketentuan peraturan perundangundangan.
 
@@ -482,14 +470,11 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pencantuman tanggal perkawinan pada Kartu Keluarga dan implikasi hukum pada status anak dari hasil perkawinan dengan status “kawin belum tercatat”?</summary>
 
-a. Berdasarkan Lampiran petunjuk teknis pengisian Formulir Biodata Keluarga (F-1.01) dan Formulir Pelaporan Pencatatan Sipil di dalam Wilayah NKRI (F-2.01) Permendagri Nomor 109 Tahun 2019, bahwa tanggal perkawinan diisi sesuai dengan tanggal pelaksanaan perkawinan menurut hukum agama atau kepercayaannya, sebagaimana tertera pada Akta Perkawinan atau pada SPTJM Perkawinan/Perceraian Belum Tercatat. Tanggal Perkawinan diisi dengan tanggal pemberkatan perkawinan.
-
-b. Bagi perkawinan secara Islam ditulis tanggal terjadinya akad nikah, sedangkan bagi perkawinan non-Islam ditulis tanggal terjadinya pemberkatan/perkawinan sah dihadapan Pemuka Agama/Penghayat Kepercayaan Terhadap Tuhan YME.
-
-c. Implikasi/akibat hukum pada status anak dari hasil perkawinan dengan status kawin belum tercatat, adalah:
-
-1. Status anak sebagai anak seorang ibu, atau
-2. Status anak dengan mencantumkan nama ayah dan ibu namu ada frasa _**“yang perkawinannya belum tercatat sesuai dengan peraturan perundang-undangan”**_.
+1. Berdasarkan Lampiran petunjuk teknis pengisian Formulir Biodata Keluarga (F-1.01) dan Formulir Pelaporan Pencatatan Sipil di dalam Wilayah NKRI (F-2.01) Permendagri Nomor 109 Tahun 2019, bahwa tanggal perkawinan diisi sesuai dengan tanggal pelaksanaan perkawinan menurut hukum agama atau kepercayaannya, sebagaimana tertera pada Akta Perkawinan atau pada SPTJM Perkawinan/Perceraian Belum Tercatat. Tanggal Perkawinan diisi dengan tanggal pemberkatan perkawinan.
+2. Bagi perkawinan secara Islam ditulis tanggal terjadinya akad nikah, sedangkan bagi perkawinan non-Islam ditulis tanggal terjadinya pemberkatan/perkawinan sah dihadapan Pemuka Agama/Penghayat Kepercayaan Terhadap Tuhan YME.
+3. Implikasi/akibat hukum pada status anak dari hasil perkawinan dengan status kawin belum tercatat, adalah:
+   1. Status anak sebagai anak seorang ibu, atau
+   2. Status anak dengan mencantumkan nama ayah dan ibu namu ada frasa _**“yang perkawinannya belum tercatat sesuai dengan peraturan perundang-undangan”**_.
 
 **Surat rujukan:**
 
@@ -508,11 +493,12 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pencantuman Pas Foto dalam Register Akta Perkawinan?</summary>
 
-Berdasarkan Pasal 37 ayat (1) Peraturan Presiden Nomor 96 Tahun 2018 diatur bahwa pemohon layanan pencatatan perkawinan melengkapi persyaratan Pas Foto berwarna suami istri. Pas foto berwarna suami istri dicantumkan dalam Register Akta Perkawinan sebagai berikut:\
-a. Pas foto terbaru berwarna suami istri dicantumkan di bawah tanda tangan istri (bawah Tengah);\
-b. Pas foto berwarna suami istri berdampingan dengan posisi istri sebelah kiri dan suami sebelah kanan;\
-c. Ukuran pas foto berwarna suami istri ukuran 6 x 4 cm;\
-d. Warna latar belakang pas foto suami istri bebas.
+Berdasarkan Pasal 37 ayat (1) Peraturan Presiden Nomor 96 Tahun 2018 diatur bahwa pemohon layanan pencatatan perkawinan melengkapi persyaratan Pas Foto berwarna suami istri. Pas foto berwarna suami istri dicantumkan dalam Register Akta Perkawinan sebagai berikut:
+
+1. Pas foto terbaru berwarna suami istri dicantumkan di bawah tanda tangan istri (bawah Tengah);
+2. Pas foto berwarna suami istri berdampingan dengan posisi istri sebelah kiri dan suami sebelah kanan;
+3. Ukuran pas foto berwarna suami istri ukuran 6 x 4 cm;
+4. Warna latar belakang pas foto suami istri bebas.
 
 **Surat rujukan:**
 
@@ -531,21 +517,18 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pencatatan perkawinan yang keabsahan surat keterangan telah terjadinya perkawinan dari pemuka agama yang telah diberhentikan oleh organisasinya?</summary>
 
-a. Berdasarkan Pasal 37 ayat (1) Peraturan Presiden Nomor 96 Tahun 2018, yang intinya mengatur bahwa Pencatatan Perkawinan dapat dilaksanakan setelah memenuhi persyaratan:
-
-1. surat keterangan telah terjadinya perkawinan dari pemuka agama atau Penghayat Kepercayaan Terhadap Tuhan YME;
-2. pas foto berwarna suami dan istri;
-3. KK;
-4. KTP-el; dan
-5. bagi janda atau duda karena cerai mati melampirkan akta kematian pasangannya; atau
-6. bagi janda atau duda karena cerai hidup melampirkan akta perceraian.
-
-b. Merujuk Pasal 63 Peraturan Presiden Nomor 96 Tahun 2018 dan Pasal 51 Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019, yang intinya mengatur bahwa pencatatan perkawinan dilaksanakan dengan tahapan yaitu:
-
-1. Pelaporan;
-2. verifikasi dan validasi;
-3. perekaman data; dan
-4. pencatatan dan/atau penerbitan dokumen.
+1. Berdasarkan Pasal 37 ayat (1) Peraturan Presiden Nomor 96 Tahun 2018, yang intinya mengatur bahwa Pencatatan Perkawinan dapat dilaksanakan setelah memenuhi persyaratan:
+   1. surat keterangan telah terjadinya perkawinan dari pemuka agama atau Penghayat Kepercayaan Terhadap Tuhan YME;
+   2. pas foto berwarna suami dan istri;
+   3. KK;
+   4. KTP-el; dan
+   5. bagi janda atau duda karena cerai mati melampirkan akta kematian pasangannya; atau
+   6. bagi janda atau duda karena cerai hidup melampirkan akta perceraian.
+2. Merujuk Pasal 63 Peraturan Presiden Nomor 96 Tahun 2018 dan Pasal 51 Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019, yang intinya mengatur bahwa pencatatan perkawinan dilaksanakan dengan tahapan yaitu:
+   1. Pelaporan;
+   2. verifikasi dan validasi;
+   3. perekaman data; dan
+   4. pencatatan dan/atau penerbitan dokumen.
 
 Memperhatikan ketentuan di atas, apabila dari hasil verifikasi dan validasi terdapat keraguan terhadap keabsahan surat keterangan telah terjadinya perkawinan dari pemuka agama, maka pencatatan perkawinannya hanya dapat dilakukan berdasarkan penetapan pengadilan.
 
@@ -567,7 +550,8 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana Tata Cara Pencatatan Perkawinan Bagi Penghayat Kepercayaan Terhadap Tuhan Yang Maha Esa?</summary>
 
-Berdasarkan Peraturan Pemerintah Nomor 40 Tahun 2019:\
+Berdasarkan Peraturan Pemerintah Nomor 40 Tahun 2019:
+
 a. Pasal 39, ayat:
 
 1. Perkawinan penghayat kepercayaan terhadap Tuhan YME dilakukan di hadapan pemuka penghayat kepercayaan terhadap Tuhan YME.
@@ -578,7 +562,7 @@ a. Pasal 39, ayat:
    Catatan:\
    Kementerian yang bidang tugasnya secara teknis membina organisasi penghayat kepercayaan terhadap Tuhan YME adalah Kementerian Pendidikan dan Kebudayaan.
 
-Pasal 40, ayat:
+b. Pasal 40, ayat:
 
 1. Pencatatan perkawinan penghayat kepercayaan terhadap Tuhan YME dilakukan di Disdukcapil Kabupaten/Kota atau UPT Disdukcapil Kabupaten/Kota paling lambat 60 (enam puluh) hari setelah dilakukan perkawinan dihadapan pemuka penghayat kepercayaan terhadap Tuhan YME.
 2. Pencatatan perkawinan penghayat kepercayaan terhadap Tuhan YME sebagaimana dimaksud pada ayat (1) dilakukan dengan ketentuan:
@@ -631,9 +615,8 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 Berdasarkan:
 
-a. Pasal 102 huruf b Undang-Undang Nomor 24 Tahun 2013, diatur bahwa semua kalimat “wajib dilaporkan oleh Penduduk kepada Instansi Pelaksana di tempat terjadinya peristiwa” sebagaimana dimaksud dalam Undang-Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan harus dimaknai “wajib dilaporkan oleh Penduduk di Instansi Pelaksana tempat Penduduk berdomisili”.
-
-b. Pasal 7 ayat (2) huruf l Undang-Undang Nomor 30 Tahun 2014 tentang Administrasi Pemerintahan diatur bahwa Pejabat Pemerintahan memiliki kewajiban mematuhi putusan Pengadilan yang telah berkekuatan hukum tetap.
+1. Pasal 102 huruf b Undang-Undang Nomor 24 Tahun 2013, diatur bahwa semua kalimat “wajib dilaporkan oleh Penduduk kepada Instansi Pelaksana di tempat terjadinya peristiwa” sebagaimana dimaksud dalam Undang-Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan harus dimaknai “wajib dilaporkan oleh Penduduk di Instansi Pelaksana tempat Penduduk berdomisili”.
+2. Pasal 7 ayat (2) huruf l Undang-Undang Nomor 30 Tahun 2014 tentang Administrasi Pemerintahan diatur bahwa Pejabat Pemerintahan memiliki kewajiban mematuhi putusan Pengadilan yang telah berkekuatan hukum tetap.
 
 Merujuk ketentuan di atas, maka pencatatan perkawinan tersebut dapat dilakukan berdasarkan permohonan salah satu pasangan suami istri di Disdukcapil, karena sudah ada penetapan dari Pengadilan Negeri yang telah berkekuatan hukum tetap.
 
@@ -659,28 +642,23 @@ Perkawinan pada usia anak menimbulkan dampak negatif bagi tumbuh kembang anak da
 
 Berdasarkan:
 
-a. Putusan Mahkamah Konstitusi Nomor 22/PUUXV 12017 mengenai perubahan atas ketentuan Pasal 7 Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan;
+1. Putusan Mahkamah Konstitusi Nomor 22/PUUXV 12017 mengenai perubahan atas ketentuan Pasal 7 Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan;
+2. Peraturan Presiden Nomor 96 Tahun 2018, Persyaratan pencatatan perkawinan WNI dalam wilayah NKRI:
+   1. Fotokopi surat keterangan telah terjadinya perkawinan dari pemuka agama atau Penghayat Kepercayaan Terhadap Tuhan Yang Maha Esa;
+   2. pas foto berwarna suami dan istri;
+   3. KTP-el Asli;
+   4. KK Asli;
+   5. bagi janda atau duda karena cerai mati melampirkan fotokopi akta kematian\
+      pasangannya; atau
+   6. bagi janda atau duda karena cerai hidup melampirkan fotokopi akta perceraian.
+3. Undang-Undang Nomor 16 Tahun 2019 tentang Perubahan Atas Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan, Pasal 7 mengamanatkan:
+   * Perkawinan hanya diizinkan apabila pria dan wanita sudah mencapai umur 19 (sembilan belas) tahun, dalam hal terjadi penyimpangan terhadap ketentuan umur, orang tua pihak pria dan/atau orang tua pihak wanita dapat meminta dispensasi kepada Pengadilan dengan alasan sangat mendesak disertai bukti-bukti pendukung yang cukup.
 
-b. Peraturan Presiden Nomor 96 Tahun 2018, Persyaratan pencatatan perkawinan WNI dalam wilayah NKRI:
-
-1. Fotokopi surat keterangan telah terjadinya perkawinan dari pemuka agama atau Penghayat Kepercayaan Terhadap Tuhan Yang Maha Esa;
-2. pas foto berwarna suami dan istri;
-3. KTP-el Asli;
-4. KK Asli;
-5. bagi janda atau duda karena cerai mati melampirkan fotokopi akta kematian\
-   pasangannya; atau
-6. bagi janda atau duda karena cerai hidup melampirkan fotokopi akta perceraian.
-
-c. Undang-Undang Nomor 16 Tahun 2019 tentang Perubahan Atas Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan, Pasal 7 mengamanatkan:
-
-* Perkawinan hanya diizinkan apabila pria dan wanita sudah mencapai umur 19 (sembilan belas) tahun, dalam hal terjadi penyimpangan terhadap ketentuan umur, orang tua pihak pria dan/atau orang tua pihak wanita dapat meminta dispensasi kepada Pengadilan dengan alasan sangat mendesak disertai bukti-bukti pendukung yang cukup.
-
-d. Alternatif solusi pencatatan perkawinan bagi perkawinan belum mencapai umur 19 (sembilan belas) tahun:
-
-1. Dispensasi perkawinan dari pengadilan;
-2. Menunggu sampai umur lebih dari 19 tahun untuk perkawinan kembali.\
-   Apabila dilakukan perkawinan kembali, maka konsekwensinya bagi anak-anaknya yang lahir sebelum perkawinan sah secara hukum Negara harus dilakukan pengesahan anak melalui pengadilan terkait dengan asal usul anak.
-3. pengesahan perkawinan melalui pengadilan sekaligus pengesahan anaknya
+1) Alternatif solusi pencatatan perkawinan bagi perkawinan belum mencapai umur 19 (sembilan belas) tahun:
+   1. Dispensasi perkawinan dari pengadilan;
+   2. Menunggu sampai umur lebih dari 19 tahun untuk perkawinan kembali.\
+      Apabila dilakukan perkawinan kembali, maka konsekwensinya bagi anak-anaknya yang lahir sebelum perkawinan sah secara hukum Negara harus dilakukan pengesahan anak melalui pengadilan terkait dengan asal usul anak.
+   3. pengesahan perkawinan melalui pengadilan sekaligus pengesahan anaknya
 
 **Sumber rujukan**:
 
@@ -700,24 +678,21 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pencantuman Status “Kawin Belum Tercatat” dalam Kartu Keluarga, khususnya bagi perkawinan belum mencapai umur 19 (sembilan belas) tahun?</summary>
 
-a. Berdasarkan Surat Dirjen Dukcapil Nomor 472.2/15145/DUKCAPIL tanggal 4 Nopember 2022, pada angka 3 disebutkan bahwa pemberlakuan SPTJM Perkawinan Belum Tercatat (F-1.05) tidak diperuntukkan untuk perkawinan dibawah umur (belum berusia 19 tahun).
-
-b. Hasil rapat antar Kementerian/Lembaga tentang Pembahasan Pasangan Menikah Yang Belum Memiliki Akta Kawin/Buku Nikah yang diselenggarakan pada tanggal 1 November 2021 di Hotel Bidakara Jakarta.
+1. Berdasarkan Surat Dirjen Dukcapil Nomor 472.2/15145/DUKCAPIL tanggal 4 Nopember 2022, pada angka 3 disebutkan bahwa **pemberlakuan SPTJM Perkawinan Belum Tercatat (F-1.05) tidak diperuntukkan untuk perkawinan dibawah umur (belum berusia 19 tahun)**.
+2. Hasil rapat antar Kementerian/Lembaga tentang Pembahasan Pasangan Menikah Yang Belum Memiliki Akta Kawin/Buku Nikah yang diselenggarakan pada tanggal 1 November 2021 di Hotel Bidakara Jakarta.
 
 Akibat hukum pemberlakuan SPTJM Perkawinan belum Tercatat (F-1.05) tidak diperuntukan untuk perkawinan dibawah umur (belum berusia 19 tahun):
 
-a. Status perkawinan pada Biodata, KK dan KTP-el tercantum belum kawin.\
-b. Status hukum pada akta kelahiran anaknya tercantum sebagai anak seorang ibu, karena orang tua tidak ada perkawinan (tidak memiliki buku nikah/akta perkawinan), dimana pada KK tidak menunjukkan hubungan pasangan suami istri (pada kolom ke 17 hanya tercantum nama ibunya saja).
+1. Status perkawinan pada Biodata, KK dan KTP-el tercantum belum kawin.
+2. Status hukum pada akta kelahiran anaknya tercantum sebagai anak seorang ibu, karena orang tua tidak ada perkawinan (tidak memiliki buku nikah/akta perkawinan), dimana pada KK tidak menunjukkan hubungan pasangan suami istri (pada kolom ke 17 hanya tercantum nama ibunya saja).
 
 Alternatif solusi pencatatan perkawinan bagi perkawinan belum mencapai umur 19 (sembilan\
-belas) tahun antara lain:\
-a. Dispensasi perkawinan dari pengadilan;
+belas) tahun antara lain:
 
-b. Menunggu sampai umur lebih dari 19 tahun untuk perkawinan kembali.\
-Apabila dilakukan perkawinan kembali, maka konsekwensinya bagi anak-anaknya yang lahir\
-sebelum perkawinan sah secara hukum Negara harus dilakukan pengesahan anak melalui pengadilan terkait dengan asal usul anak.
-
-c. pengesahan perkawinan melalui pengadilansekaligus pengesahan anaknya.
+1. Dispensasi perkawinan dari pengadilan;
+2. Menunggu sampai umur lebih dari 19 tahun untuk perkawinan kembali.\
+   Apabila dilakukan perkawinan kembali, maka konsekwensinya bagi anak-anaknya yang lahir sebelum perkawinan sah secara hukum Negara harus dilakukan pengesahan anak melalui pengadilan terkait dengan asal usul anak.
+3. pengesahan perkawinan melalui pengadilansekaligus pengesahan anaknya.
 
 **Sumber rujukan**:
 
@@ -735,14 +710,12 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Kenapa dalam Kartu Keluarga bisa tercantum status “Kawin Tidak Tercatat’ padahal ada akta kawin/buku nikah dan akta lahir anak disebutkan anak dari pasutri tersebut?</summary>
 
-a. Jika sudah memiliki akta perkawinan/buku nikah maka status perkawinan pada Kartu Keluarga tercantum “Kawin Tercatat”, dan jika tidak memiliki akta perkawinan/buku nikah namun sudah berkeluarga dapat mengisi SPTJM Perkawinan belum tercatat sehingga status perkawinan dalam Kartu Keluarga menjadi “Kawin Belum Tercatat”, sebagaimana diamanatkan dalam Pasal 10 ayat (2) Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 yang mengatur bahwa Penerbitan Kartu Keluarga Baru karena membentuk keluarga baru dilengkapi dengan syarat lainnya berupa surat pernyataan tanggung jawab mutlak perkawinan/perceraian belum tercatat.
-
-b. Sebagaimana diamanatkan dalam Pasal 48 Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 terkait dengan status hukum pada akta kelahiran, sebagai berikut:
-
-1. Status sebagai anak dari pasutri, jika memenuhi persyaratan antara lain buku nikah/kutipan akta perkawinan atau bukti lain yang sah;
-2. Status sebagai anak seorang ibu, jika tidak dapat memenuhi persyaratan berupa: buku nikah/kutipan akta perkawinan atau bukti lain yang sah dan status hubungan dalam keluarga pada Kartu Keluarga tidak menunjukan status hubungan perkawinan sebagai suami istri;
-3. Status sebagai anak pasutri dengan tambahan frasa “perkawinannya belum tercatat sesuai dengan peraturan perundang-undangan”, jika tidak dapat memenuhi persyaratan berupa: buku nikah/kutipan akta perkawinan atau bukti lain yang sah; dan status hubungan dalam keluarga pada Kartu Keluarga menunjukan status hubungan perkawinan sebagai suami istri;
-4. Status tanpa nama orangtua, bagi anak yang baru lahir atau baru ditemukan dan tidak diketahui asal usulnya atau keberadaan orangtuanya.
+1. Jika sudah memiliki akta perkawinan/buku nikah maka status perkawinan pada Kartu Keluarga tercantum “Kawin Tercatat”, dan jika tidak memiliki akta perkawinan/buku nikah namun sudah berkeluarga dapat mengisi SPTJM Perkawinan belum tercatat sehingga status perkawinan dalam Kartu Keluarga menjadi “Kawin Belum Tercatat”, sebagaimana diamanatkan dalam Pasal 10 ayat (2) Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 yang mengatur bahwa Penerbitan Kartu Keluarga Baru karena membentuk keluarga baru dilengkapi dengan syarat lainnya berupa surat pernyataan tanggung jawab mutlak perkawinan/perceraian belum tercatat.
+2. Sebagaimana diamanatkan dalam Pasal 48 Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 terkait dengan status hukum pada akta kelahiran, sebagai berikut:
+   1. Status sebagai anak dari pasutri, jika memenuhi persyaratan antara lain buku nikah/kutipan akta perkawinan atau bukti lain yang sah;
+   2. Status sebagai anak seorang ibu, jika tidak dapat memenuhi persyaratan berupa: buku nikah/kutipan akta perkawinan atau bukti lain yang sah dan status hubungan dalam keluarga pada Kartu Keluarga tidak menunjukan status hubungan perkawinan sebagai suami istri;
+   3. Status sebagai anak pasutri dengan tambahan frasa “perkawinannya belum tercatat sesuai dengan peraturan perundang-undangan”, jika tidak dapat memenuhi persyaratan berupa: buku nikah/kutipan akta perkawinan atau bukti lain yang sah; dan status hubungan dalam keluarga pada Kartu Keluarga menunjukan status hubungan perkawinan sebagai suami istri;
+   4. Status tanpa nama orangtua, bagi anak yang baru lahir atau baru ditemukan dan tidak diketahui asal usulnya atau keberadaan orangtuanya.
 
 **Sumber rujukan**:
 
@@ -798,10 +771,10 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pencatatan perkawinan tanpa dilengkapi persyaratan surat keterangan terjadinya perkawinan dari pemuka agama?</summary>
 
-Berdasarkan:\
-a. Pasal 36 Undang-Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan diatur bahwa dalam hal perkawinan tidak dapat dibuktikan dengan Akta Perkawinan, pencatatan perkawinan dilakukan setelah adanya penetapan pengadilan.
+Berdasarkan:
 
-b. Pasal 7 ayat (2) huruf l Undang-Undang Nomor 30 Tahun 2014 tentang Administrasi Pemerintahan menyebutkan bahwa Pejabat Pemerintahan memiliki kewajiban mematuhi putusan Pengadilan yang telah berkekuatan hukum tetap. maka permohonan pencatatan perkawinan tanpa dilengkapi surat keterangan terjadinya perkawinan dari pemuka agama, dapat dilakukan sesuai perintah penetapan pengadilan yang berkekuatan hukum tetap.
+1. Pasal 36 Undang-Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan diatur bahwa dalam hal perkawinan tidak dapat dibuktikan dengan Akta Perkawinan, pencatatan perkawinan dilakukan setelah adanya penetapan pengadilan.
+2. Pasal 7 ayat (2) huruf l Undang-Undang Nomor 30 Tahun 2014 tentang Administrasi Pemerintahan menyebutkan bahwa Pejabat Pemerintahan memiliki kewajiban mematuhi putusan Pengadilan yang telah berkekuatan hukum tetap. maka permohonan pencatatan perkawinan tanpa dilengkapi surat keterangan terjadinya perkawinan dari pemuka agama, dapat dilakukan sesuai perintah penetapan pengadilan yang berkekuatan hukum tetap.
 
 **Sumber rujukan**:
 
