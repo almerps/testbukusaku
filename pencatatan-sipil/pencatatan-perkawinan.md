@@ -27,7 +27,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana persyaratan dan tata cara pencatatan perkawinan bagi yang beragama selain islam di Indonesia?</summary>
 
-Persyaratan pencatatan perkawinan bagi yang beragama selain Islam diatur dalam Pasal 37 Peraturan Presiden Nomor 96 Tahun 2018 dan Pasal 50 ayat (2), ayat (3) dan ayat (4) Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2018 serta Surat Dirjen Dukcapil Nomor 470/13287/Dukcapil tanggal 28 September 2021 berupa:
+Persyaratan pencatatan perkawinan bagi yang beragama selain Islam diatur dalam Pasal 37 Peraturan Presiden Nomor 96 Tahun 2018 dan Pasal 50 ayat (2), ayat (3) dan ayat (4) Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 serta Surat Dirjen Dukcapil Nomor 470/13287/Dukcapil tanggal 28 September 2021 berupa:
 
 a. surat keterangan telah terjadinya perkawinan dari pemuka agama atau Penghayat Kepercayaan Terhadap Tuhan Yang Maha Esa;\
 b. pas foto berwarna suami dan istri;\
@@ -110,7 +110,7 @@ a. Persyaratan pelaporan pencatatan perkawinan WNI atau perkawinan WNI dengan Or
 
 b. Tata cara pelaporan pencatatan perkawinan WNI dan perkawinan WNI dengan Orang Asing yang telah dicatatkan pada instansi yang berwenang di negara setempat di Perwakilan Republik Indonesia, sebagai berikut:
 
-1. Pemohon mengisi dan menyerahkan Formulir Pelaporan Pencatatan Sipil di Dalam Wilayah NKRI dengan kode F-2.02 serta menyerahkan persyaratan.
+1. Pemohon mengisi dan menyerahkan Formulir Pelaporan Pencatatan Sipil di Luar Wilayah NKRI dengan kode F-2.02 serta menyerahkan persyaratan.
 2. Pejabat pada Perwakilan RI melakukan verifikasi dan validasi terhadap formulir pelaporan dan persyaratan.
 3. Petugas pada Perwakilan RI yang dapat mengakses basis data kependudukan melakukan perekaman data pelaporan ke dalam basis data kependudukan;
 4. Perwakilan RI mencatat laporan dalam daftar pelaporan dan menerbitkan surat keterangan pelaporan;
@@ -130,7 +130,7 @@ Perwakilan Republik Indonesia tidak menarik kutipan akta perkawinan dari negara 
 d. Tata cara pencatatan perkawinan WNI dan perkawinan WNI dengan Orang Asing di luar\
 negeri dalam hal negara setempat tidak menyelenggarakan pencatatan perkawinan bagi orang asing sebagai berikut:
 
-1. Pemohon mengisi dan menyerahkan Formulir Pelaporan Pencatatan Sipil di dalam Wilayah NKRI dengan kode F-2.02 serta menyerahkan persyaratan
+1. Pemohon mengisi dan menyerahkan Formulir Pelaporan Pencatatan Sipil di Luar Wilayah NKRI dengan kode F-2.02 serta menyerahkan persyaratan
 2. Pejabat pada Perwakilan Republik Indonesia melakukan verifikasi dan validasi terhadap formulir pelaporan dan persyaratan.
 3. Petugas pada Perwakilan Republik Indonesia yang dapat mengakses basis data kependudukan melakukan perekaman data pelaporan ke dalam basis data kependudukan.
 4. Pejabat pencatatan sipil pada Perwakilan Republik Indonesia mencatat dalam register akta perkawinan dan menerbitkan kutipan akta perkawinan.
