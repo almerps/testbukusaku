@@ -306,8 +306,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 2. Pasal 71 Undang-Undang Nomor 23 Tahun 2006   &#x20;diatur bahwa pembetulan akta pencatatan sipil   &#x20;hanya dilakukan untuk akta yang mengalami   &#x20;kesalahan tulis redaksional.
 3. Selanjutnya Pasal 4 ayat (4) Peraturan Menteri   &#x20;Dalam Negeri Nomor 73 Tahun 2022 diatur bahwa   &#x20;dalam hal penduduk melakukan pembetulan nama,   &#x20;pencatatan pembetulan nama termasuk bagian   &#x20;pembetulan dokumen kependudukan berdasarkan   &#x20;dokumen otentik yang menjadi dasar untuk   &#x20;pembetulan sesuai dengan ketentuan peraturan   &#x20;perundang-undangan.
 4.   Merujuk ketentuan tersebut di atas, disampaikan   &#x20;penjelasan sebagai berikut:
-   1. Perubahan nama pada akta pencatatan sipil      &#x20;termasuk akta kelahiran harus memenuhi      \
-      persyaratan salinan penetapan pengadilan      &#x20;negeri.
+   1. Perubahan nama pada akta pencatatan sipil      &#x20;termasuk akta kelahiran harus memenuhi      &#x20;persyaratan salinan penetapan pengadilan      &#x20;negeri.
    2. Pembetulan nama pada akta pencatatan sipil,      &#x20;dapat dilakukan tanpa penetapan pengadilan      &#x20;apabila ada dokumen otentik yang menjadi      &#x20;dasar pembetulan dan tidak berubah      &#x20;sepenuhnya/sama sekali. Pembetulan tersebut      &#x20;juga berlaku terhadap akta kelahiran yang      &#x20;diterbitkan terlebih dahulu dari pada ijazahnya.
 5. Merujuk Peraturan Menteri Pendidikan dan   &#x20;Kebudayaan Nomor 29 Tahun 2014 pada Lampiran   &#x20;Format 1 C dan Format 2 C, yang intinya diatur   &#x20;bahwa kesalahan penulisan ijazah/STTB dapat   &#x20;dilakukan perbaikan/pembetulan berdasarkan surat   &#x20;keterangan yang ditandatangani oleh Kepala Dinas   &#x20;Pendidikan Kabupaten/Kota dan/atau Kepala   &#x20;Sekolah.
 
