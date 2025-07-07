@@ -69,9 +69,7 @@ Untuk pelayanan online/Daring, persyaratan yang&#x20;discan/difoto untuk diungg
    1. WNI mengisi Formulir Pendaftaran      &#x20;Perpindahan Penduduk (F-1.03);
    2. WNI melampirkan fotokopi KK;
    3. Dalam hal WNI tidak dapat melampirkan KK,      &#x20;maka WNI dapat mengisi Formulir      \
-      Pendaftaran Perpindahan Penduduk (F-1.03)      &#x20;secara lengkap dengan meminta informasi      \
-      NIK dan Nomor KK ke Disdukcapil daerah      &#x20;tujuan. Disdukcapil daerah tujuan melakukan      \
-      pencarian data melalui SIAK Konsolidasi      &#x20;untuk mengetahui NIK dan Nomor KK;
+      Pendaftaran Perpindahan Penduduk (F-1.03)      &#x20;secara lengkap dengan meminta informasi      &#x20;NIK dan Nomor KK ke Disdukcapil daerah      &#x20;tujuan. Disdukcapil daerah tujuan melakukan      &#x20;pencarian data melalui SIAK Konsolidasi      &#x20;untuk mengetahui NIK dan Nomor KK;
    4. Dinas daerah tujuan membuat surat      &#x20;permohonan kepada Disdukcapil daerah asal      \
       agar melakukan penerbitan SKPWNI.      &#x20;Permohonan ini dengan melampirkan Formulir      \
       Pendaftaran Perpindahan Penduduk (F-1.03).
