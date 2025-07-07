@@ -31,8 +31,7 @@ Tata Cara Pencatatan Perceraian:
 * Pasal 40 Undang-Undang Nomor 23 Tahun  &#x20;2006 tentang Administrasi Kependudukan.([link](https://peraturan.go.id/id/uu-no-23-tahun-2006))
 * Pasal 43 Peraturan Presiden Nomor 96 Tahun  &#x20;2018 tentang Persyaratan dan Tata Cara  &#x20;Pendaftaran Penduduk dan Pencatatan Sipil.([link](https://peraturan.go.id/id/perpres-no-96-tahun-2018))
 * Pasal 57 Peraturan Menteri Dalam Negeri  &#x20;Nomor 108 Tahun 2019 tentang Peraturan  &#x20;Pelaksanaan Peraturan Presiden Nomor 96  &#x20;Tahun 2018 tentang Persyaratan dan Tata  &#x20;Cara Pendaftaran Penduduk dan Pencatatan  &#x20;Sipil.([link](https://peraturan.go.id/id/permendagri-no-108-tahun-2019))
-* Peraturan Menteri Dalam Negeri Nomor 109  &#x20;Tahun 2019 tentang Formulir dan Buku Yang  \
-  digunakan dalam Administrasi Kependudukan.([link](https://peraturan.go.id/id/permendagri-no-109-tahun-2019))
+* Peraturan Menteri Dalam Negeri Nomor 109  &#x20;Tahun 2019 tentang Formulir dan Buku Yang  &#x20;digunakan dalam Administrasi Kependudukan.([link](https://peraturan.go.id/id/permendagri-no-109-tahun-2019))
 * Keputusan Menteri Dalam Negeri Nomor  &#x20;400.8.2-5484/Dukcapil Tahun 2022 tentang  &#x20;Petunjuk Teknis Pelayanan Pencatatan Sipil.
 * Surat Dirjen Dukcapil yang ditujukan kepada  &#x20;Kepala Disdukcapil di Seluruh Indonesia  &#x20;Nomor 470/13287/Dukcapil tanggal 28  &#x20;September 2021 hal Jenis Layanan,  &#x20;Persyaratan dan Penjelasan Pendaftaran  &#x20;Penduduk dan Pencatatan Sipil.
 
