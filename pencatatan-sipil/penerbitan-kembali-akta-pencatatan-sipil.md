@@ -110,7 +110,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 Berdasarkan:
 
 1. Pasal 7 ayat (2) huruf l Undang-Undang Nomor 30   &#x20;Tahun 2014 tentang Administrasi Pemerintahan,   &#x20;bahwa pejabat pemerintahan memiliki kewajiban   &#x20;mematuhi putusan pengadilan yang telah   &#x20;berkekuatan hukum tetap.
-2. Pasal 52 ayat (1) Undang-Undang Nomor 23 Tahun   &#x20;2006, diatur bahwa pencatatan perubahan nama   &#x20;dilaksanakan berdasarkan penetapan pengadilan   &#x20;negeri tempat pemohon.
+2. Pasal 52 ayat (1) Undang-Undang Nomor 23 Tahun   &#x20;2006, diatur bahwa pencatatan perubahan nama dilaksanakan berdasarkan penetapan pengadilan   &#x20;negeri tempat pemohon.
 3. Pasal 33 Peraturan Pemerintah Nomor 40 Tahun   &#x20;2019, diatur bahwa dalam hal NIK yang tercantum   &#x20;pada KTP-el berbeda dengan NIK yang tercantum   &#x20;pada dokumen kependudukan dan/atau dokumen   &#x20;identitas lainnya yang diterbitkan oleh   &#x20;kementerian/lembaga atau badan hukum Indonesia,   &#x20;berlaku NIK yang tercantum pada KTP-el.
 
 Merujuk ketentuan di atas, identitas dalam dokumen&#x20;kependudukan dapat diubah berdasarkan Penetapan&#x20;Pengadilan yang telah berkekuatan hukum tetap.
