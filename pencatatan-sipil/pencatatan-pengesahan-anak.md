@@ -90,13 +90,13 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pencatatan pengesahan anak, domisili antar kedua orang tua atau anak berbeda?</summary>
 
-a. Berdasarkan Pasal 102 b Undang-Undang Nomor&#x20;24 Tahun 2013, intinya diatur bahwa pelayanan administrasi kependudukan dilaporkan oleh penduduk di Disdukcapil Kabupaten/Kota tempat penduduk berdomisili.
+1. Berdasarkan Pasal 102 b Undang-Undang Nomor   &#x20;24 Tahun 2013, intinya diatur bahwa pelayanan administrasi kependudukan dilaporkan oleh penduduk di Disdukcapil Kabupaten/Kota tempat penduduk berdomisili.\
+   \
+   Pencatatan pengesahan anak dilaksanakan di Disdukcapil Kabupaten/Kota tempat penduduk berdomisili. Apabila domisili antar kedua orang tua atau anak berbeda, maka   &#x20;pencatatan dapat dilaksanakan di salah satu domisili orang tua.\
+   \
+   Karena akta kelahiran anak yang bersangkutan   &#x20;diterbitkan oleh Disdukcapil Kabupaten/Kota A, sedangkan orang tuanya sudah menjadi penduduk Kabupaten/Kota B, maka pencatatan pengesahan anak   &#x20;dilaksanakan di   &#x20;Kabupaten/Kota B.   &#x20;Selanjutnya B,   &#x20;memberitahukan kepada Disdukcapil   &#x20;Kabupaten/Kota A untuk membuat catatan pinggir pengesahan anak tersebut pada register akta kelahiran dimaksud.\
 
-Pencatatan pengesahan anak dilaksanakan di Disdukcapil Kabupaten/Kota tempat penduduk berdomisili. Apabila domisili antar kedua orang tua atau anak berbeda, maka&#x20;pencatatan dapat dilaksanakan di salah satu domisili orang tua.
-
-Karena akta kelahiran anak yang bersangkutan&#x20;diterbitkan oleh Disdukcapil Kabupaten/Kota A, sedangkan orang tuanya sudah menjadi penduduk Kabupaten/Kota B, maka pencatatan pengesahan anak&#x20;dilaksanakan di&#x20;Kabupaten/Kota B.&#x20;Selanjutnya B,&#x20;memberitahukan kepada Disdukcapil&#x20;Kabupaten/Kota A untuk membuat catatan pinggir pengesahan anak tersebut pada register akta kelahiran dimaksud.
-
-b. Pasal 1 angka 39 Praturan Menteri Dalam Negeri&#x20;Nomor 19 Tahun 2010, disebutkan bahwa catatan pinggir diletakkan pada bagian pinggir akta atau bagian akta yang memungkinkan (di dalam/bagian muka atau belakang akta). Karena fotokopi kutipan akta kelahiran yang dilampirkan masih tersedia tempat yang cukup untuk membuat&#x20;catatan pinggir, yaitu di halaman depan sebelah kiri bawah serta pada halaman belakang sebelah kiri bawah dan di antara catatan pinggir sebelah kanan, Disdukcapil&#x20;Kabupaten/Kota&#x20;dapat membuat catatan pinggir pada tempat yang masih&#x20;tersedia tersebut.
+2. Pasal 1 angka 39 Praturan Menteri Dalam Negeri   &#x20;Nomor 19 Tahun 2010, disebutkan bahwa catatan pinggir diletakkan pada bagian pinggir akta atau bagian akta yang memungkinkan (di dalam/bagian muka atau belakang akta). Karena fotokopi kutipan akta kelahiran yang dilampirkan masih tersedia tempat yang cukup untuk membuat   &#x20;catatan pinggir, yaitu di halaman depan sebelah kiri bawah serta pada halaman belakang sebelah kiri bawah dan di antara catatan pinggir sebelah kanan, Disdukcapil   &#x20;Kabupaten/Kota   &#x20;dapat membuat catatan pinggir pada tempat yang masih   &#x20;tersedia tersebut.
 
 **Sumber rujukan:**&#x20;
 
@@ -115,17 +115,14 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pengesahan anak Penghayat Kepercayaan Terhadap Tuhan Yang Maha Esa (Kaharingan)?</summary>
 
-a. Berdasarkan Pasal 50 ayat (1) Undang Undang&#x20;Nomor 24 Tahun 2013, mengamanatkan bahwa pengesahan anak merupakan pengesahan status seorang anak yang lahir dari perkawinan yang telah sah menurut hukum agama, pada saat pencatatan perkawinan dari kedua orang tua anak&#x20;tersebut telah sah menurut hukum Negara.
-
-b. Merujuk Pasal 52 ayat (1) Peraturan Presiden&#x20;Nomor 96 Tahun 2018, yang pada intinya mengatur bahwa pencatatan pengesahan anak yang dilahirkan&#x20;sebelum orang&#x20;tuanya melaksanakan perkawinan sah menurut hukum&#x20;agama atau kepercayaan terhadap Tuhan YME dilakukan berdasarkan penetapan pengadilan.
-
-c. Sehubungan dengan ketentuan diatas, diberikan&#x20;penjelasan bahwa:
-
-1. Terhadap anak yang lahir dari perkawinan sah   &#x20;berdasarkan   &#x20;Penghayat   &#x20;Kepercayaan   &#x20;Terhadap Tuhan YME tetapi organisasi dan   &#x20;penghayat kepercayaan belum terdaftar dan tercatat pada kementerian yang membidangi kebudayaan maka status anak pada akta   &#x20;kelahiran adalah anak seorang ibu. Tetapi   &#x20;apabila dalam Kartu Keluarga status orang tua sudah menunjukkan hubungan pasangan suami isteri maka dapat juga dicantumkan nama ayahnya dengan penambahan frasa   &#x20;"perkawinannya belum tercatat sesuai dengan   &#x20;peraturan perundang-undangan.
-2. Terhadap anak yang dilahirkan sebelum   &#x20;organisasi   &#x20;dan pemuka penghayat   &#x20;kepercayaan terdaftar dan tercatat pada kementerian yang membidangi kebudayaan, dapat dilakukan pengesahan anak   &#x20;berdasarkan penetapan pengadilan.
-3. Pengesahan anak dari pasangan suami isteri   &#x20;penghayat kepercayaan dapat dilakukan pencatatan tanpa penetapan pengadilan, engan ketentuan:   \
-   a)   &#x20;anak lahir setelah perkawinan sah   &#x20;menurut   &#x20;Penghayat Kepercayaan Terhadap Tuhan YME; dan\
-   b)   &#x20;Organisasi dan pemuka penghayat yang   &#x20;berwenang untuk mengawinkan sudah terdaftar dan tercatat di kementerian yang membidangi kebudayaan.
+1. Berdasarkan Pasal 50 ayat (1) Undang Undang   &#x20;Nomor 24 Tahun 2013, mengamanatkan bahwa pengesahan anak merupakan pengesahan status seorang anak yang lahir dari perkawinan yang telah sah menurut hukum agama, pada saat pencatatan perkawinan dari kedua orang tua anak   &#x20;tersebut telah sah menurut hukum Negara.
+2. Merujuk Pasal 52 ayat (1) Peraturan Presiden   &#x20;Nomor 96 Tahun 2018, yang pada intinya mengatur bahwa pencatatan pengesahan anak yang dilahirkan   &#x20;sebelum orang   &#x20;tuanya melaksanakan perkawinan sah menurut hukum   &#x20;agama atau kepercayaan terhadap Tuhan YME dilakukan berdasarkan penetapan pengadilan.
+3. Sehubungan dengan ketentuan diatas, diberikan   &#x20;penjelasan bahwa:
+   1. Terhadap anak yang lahir dari perkawinan sah      &#x20;berdasarkan      &#x20;Penghayat      &#x20;Kepercayaan      &#x20;Terhadap Tuhan YME tetapi organisasi dan      &#x20;penghayat kepercayaan belum terdaftar dan tercatat pada kementerian yang membidangi kebudayaan maka status anak pada akta      &#x20;kelahiran adalah anak seorang ibu. Tetapi      &#x20;apabila dalam Kartu Keluarga status orang tua sudah menunjukkan hubungan pasangan suami isteri maka dapat juga dicantumkan nama ayahnya dengan penambahan frasa      &#x20;"perkawinannya belum tercatat sesuai dengan      &#x20;peraturan perundang-undangan.
+   2. Terhadap anak yang dilahirkan sebelum      &#x20;organisasi      &#x20;dan pemuka penghayat      &#x20;kepercayaan terdaftar dan tercatat pada kementerian yang membidangi kebudayaan, dapat dilakukan pengesahan anak      &#x20;berdasarkan penetapan pengadilan.
+   3. Pengesahan anak dari pasangan suami isteri      &#x20;penghayat kepercayaan dapat dilakukan pencatatan tanpa penetapan pengadilan, engan ketentuan:
+      1. anak lahir setelah perkawinan sah         &#x20;menurut         &#x20;Penghayat Kepercayaan Terhadap Tuhan YME; dan
+      2. Organisasi dan pemuka penghayat yang         &#x20;berwenang untuk mengawinkan sudah terdaftar dan tercatat di kementerian yang membidangi kebudayaan.
 
 **Sumber rujukan:**&#x20;
 
@@ -145,17 +142,15 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pencatatan pengesahan anak bagi perkawinan yang bapaknya/salah satu pasangan telah meninggal dunia?</summary>
 
-a. Berdasarkan Pasal 50 Undang-Undang Nomor 24&#x20;Tahun 2013 tentang perubahan atas Undang Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan, diatur bahwa setiap pengesahan anak wajib dilaporkan oleh orang tua kepada Instansi Pelaksana sejak ayah dan ibu dari&#x20;anak yang bersangkutan melakukan perkawinan dan pendapatkan akta perkawinan. Pengesahan&#x20;anak hanya berlaku bagi anak yang orangtuanya telah melaksanakan perkawinan sah menurut hukum agama dan hukum negara;
-
-b. Merujuk penjelasan di atas, maka pencatatan&#x20;pengesahan anak terhadap anak yang salah satu&#x20;orang tuanya telah meninggal dunia dan perkawinan orang tuanya telah disahkan oleh pengadilan, dapat dilaksanakan dengan\
-persyaratan sebagai berikut:
-
-1. kutipan akta kelahiran;
-2. fotokopi salinan penetapan pengadilan;
-3. fotokopi kutipan akta perkawinan;
-4. fotokopi Kartu Keluarga;
-5. fotokopi kutipan akta kematian orang tua;
-6. SPTJM kebenaran data sebagai anak sah   &#x20;dengan 2 (dua) orang saksi.
+1. Berdasarkan Pasal 50 Undang-Undang Nomor 24   &#x20;Tahun 2013 tentang perubahan atas Undang Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan, diatur bahwa setiap pengesahan anak wajib dilaporkan oleh orang tua kepada Instansi Pelaksana sejak ayah dan ibu dari   &#x20;anak yang bersangkutan melakukan perkawinan dan pendapatkan akta perkawinan. Pengesahan   &#x20;anak hanya berlaku bagi anak yang orangtuanya telah melaksanakan perkawinan sah menurut hukum agama dan hukum negara;
+2. Merujuk penjelasan di atas, maka pencatatan   &#x20;pengesahan anak terhadap anak yang salah satu   &#x20;orang tuanya telah meninggal dunia dan perkawinan orang tuanya telah disahkan oleh pengadilan, dapat dilaksanakan dengan   \
+   persyaratan sebagai berikut:
+   1. kutipan akta kelahiran;
+   2. fotokopi salinan penetapan pengadilan;
+   3. fotokopi kutipan akta perkawinan;
+   4. fotokopi Kartu Keluarga;
+   5. fotokopi kutipan akta kematian orang tua;
+   6. SPTJM kebenaran data sebagai anak sah      &#x20;dengan 2 (dua) orang saksi.
 
 Apabila perkawinan orangtuanya tidak dapat&#x20;dibuktikan dengan penetapan pengadilan maka pencatatan pengesahan anak tidak dapat dilakukan karena anak tersebut dilahirkan sebelum perkawinan sah menurut hukum agama dan kedua orang tuanya telah meninggal dunia sebagai pemohon dalam pencatatan pengesahan anak.
 
