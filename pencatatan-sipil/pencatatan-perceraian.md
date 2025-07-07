@@ -107,9 +107,10 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pelaporan pencatatan peristiwa perceraian di luar negeri setelah kembali ke Indonesia?</summary>
 
-Peristiwa perceraian di luar negeri setelah&#x20;kembali ke Indonesia dilaporkan oleh yang&#x20;bersangkutan&#x20;kepada&#x20;Kabupaten/Kota&#x20;Disdukcapil&#x20;atau UPT Disdukcapil&#x20;Kabupaten/Kota di tempat Penduduk berdomisli&#x20;paling lambat 30 (tiga puluh) hari sejak yang&#x20;bersangkutan kembali ke Indonesia, dengan&#x20;memenuhi persyaratan berupa:\
-a. bukti pelaporan perceraian dari Perwakilan RI;dan\
-b. kutipan akta perceraian.
+Peristiwa perceraian di luar negeri setelah&#x20;kembali ke Indonesia dilaporkan oleh yang&#x20;bersangkutan&#x20;kepada&#x20;Kabupaten/Kota&#x20;Disdukcapil&#x20;atau UPT Disdukcapil&#x20;Kabupaten/Kota di tempat Penduduk berdomisli&#x20;paling lambat 30 (tiga puluh) hari sejak yang&#x20;bersangkutan kembali ke Indonesia, dengan&#x20;memenuhi persyaratan berupa:
+
+1. bukti pelaporan perceraian dari Perwakilan RI;   &#x20;dan
+2. kutipan akta perceraian.
 
 Disdukcapil Kabupaten/Kota atau UPT&#x20;Disdukcapil Kabupaten/Kota merekam pelaporan&#x20;dalam basis data kependudukan dan menerbitkan&#x20;surat keterangan pelaporan.
 
