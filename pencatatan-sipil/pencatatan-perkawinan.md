@@ -381,8 +381,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 <summary>Bagaimana pencatatan perkawinan tanpa kehadiran salah satu pihak serta telah mempunyai penetapan pengadilan?</summary>
 
-1. Berdasarkan Pasal 6 ayat (2) huruf h Peraturan Pemerintah Nomor 9 Tahun 1975 tentang\
-   pelaksanaan Undang-Undang Nomor 1 Tahun 1974 diatur bahwa pencatatan perkawinan tanpa kehadiran salah satu pihak dapat dilakukan dengan adanya Surat Kuasa Otentik.
+1. Berdasarkan Pasal 6 ayat (2) huruf h Peraturan Pemerintah Nomor 9 Tahun 1975 tentang pelaksanaan Undang-Undang Nomor 1 Tahun 1974 diatur bahwa pencatatan perkawinan tanpa kehadiran salah satu pihak dapat dilakukan dengan adanya Surat Kuasa Otentik.
 2. Pasal 7 ayat (2) huruf l Undang-Undang Nomor 30 Tahun 2014 tentang Administrasi\
    Pemerintahan diatur bahwa Pejabat Pemerintahan memiliki kewajiban mematuhi putusan Pengadilan yang telah berkekuatan hukum tetap.
 3. Merujuk ketentuan tersebut, maka pencatatan perkawinan berdasarkan putusan pengadilan dimaksud dapat dilaksanakan berdasarkan permohonan, walaupun salah satu pihak tidak hadir untuk menandatangani register akta perkawinan.
@@ -685,8 +684,7 @@ Akibat hukum pemberlakuan SPTJM Perkawinan belum Tercatat (F-1.05) tidak diperun
 1. Status perkawinan pada Biodata, KK dan KTP-el tercantum belum kawin.
 2. Status hukum pada akta kelahiran anaknya tercantum sebagai anak seorang ibu, karena orang tua tidak ada perkawinan (tidak memiliki buku nikah/akta perkawinan), dimana pada KK tidak menunjukkan hubungan pasangan suami istri (pada kolom ke 17 hanya tercantum nama ibunya saja).
 
-Alternatif solusi pencatatan perkawinan bagi perkawinan belum mencapai umur 19 (sembilan\
-belas) tahun antara lain:
+Alternatif solusi pencatatan perkawinan bagi perkawinan belum mencapai umur 19 (sembilan belas) tahun antara lain:
 
 1. Dispensasi perkawinan dari pengadilan;
 2. Menunggu sampai umur lebih dari 19 tahun untuk perkawinan kembali.\
