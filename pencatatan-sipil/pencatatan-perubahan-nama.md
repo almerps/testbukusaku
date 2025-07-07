@@ -156,8 +156,7 @@ Dengan mengikuti prosedur-prosedur di atas,&#x20;perubahan dan pembetulan nama 
 
 * Undang-Undang Nomor 23 Tahun 2006; ([link](https://dukcapil.kemendagri.go.id/download/detail/1))
 * Peraturan Presiden Nomor 96 Tahun 2018; ([link](https://dukcapil.kemendagri.go.id/download/detail/14))
-* Peraturan Menteri Dalam Negeri Nomor 108 Tahun  \
-  2019; ([link](https://peraturan.bpk.go.id/Details/138582/permendagri-no-108-tahun-2019))
+* Peraturan Menteri Dalam Negeri Nomor 108 Tahun  &#x20;2019; ([link](https://peraturan.bpk.go.id/Details/138582/permendagri-no-108-tahun-2019))
 * Peraturan Menteri Dalam Negeri Nomor 73 Tahun 2022 tentang Pencatatan Nama pada Dokumen Kependudukan; ([link](https://peraturan.bpk.go.id/Details/210274/permendagri-no-73-tahun-2022))
 * Peraturan Menteri Pendidikan dan Kebudayaan  &#x20;Nomor 29 Tahun 2014 mengatur format surat keterangan kesalahan penulisan pada ijazah atau Surat Tanda Tamat Belajar (STTB);&#x20;
 * Surat Dirjen Dukcapil No. 400.8.1.2/10458/Dukcapil tgl 11 Juli 2023 kepada Kepala Dukcapil Kabupaten Blitar tentang Petunjuk Pembetulan Dokumen Administrasi Kependudukan.&#x20;
