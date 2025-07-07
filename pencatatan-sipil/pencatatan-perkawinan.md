@@ -105,6 +105,7 @@ Perkawinan WNI atau perkawinan WNI dengan Orang Asing di luar negeri dicatatkan 
    1. kutipan akta perkawinan/bukti pencatatan perkawinan dari negara setempat.
    2. dokumen perjalanan Republik Indonesia dari suami dan istri, dan Dokumen Perjalanan bagi Orang Asing.
    3. surat keterangan yang menunjukkan domisili atau surat keterangan pindah luar negeri.\
+      \
       Catatan:\
       Perwakilan RI tidak menarik kutipan akta perkawinan dari negara setempat asli atau dokumen perjalanan Republik Indonesia dari suami dan istri atau dokumen perjalanan bagi orang asing atau surat keterangan yang menunjukkan domisili atau surat keterangan pindah luar negeri berupa fotokopi, asli hanya diperlihatkan. WNI tidak perlu fotokopi KTP el 2 (dua) orang saksi karena identitasnya sudah tercantum dalam Formulir Pelaporan Pencatatan Sipil di Dalam Wilayah NKRI (F-2.02).
 2. Tata cara pelaporan pencatatan perkawinan WNI dan perkawinan WNI dengan Orang Asing yang telah dicatatkan pada instansi yang berwenang di negara setempat di Perwakilan Republik Indonesia, sebagai berikut:
@@ -114,16 +115,14 @@ Perkawinan WNI atau perkawinan WNI dengan Orang Asing di luar negeri dicatatkan 
    4. Perwakilan RI mencatat laporan dalam daftar pelaporan dan menerbitkan surat keterangan pelaporan;
    5. Surat keterangan pelaporan diberikan kepada Pemohon.
 3. Persyaratan pencatatan perkawinan WNI dan perkawinan dengan Orang Asing di luar negeri dalam hal negara setempat tidak menyelenggarakan pencatatan perkawinan bagi Orang Asing, berupa:
-   1. surat keterangan telah terjadinya perkawinan dari pemuka agama atau penghayat kepercayaan terhadap Tuhan Yang Maha Esa atau Fotokopi surat keterangan terjadinya\
-      perkawinan di negara setempat.
+   1. surat keterangan telah terjadinya perkawinan dari pemuka agama atau penghayat kepercayaan terhadap Tuhan Yang Maha Esa atau Fotokopi surat keterangan terjadinya perkawinan di negara setempat.
    2. Dokumen Perjalanan Republik Indonesia suami dan istri atau Dokumen Perjalanan bagi\
       orang asing.
    3. surat keterangan yang menunjukkan domisili atau surat keterangan pindah luar negeri.\
       \
       Catatan:\
       Perwakilan Republik Indonesia tidak menarik kutipan akta perkawinan dari negara setempat asli atau surat keterangan terjadinya perkawinan di negara setempat atau dokumen perjalanan Republik Indonesia atau dokumen perjalanan bagi Orang Asing atau surat keterangan yang menunjukkan domisili atau surat keterangan pindah luar negeri asli berupa fotokopi, asli hanya diperlihatkan, WNI tidak perlu fotokopi KTP-el 2 (dua) orang saksi karena identitasnya sudah tercantum dalam Formulir Pelaporan Pencatatan Sipil di Dalam Wilayah NKRI (F-2.02).
-4. Tata cara pencatatan perkawinan WNI dan perkawinan WNI dengan Orang Asing di luar\
-   negeri dalam hal negara setempat tidak menyelenggarakan pencatatan perkawinan bagi orang asing sebagai berikut:
+4. Tata cara pencatatan perkawinan WNI dan perkawinan WNI dengan Orang Asing di luar negeri dalam hal negara setempat tidak menyelenggarakan pencatatan perkawinan bagi orang asing sebagai berikut:
    1. Pemohon mengisi dan menyerahkan Formulir Pelaporan Pencatatan Sipil di Luar Wilayah NKRI dengan kode F-2.02 serta menyerahkan persyaratan
    2. Pejabat pada Perwakilan Republik Indonesia melakukan verifikasi dan validasi terhadap formulir pelaporan dan persyaratan.
    3. Petugas pada Perwakilan Republik Indonesia yang dapat mengakses basis data kependudukan melakukan perekaman data pelaporan ke dalam basis data kependudukan.
