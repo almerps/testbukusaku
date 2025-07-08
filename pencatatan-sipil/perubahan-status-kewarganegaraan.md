@@ -92,9 +92,9 @@ Dasar hukum yang mengatur mengenai anak berkewarganegaraan ganda di Indonesia ad
 
 1. Anak yang lahir dari perkawinan Anak yang lahir dari perkawinan yang sah dari seorang ayah Warga negara Indonesia dan ibu warga negara asing atau sebaliknya, anak yang lahir diluar perkawinan yang sah dari seorang ibu warga negara asing yang diakui oleh seorang ayah Warga Negara Indonesia sebagai anaknya dan pengakuan itu dilakukan sebelum anak   &#x20;tersebut 18 (delapan belas) tahun atau belum kawin serta anak yang dilahirkan di luar wilayah negara Republik Indonesia dari seorang ayah dan ibu Warga Negara Indonesia yang karena ketentuan dari negara tempat anak tersebut dilahirkan memberikan kewarganegaraan kepada anak yang bersangkutan, adalah Warga Negara Indonesia;
 2. Anak Warga Negara Indonesia yang lahir di luar perkawinan yang sah, belum berusia 18 (delapan belas) tahun dan belum kawin diakui secara sah oleh ayahnya yang berkewarganegaraan asing tetap diakui sebagai Warga Negara Indonesia;
-3. Anak Warga Negara Indonesia yang belum berusia 5 (lima) tahun diangkat secara sah sebagai anak oleh warga negara asing berdasarkan penetapan pengadilan tetap diakui sebagai Warga Negara Indonesia. \
-   \
-   **Sumber rujukan:**
+3. Anak Warga Negara Indonesia yang belum berusia 5 (lima) tahun diangkat secara sah sebagai anak oleh warga negara asing berdasarkan penetapan pengadilan tetap diakui sebagai Warga Negara Indonesia.&#x20;
+
+**Sumber rujukan:**
 
 * Undang-Undang Nomor 12 Tahun 2006 tentang Kewarganegaraan Republik Indonesia
 * Peraturan Pemerintah Nomor 21 Tahun 2022 tentang Perubahan Atas Peraturan Pemerintah Nomor 2 Tahun 2007 mengenai Tata Cara Memperoleh, Kehilangan,  &#x20;Pembatalan, dan Memperoleh Kembali Kewarganegaraan Republik Indonesia
