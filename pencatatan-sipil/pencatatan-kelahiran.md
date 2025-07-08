@@ -145,8 +145,8 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 Berdasarkan Peraturan Menteri Dalam Negeri Nomor 109 Tahun 2019, pada lampirannya mengenai keterangan Formulasi Kalimat dalam Register Akta Kelahiran angka 18 diatur bahwa _**“nama dan tanda tangan pelapor, dikecualikan bagi pencatatan kelahiran secara online tidak diperlukan tanda tangan pelapor”**_.
 
-Merujuk ketentuan tersebut, maka untuk&#x20;pelayanan pencatatan kelahiran secara daring/online, tidak diperlukan tanda tangan pelapor pada register akta kelahiran. Selanjutnya, apabila penduduk sudah dapat mencetak kutipan akta kelahiran secara mandiri, tidak perlu datang ke Disdukcapil.\
-\
+Merujuk ketentuan tersebut, maka untuk&#x20;pelayanan pencatatan kelahiran secara daring/online, tidak diperlukan tanda tangan pelapor pada register akta kelahiran. Selanjutnya, apabila penduduk sudah dapat mencetak kutipan akta kelahiran secara mandiri, tidak perlu datang ke Disdukcapil.
+
 **Sumber rujukan:**\
 Peraturan Menteri Dalam Negeri Nomor 109 Tahun 2019 tentang Formulir dan Buku yang Digunakan Dalam Administrasi Kependudukan.
 
