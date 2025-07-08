@@ -651,8 +651,7 @@ Berdasarkan:
    6. bagi janda atau duda karena cerai hidup melampirkan fotokopi akta perceraian.
 3. Undang-Undang Nomor 16 Tahun 2019 tentang Perubahan Atas Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan, Pasal 7 mengamanatkan:
    * Perkawinan hanya diizinkan apabila pria dan wanita sudah mencapai umur 19 (sembilan belas) tahun, dalam hal terjadi penyimpangan terhadap ketentuan umur, orang tua pihak pria dan/atau orang tua pihak wanita dapat meminta dispensasi kepada Pengadilan dengan alasan sangat mendesak disertai bukti-bukti pendukung yang cukup.
-
-1) Alternatif solusi pencatatan perkawinan bagi perkawinan belum mencapai umur 19 (sembilan belas) tahun:
+4. Alternatif solusi pencatatan perkawinan bagi perkawinan belum mencapai umur 19 (sembilan belas) tahun:
    1. Dispensasi perkawinan dari pengadilan;
    2. Menunggu sampai umur lebih dari 19 tahun untuk perkawinan kembali.\
       Apabila dilakukan perkawinan kembali, maka konsekwensinya bagi anak-anaknya yang lahir sebelum perkawinan sah secara hukum Negara harus dilakukan pengesahan anak melalui pengadilan terkait dengan asal usul anak.
