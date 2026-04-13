@@ -14,13 +14,7 @@ Berdasarkan ketentuan Pasal 61 ayat (3) Undang-Undang Nomor 23 Tahun 2006, bahwa
 
 Pasal 61 ayat (3) Undang-Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan. ([link](https://dukcapil.kemendagri.go.id/download/detail/1))
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -38,13 +32,7 @@ Setiap kepala keluarga wajib memiliki KK, meskipun kepala keluarga tersebut masi
 
 Pasal 61 ayat (1) pada lampiran Undang-Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan. ([link](https://dukcapil.kemendagri.go.id/download/detail/1))
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -59,13 +47,7 @@ Dalam hal ibu sambung sebagai kepala keluarga dari anak sambung/anak tiri terseb
 
 Petunjuk pengisian Kartu Keluarga pada Peraturan Menteri Dalam Negeri Nomor 109 Tahun 2019 tentang Formulir dan Buku Yang Digunakan dalam Administrasi Kependudukan. ([link](https://peraturan.bpk.go.id/Details/138575/permendagri-no-109-tahun-2019))
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -79,13 +61,7 @@ Sehubungan dengan hal tersebut, untuk pekerjaan PPPK menggunakan jenis pekerjaan
 
 Peraturan Menteri Dalam Negeri Nomor 109 Tahun 2019 tentang Formulir dan Buku Yang Digunakan dalam Administrasi Kependudukan. ([link](https://peraturan.bpk.go.id/Details/138575/permendagri-no-109-tahun-2019))
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -97,13 +73,7 @@ Untuk memastikan ahli waris tetap dapat menerima bantuan sosial (Bansos) setelah
 
 Rapat Koordinasi Nasional Kependudukan dan Pencatatan Sipil Tahun 2024, Batam, 27 s.d. 29 Februari 2024.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -115,13 +85,7 @@ Ya, SPTJM F.1-05 sebaiknya digunakan untuk pasangan dalam Kartu Keluarga yang st
 
 Rapat Koordinasi Nasional Kependudukan dan Pencatatan Sipil Tahun 2024, Batam, 27 s.d. 29 Februari 2024.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -154,13 +118,7 @@ Dengan mengikuti langkah-langkah tersebut dapat mencetak dokumen KK dan KIA seca
 
 Rapat Koordinasi Nasional Kependudukan dan Pencatatan Sipil Tahun 2024, Batam, 27 s.d. 29 Februari 2024.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -177,9 +135,5 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 * Pasal 66 ayat (1) dan ayat (2) Peraturan Presiden Nomor 96 Tahun 2018. ([link](https://dukcapil.kemendagri.go.id/download/detail/14))
 * Surat Dirjen Dukcapil kepada Kepala Disdukcapil Kota Tomohon Nomor 400.8.2.15/3670/Dukcapil Tgl 20 Maret 2024 Hal Penyampaian arahan atas permasalahan penerbitan dokumen kependudukan.
-
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
 
 </details>
