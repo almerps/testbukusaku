@@ -9,10 +9,7 @@
 * [Kartu Tanda Penduduk Eletronik](pendaftaran-penduduk/kartu-tanda-penduduk-eletronik.md)
 * [Penduduk Rentan](pendaftaran-penduduk/penduduk-rentan.md)
 * [Pindah Datang](pendaftaran-penduduk/pindah-datang.md)
-
-***
-
-* [Penduduk Non Permanen](penduduk-non-permanen.md)
+* [Penduduk Non Permanen](pendaftaran-penduduk/penduduk-non-permanen.md)
 
 ## Pencatatan Sipil
 
@@ -25,7 +22,7 @@
 * [Pencatatan Perceraian](pencatatan-sipil/pencatatan-perceraian.md)
 * [Pencatatan Pembatalan Perceraian](pencatatan-sipil/pencatatan-pembatalan-perceraian.md)
 * [Pencatatan Pengangkatan Anak](pencatatan-sipil/pencatatan-pengangkatan-anak.md)
-* [Pencatatan  Pengakuan Anak](pencatatan-sipil/pencatatan-pengakuan-anak.md)
+* [Pencatatan Pengakuan Anak](pencatatan-sipil/pencatatan-pengakuan-anak.md)
 * [Pencatatan Pengesahan Anak](pencatatan-sipil/pencatatan-pengesahan-anak.md)
 * [Pencatatan Perubahan Nama](pencatatan-sipil/pencatatan-perubahan-nama.md)
 * [Perubahan Status Kewarganegaraan](pencatatan-sipil/perubahan-status-kewarganegaraan.md)

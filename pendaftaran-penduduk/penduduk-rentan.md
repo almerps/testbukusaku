@@ -20,13 +20,7 @@ Berdasarkan Bab III Pasal 9 dan Pasal 11 Peraturan Menteri Dalam Negeri Nomor 96
 
 Bab II Pasal 9 dan Pasal 11 Peraturan Menteri Dalam Negeri Nomor 96 Tahun 2019 tentang Pendataan dan Penerbitan Dokumen Kependudukan Bagi Penduduk Rentan Administrasi Kependudukan. ([link](https://peraturan.bpk.go.id/Details/138602/permendagri-no-96-tahun-2019))
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -50,13 +44,7 @@ Berdasarkan Bab IV Pasal 13 Peraturan Menteri Dalam Negeri Nomor 96 Tahun 2019, 
 
 Bab IV Pasal 13 Peraturan Menteri Dalam Negeri Nomor 96 Tahun 2019 tentang Pendataan dan Penerbitan Dokumen Kependudukan Bagi Penduduk Rentan Administrasi Kependudukan. ([link](https://peraturan.bpk.go.id/Details/138602/permendagri-no-96-tahun-2019))
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -69,13 +57,7 @@ Pada waktu penduduk mengisi Formulir Biodata Keluarga (F-1.01) untuk mendapatkan
 * Pasal 14 Peraturan Menteri Dalam Negeri Nomor 96 Tahun 2019 tentang Pendataan dan Penerbitan Dokumen Kependudukan Rentan Adminduk. ([link](https://peraturan.bpk.go.id/Details/138602/permendagri-no-96-tahun-2019))
 * Lampiran Peraturan Menteri Dalam Negeri Nomor 109 Tahun 2019 tentang Formulir dan Buku Yang Digunakan Dalam Administrasi Kependudukan. ([link](https://peraturan.bpk.go.id/Details/138575/permendagri-no-109-tahun-2019))
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -94,13 +76,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 Pasal 16 Peraturan Menteri Dalam Negeri Nomor 96 Tahun 2019 tentang Pendataan dan Penerbitan Dokumen Kependudukan Rentan Adminduk. ([link](https://peraturan.bpk.go.id/Details/138602/permendagri-no-96-tahun-2019))
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -120,9 +96,4 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 Pasal 21 Peraturan Menteri Dalam Negeri Nomor 96 Tahun 2019 tentang Pendataan dan Penerbitan Dokumen Kependudukan Bagi Penduduk Rentan Administrasi Kependudukan. ([link](https://peraturan.bpk.go.id/Details/138602/permendagri-no-96-tahun-2019))
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
