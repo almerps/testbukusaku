@@ -22,13 +22,7 @@ Tata cara:
 
 Pasal 15 Peraturan Presiden Nomor 96 Tahun 2018 tentang Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil. ([link](https://dukcapil.kemendagri.go.id/download/detail/14))
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -49,13 +43,7 @@ Tata cara:
 
 Pasal 16 Peraturan Presiden Nomor 96 Tahun 2018 tentang Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil. ([link](https://dukcapil.kemendagri.go.id/download/detail/14))
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -67,13 +55,7 @@ Berdasarkan ketentuan Pasal 64 Ayat 8 UndangUndang Nomor 24 Tahun 2013, bahwa se
 
 Pasal 64 Ayat 8 Undang-Undang Nomor 24 Tahun 2013 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan. ([link](https://dukcapil.kemendagri.go.id/download/detail/3))
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -92,13 +74,7 @@ Hal tersebut dapat dilakukan apabila tidak terdapat perubahan elemen data kepend
 
 Pasal 15 Peraturan Menteri Dalam Negeri Nomor 8 Tahun 2016 tentang Perubahan Kedua Atas Peraturan Menteri Dalam Negeri Nomor 9 Tahun 2011 tentang Pedoman Penerbitan Kartu Tanda Penduduk Berbasis Nomor Induk Kependudukan Secara Nasional. ([link](https://dukcapil.kemendagri.go.id/download/detail/47))
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -116,13 +92,7 @@ Perbedaan:
 * Pasal 64 Undang-Undang Nomor 24 Tahun 2013 tentang Perubahan atas Undang-Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan. ([link](https://dukcapil.kemendagri.go.id/download/detail/3))
 * Lampiran II standar dan spesifikasi blangko kartu tanda penduduk elektronik pada Peraturan Menteri Dalam Negeri Nomor 72 Tahun 2022 tentang Standar dan Spesifikasi Perangkat Kerasa, Perangkat Lunak, dan Blangko Kartu Tanda Penduduk Elektronik serta Penyelenggaraan Identitas Kependudukan Digital. ([link](https://peraturan.bpk.go.id/Details/247759/permendagri-no-72-tahun-2022))
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -138,13 +108,7 @@ Berdasarkan ketentuan Pasal 13 Peraturan Menteri Dalam Negeri Nomor 74 Tahun 201
 
 Pasal 13 Peraturan Menteri Dalam Negeri Nomor 74 Tahun 2015 tentang Tata Cara Perubahan Elemen Data Penduduk Dalam Kartu Tanda Penduduk Elektronik. ([link](https://dukcapil.kemendagri.go.id/download/detail/43))
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -156,13 +120,7 @@ Untuk mencegah pencetakan ulang KTP-el yang berulang kali dengan alasan hilang, 
 
 Rapat Koordinasi Nasional Kependudukan dan Pencatatan Sipil Tahun 2024, Batam, 27 s.d. 29 Februari 2024.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -174,13 +132,7 @@ Sebaiknya perbankan juga melakukan verifikasi menggunakan card reader dan Perjan
 
 Rapat Koordinasi Nasional Kependudukan dan Pencatatan Sipil Tahun 2024, Batam, 27 s.d. 29 Februari 2024.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -196,9 +148,5 @@ Ketentuan ini sesuai dengan Undang-Undang 23 Tahun 2006 Pasal 5 huruf f, di mana
 **Sumber rujukan:**
 
 Rapat Koordinasi Nasional Kependudukan dan Pencatatan Sipil Tahun 2024, Batam, 27 s.d. 29 Februari 2024.
-
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
 
 </details>
