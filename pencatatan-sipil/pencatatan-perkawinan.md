@@ -15,13 +15,7 @@ Pencatatan perkawinan dilakukan oleh 2 (dua) lembaga yang berbeda. Pencatatan pe
 * Pasal 8 ayat (1) dan ayat (2) Undang-Undang Nomor 24 Tahun 2013 tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan. ([link](https://peraturan.go.id/id/uu-no-24-tahun-2013))
 * Pasal 2 ayat (1) Peraturan Pemerintah Nomor 9 Tahun 1975 tentang Pelaksanaan Undang-undang Nomor 1 Tahun 1974 tentang Perkawinan. ([link](https://peraturan.go.id/id/pp-no-9-tahun-1975))
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -62,13 +56,7 @@ Kutipan akta perkawinan disampaikan kepada pemohon beserta dokumen kependudukan 
 * Keputusan Menteri Dalam Negeri Nomor 400.8.2-5484.Dukcapil Tahun 2022 tentang Petunjuk Teknis Pelayanan Pencatatan Sipil.
 * Surat Dirjen Dukcapil Nomor 470/13287/Dukcapil tanggal 28 September 2021 tentang Jenis Layanan, Persyaratan dan Penjelasan Pendaftaran Penduduk dan Pencatatan Sipil.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -87,13 +75,7 @@ keterangan terjadinya perkawinan dari pemuka agama, maka pencatatan perkawinanny
 * Pasal 51 Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 tentang Peraturan Pelaksanaan Peraturan Presiden Nomor 96 Tahun 2018 tentang Persyaratan Dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil. ([link](https://peraturan.go.id/id/permendagri-no-108-tahun-2019))
 * Surat Dirjen Dukcapil Nomor 400.8.2.9/14010/Dukcapil tanggal 22 September 2023 tentang Pencatatan Perkawinan kpd Kadis Dukcapil Kab. Bogor.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -138,13 +120,7 @@ Perkawinan WNI atau perkawinan WNI dengan Orang Asing di luar negeri dicatatkan 
 * Keputusan Menteri Dalam Negeri Nomor 400.8.2-5484.Dukcapil Tahun 2022 tentang Petunjuk Teknis Pelayanan Pencatatan Sipil.
 * Surat Dirjen Dukcapil yang ditujukan kepada Kepala Dinas Dukcapil di Seluruh Indonesia Nomor 470/13287/Dukcapil tanggal 28 September 2021 hal Jenis Layanan, Persyaratan dan Penjelasan Pendaftaran Penduduk dan Pencatatan Sipil.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -168,13 +144,7 @@ Pelaporan hasil pencatatan peristiwa penting tersebut dengan persyaratan berupa 
 * Keputusan Menteri Dalam Negeri Nomor 400.8.2-5484.Dukcapil Tahun 2022 tentang Petunjuk Teknis Pelayanan Pencatatan Sipil.
 * Surat Dirjen Dukcapil yang ditujukan kepada Kepala Dinas Dukcapil di Seluruh Indonesia Nomor 470/13287/Dukcapil tanggal 28 September 2021 hal Jenis Layanan, Persyaratan dan Penjelasan Pendaftaran Penduduk dan Pencatatan Sipil.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -189,13 +159,7 @@ Apabila salah satu calon pasangan perkawinan merupakan WNI, maka surat izin ters
 * Pasal 37 ayat (2) huruf g Peraturan Presiden Nomor 96 Tahun 2018 tentang Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil.
 * Surat Dirjen Dukcapil Nomor 472.45/5593/DUKCAPIL tanggal 29 Juli 2019 kpd Kepala Disdukcapil Provinsi Sumatera Utara.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -214,13 +178,7 @@ Merujuk ketentuan di atas, maka permohonan pelaporan pencatatan perkawinan WNI d
 * Pasal 97 ayat (3) dan ayat (4) Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 tentang Peraturan Pelaksanaan Peraturan Presiden Nomor 96 Tahun 2018 tentang Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil.
 * Surat Dirjen Dukcapil No. 472.2/17257/Dukcapil Tanggal 10 Nov 2022 kpd Kepala Disdukcapil Kab. Trenggalek.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -237,13 +195,7 @@ Memperhatikan ketentuan di atas, maka permohonan pencatatan perkawinan antara in
 * Pasal 7 ayat (2) huruf I Undang-Undang Nomor 30 Tahun 2014 tentang Administrasi Pemerintahan.
 * Surat Dirjen Dukcapil No. 472.2/15608/Dukcapil tanggal 10 Oktober 2022 kpd Kadis Disdukcapil Kab. Magelang.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -260,13 +212,7 @@ Merujuk ketentuan di atas, maka permohonan pelaporan perkawinan beda agama dari 
 * Pasal 97 ayat (1) dan ayat (2) Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 tentang Peraturan Pelaksanaan Peraturan Presiden Nomor 96 Tahun 2018 tentang Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil.
 * Surat Dirjen Dukcapil Nomor 472.2/16767/DUKCAPIL tanggal 1 November 2022 kpd Kepala Disdukcapil Prov DKI Jakarta.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -286,13 +232,7 @@ Memperhatikan ketentuan di atas, maka pencatatan perkawinan dapat dilakukan sete
 * Pasal 37 ayat (1) Peraturan Presiden Nomor 96 Tahun 2018 tentang Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil.
 * Surat Dirjen Dukcapil No. 472.2/12129/DUKCAPIL tanggal 2 Agusustus 2022 kpd Kadis Dukcapil Kab Pakpak Bharat.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -316,13 +256,7 @@ Merujuk ketentuan diatas, maka:
 
 Surat Dirjen Dukcapil No. 472.2/9172/DUKCAPIL tgl 3 Juni 2022 kpd Kepala Disdukcapil Kab. Trenggalek.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -343,17 +277,10 @@ Merujuk Pasal 50 ayat (2) Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 ba
 **Surat rujukan:**
 
 * Pasal 37 ayat (1) Peraturan Presiden Nomor 96 Tahun 2018 tentang Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil.
-
-- Pasal 50 ayat (2) Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 tentang Peraturan Pelaksanaan Peraturan Presiden Nomor 96 Tahun 2018 tentang Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil.
-- Surat Dirjen Dukcapil No. 472.11/16842/DUKCAPIL tanggal 8 Desember 2021 kpd Kadisdukcapil Kota Malang.
-
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
+* Pasal 50 ayat (2) Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 tentang Peraturan Pelaksanaan Peraturan Presiden Nomor 96 Tahun 2018 tentang Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil.
+* Surat Dirjen Dukcapil No. 472.11/16842/DUKCAPIL tanggal 8 Desember 2021 kpd Kadisdukcapil Kota Malang.
 
 </details>
-
-
 
 <details>
 
@@ -369,13 +296,7 @@ Merujuk ketentuan di atas, apabila saat perkawinan agama masih dibawah umur dan 
 * Pasal 7 ayat (1) Undang-Undang Nomor 16 Tahun 2019 tentang Perubahan Atas Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan.
 * Surat Dirjen Dukcapil No. 471/5501/DUKCAPIL Tgl 24 Juli 2019 kpd Kadis Dukcapil Kota Tangerang.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -394,13 +315,7 @@ Maka berdasarkan penetapan pengadilan yang berkekuatan hukum tetap telah mengesa
 * Surat Dirjen Dukcapil No. 472.2/2056/DUKCAPIL tanggal 11 Februari 2020 kpd Kadis Dukcapil Kota Medan.
 * Surat Dirjen Dukcapil No. 400.8.2.9/51/DUKCAPIL tanggal 3 Januari 2024 kpd Kadis Dukcapil Kab. Bogor.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -432,13 +347,7 @@ Merujuk ketentuan di atas, maka pencatatan perkawinan dapat dilakukan setelah me
 
 Surat Dirjen Dukcapil Nomor 472.2/6931/Dukcapil tgl 6 Juli 2020 kpd Dirjen Protokol dan Konsuler Kementerian Luar Negeri.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -456,13 +365,7 @@ Merujuk ketentuan di atas, apabila masingmasing pihak ingin mencatatkan perkawin
 * Pasal 79 ayat (2) Peraturan Presiden Nomor 96 Tahun 2018 tentang Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil.
 * Surat Dirjen Dukcapil No. 472.2/7153/Dukcapil Tgl 23 Sept 2019 kpd Kepala Disdukcapil Kab. Lombok Barat.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -479,13 +382,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 * Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 tentang Peraturan Pelaksanaan Peraturan Presiden Nomor 96 Tahun 2018 tentang Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil.
 * Peraturan Menteri Dalam Negeri Nomor 109 Tahun 2019 tentang Formulir dan Buku Yang Digunakan Dalam Administrasi Kependudukan.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -503,13 +400,7 @@ Berdasarkan Pasal 37 ayat (1) Peraturan Presiden Nomor 96 Tahun 2018 diatur bahw
 * Pasal 37 ayat (1) Peraturan Presiden Nomor 96 Tahun 2018 tentang Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil.
 * Surat Dirjen Dukcapil No. 472.2/8501/Dukcapil Tgl 19 Agustus 2020 kpd Kepala Disdukcapil Provinsi dan Kabupaten/Kota.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -536,13 +427,7 @@ Memperhatikan ketentuan di atas, apabila dari hasil verifikasi dan validasi terd
 * Pasal 51 Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 tentang Peraturan Pelaksanaan Peraturan Presiden Nomor 96 Tahun 2018 tentang Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil.
 * Surat Dirjen Dukcapil No. 400.8.2.9/14010/Dukcapil Tgl 22 september 2023 kpd Kepala Disdukcapil Kab. Bogor.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -578,13 +463,7 @@ b. Pasal 40, ayat:
 
 Pasal 39 dan Pasal 40 Peraturan Pemerintah Nomor 40 Tahun 2019 tentang Pelaksanaan UndangUndang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan sebagaimana telah diubah dengan Undang-Undang Nomor 24 Tahun 2013 tentang Perubahan Atas Undang-Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -599,13 +478,7 @@ Berdasarkan Pasal 3 Peraturan Pemerintah Nomor 9 Tahun 1975, ayat:
 
 Pasal 3 ayat (1) dan ayat (2) Peraturan Pemerintah Nomor 9 Tahun 1975 tentang Pelaksanaan UndangUndang Nomor 1 Tahun 1974 tentang Perkawinan.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -624,13 +497,7 @@ Merujuk ketentuan di atas, maka pencatatan perkawinan tersebut dapat dilakukan b
 * Pasal 7 ayat (2) huruf I Undang-Undang Nomor 30 Tahun 2014 tentang Administrasi Pemerintahan.
 * Surat Dirjen Dukcapil No. 400.8.2.7/6023/Dukcapil tgl 28 Maret 2023 kpd Kepala Disdukcapil Kota Medan.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -663,13 +530,7 @@ Berdasarkan:
 * Peraturan Presiden Nomor 96 Tahun 2018 tentang Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil.
 * Surat Dirjen Dukcapil yang ditujukan kepada Kepala Dinas Dukcapil di Seluruh Indonesia Nomor 470/13287/Dukcapil tanggal 28 September 2021 hal Jenis Layanan, Persyaratan dan Penjelasan Pendaftaran Penduduk dan Pencatatan Sipil.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -694,13 +555,7 @@ Alternatif solusi pencatatan perkawinan bagi perkawinan belum mencapai umur 19 (
 
 Surat Dirjen Dukcapil yang ditujukan kepada Kepala Dinas Dukcapil di Seluruh Indonesia Nomor 472.2/15145/DUKCAPIL tanggal 4 Nopember 2022 hal Petunjuk Pencatuman Status Kawin Belum Tercatat dalam Kartu Keluarga.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -717,13 +572,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 Pasal 10 ayat (2) dan Pasal 48 Peraturan Menteri Dalam Negeri Nomor 108 Tahun 2019 tentang Peraturan Pelaksanaan Peraturan Presiden Nomor 96 Tahun 2018 tentang Persyaratan dan Tata Cara Pendaftaran Penduduk dan Pencatatan Sipil.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -737,13 +586,7 @@ Status kawin belum tercatat pada Kartu Keluarga belum dapat dijadikan persyarata
 
 Surat Dirjen Dukcapil yang ditujukan kepada Kepala Dinas Dukcapil di Seluruh Indonesia Nomor 472.2/15145/DUKCAPIL tanggal 4 Nopember 2022 hal Petunjuk Pencatuman Status Kawin Belum Tercatat dalam Kartu Keluarga.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -755,13 +598,7 @@ Terkait dengan status perkawinan penduduk yang melakukan pindah agama, merujuk k
 
 Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -778,13 +615,7 @@ Berdasarkan:
 * Pasal 7 ayat (2) huruf l Undang-Undang Nomor 30 Tahun 2014 tentang Administrasi Pemerintahan
 * Surat Dirjen Dukcapil Nomor 400.8.2.7/12163/DUKCAPIL tanggal 18 Agustus 2023 kpd Kepala Dinas Dukcapil Kota Medan.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -795,9 +626,5 @@ Boleh. Perkawinan beda agama yang telah memiliki akta perkawinan meskipun diterb
 **Sumber rujukan**:
 
 Rapat Koordinasi Nasional Kependudukan dan Pencatatan Sipil Tahun 2024, Batam, 27 s.d. 29 Februari 2024
-
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
 
 </details>
