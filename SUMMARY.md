@@ -9,7 +9,7 @@
 * [Kartu Tanda Penduduk Eletronik](pendaftaran-penduduk/kartu-tanda-penduduk-eletronik.md)
 * [Penduduk Rentan](pendaftaran-penduduk/penduduk-rentan.md)
 * [Pindah Datang](pendaftaran-penduduk/pindah-datang.md)
-* [Penduduk Non Permanen](pendaftaran-penduduk/penduduk-non-permanen.md)
+* [Penduduk Non Permanen](penduduk-non-permanen.md)
 
 ## Pencatatan Sipil
 
