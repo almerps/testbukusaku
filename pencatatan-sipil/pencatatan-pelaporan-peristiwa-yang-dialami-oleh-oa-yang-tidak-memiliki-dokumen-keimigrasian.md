@@ -20,8 +20,4 @@ Merujuk ketentuan di atas. persyaratan yang harus dipenuhi dalam penerbitan Sura
 * Peraturan Menteri Dalam Negeri Nomor 109 Tahun 2019 tentang Formulir dan Buku Yang Digunakan dalam Administrasi Kependudukan. ([link](https://peraturan.go.id/id/permendagri-no-109-tahun-2019))
 * Keputusan Menteri Dalam Negeri Nomor 400.8.2-5484.Dukcapil Tahun 2022 tentang Petunjuk Teknis Pelayanan Pencatatan Sipil.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>

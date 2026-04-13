@@ -28,13 +28,7 @@ Disdukcapil Kabupaten/Kota atau UPT Disdukcapil Kabupaten/Kota memberikan catata
 * Keputusan Menteri Dalam Negeri Nomor 400.8.2- 5484.Dukcapil Tahun 2022 tentang Petunjuk Teknis Pelayanan Pencatatan Sipil.
 * Surat Dirjen Dukcapil yang ditujukan kepada Kepala Dinas Dukcapil di Seluruh Indonesia Nomor 470/13287/Dukcapil tanggal 28 September 2021 hal Jenis Layanan, Persyaratan dan Penjelasan Pendaftaran Penduduk dan Pencatatan Sipil.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -47,9 +41,5 @@ Selanjunya Pejabat Pencatatan Sipil membuat catatan pinggir perubahan peristiwa 
 **Sumber rujukan:**
 
 Lampiran Surat Dirjen Dukcapil yang ditujukan kepada Kepala Dinas Dukcapil di Seluruh Indonesia Nomor 470/13287/Dukcapil tanggal 28 September 2021 hal Jenis Layanan, Persyaratan dan Penjelasan Pendaftaran Penduduk dan Pencatatan Sipil.
-
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
 
 </details>
