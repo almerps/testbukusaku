@@ -35,13 +35,7 @@ Untuk pelayanan online/daring, persyaratan yang discan/difoto untuk diunggah har
   Nomor 470/13287/DUKCAPIL tgl 28 September 2021 hal Jenis Layanan, Persyaratan dan\
   Penjelasan Pendaftaran Penduduk dan Pencatatan Sipil.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -53,13 +47,7 @@ Berdasarkan ketentuan Pasal 33 Peraturan Pemerintah Nomor 40 Tahun 2019, bahwa d
 
 Pasal 33 Peraturan Pemerintah Nomor 40 Tahun 2019 tentang Pelaksanaan Undang-Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan sebagaimana telah diubah dengan Undang-Undang Nomor 24 Tahun 2013 tentang perubahan atas Undang-Undang Nomor 23 Tahun 2006 tentang Administrasi Kependudukan. ([link](https://dukcapil.kemendagri.go.id/download/detail/7))
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -67,13 +55,7 @@ Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
 
 Berdasarkan ketentuan Pasal 30 ayat (2) Peraturan Pemerintah Nomor 40 Tahun 2019, bahwa NIK berlaku seumur hidup dan selamanya tidak berubah, dan tidak mengikuti perubahan domisili. ([link](https://dukcapil.kemendagri.go.id/download/detail/7))
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -85,13 +67,7 @@ Tidak perlu mengubah data pada dokumen kependudukan calon jamaah haji. Data yang
 
 Rapat Koordinasi Nasional Kependudukan dan Pencatatan Sipil Tahun 2024, Batam, 27 s.d. 29 Februari 2024.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -103,13 +79,7 @@ Untuk meningkatkan persentase IKD (Identitas Kependudukan Digital) agar sesuai t
 
 Rapat Koordinasi Nasional Kependudukan dan Pencatatan Sipil Tahun 2024, Batam, 27 s.d. 29 Februari 2024.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -121,13 +91,7 @@ Untuk menindaklanjuti data tersebut, dapat mengajukan permohonan penonaktifan da
 
 Rapat Koordinasi Nasional Kependudukan dan Pencatatan Sipil Tahun 2024, Batam, 27 s.d. 29 Februari 2024.
 
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
-
 </details>
-
-
 
 <details>
 
@@ -138,9 +102,5 @@ Benar, semua kabupaten/kota harus dituliskan "Kabupaten" atau "Kota" pada dokume
 **Sumber rujukan:**
 
 Rapat Koordinasi Nasional Kependudukan dan Pencatatan Sipil Tahun 2024, Batam, 27 s.d. 29 Februari 2024.
-
-{% hint style="success" %}
-Dibuat:  23 Juni 2025 10:00 WIB | Perubahan terakhir: 23 Juni 2025 10:00 WIB
-{% endhint %}
 
 </details>
